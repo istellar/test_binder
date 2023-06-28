@@ -1,0 +1,2001 @@
+applicant_id,name,name_first,name_last,address_full,state,zip_code,dob,age,fico,loan_to_value,gender,occupation,loan_term,rate_type,denied
+10000,Brian Smith,Brian,Smith,"3687 Cynthia Fall
+North Lisa, MH 04169",MH,04169,1966-03-13,57,683.0,44.19,male,lawyer,30,FIXED,0
+10001,Amber Thomas,Amber,Thomas,"939 Pena Plains Suite 270
+Nixonmouth, ND 25711",ND,25711,1971-08-30,51,803.0,45.94,female,plumber,30,FIXED,0
+10002,Amanda Miller,Amanda,Miller,"112 Harrison Parkway Suite 659
+Deckerview, CO 06977",CO,06977,1965-09-10,57,790.0,36.86,female,teacher,30,FIXED,0
+10003,Pamela Wheeler,Pamela,Wheeler,"0617 Murphy Crossing
+Jacobsbury, WI 04868",WI,04868,1973-07-26,49,337.0,92.44,female,student,30,FIXED,1
+10004,Emily Martinez,Emily,Martinez,"06663 Smith Trail Apt. 533
+Garzaview, NY 01466",NY,01466,1972-09-03,50,354.0,91.16,female,salesman,30,FIXED,1
+10005,Mr. Jason Murphy,Jason,Murphy,"802 Shelley Trafficway
+South Angela, MN 82107",MN,82107,1987-04-21,36,489.0,60.77,male,plumber,30,FIXED,1
+10006,Catherine Shaffer,Catherine,Shaffer,"PSC 2098, Box 5691
+APO AA 45065",AA,45065,1986-12-26,36,425.0,63.06,female,electrician,30,FIXED,1
+10007,Alexander Prince,Alexander,Prince,"937 Robert Street
+Laurafort, GU 70436",GU,70436,1984-06-11,38,759.0,35.16,male,retired,30,FIXED,0
+10008,Larry Petersen,Larry,Petersen,"65291 Lewis Fall
+Gomezstad, VT 12226",VT,12226,1967-06-17,55,794.0,36.27,male,software developer,30,FIXED,0
+10009,Danny Lewis,Danny,Lewis,"684 Robinson Mountain
+New Jessicaside, CA 06627",CA,06627,1997-01-11,26,475.0,79.63,male,accountant,30,FIXED,1
+10010,James Haynes,James,Haynes,"19797 Kerry Path
+Johnsonfort, CA 05907",CA,05907,1951-09-20,71,539.0,68.76,male,librarian,30,FIXED,1
+10011,David Goodwin,David,Goodwin,"2877 Sean Turnpike Apt. 653
+West Richard, AR 62251",AR,62251,1951-04-22,72,555.0,74.96,male,accountant,30,FIXED,0
+10012,Marissa Wu,Marissa,Wu,"886 Joseph Point
+Lindseyville, NJ 09530",NJ,09530,1985-04-30,37,728.0,67.06,female,salesman,30,FIXED,0
+10013,Steven Martin,Steven,Martin,"44234 Aaron Ways Apt. 066
+Sanchezside, VT 39379",VT,39379,1954-10-17,68,778.0,36.75,male,student,15,FIXED,0
+10014,Theresa Garcia,Theresa,Garcia,"PSC 7308, Box 5006
+APO AP 38834",AP,38834,1971-12-21,51,445.0,77.16,female,student,30,FIXED,1
+10015,Michael Johnson,Michael,Johnson,"93693 Ryan Burg
+Robertstad, CT 05968",CT,05968,1959-04-20,64,622.0,61.19,male,teacher,30,FIXED,1
+10016,Anthony Cooke,Anthony,Cooke,"6053 Reid Brooks
+Romeromouth, OH 02080",OH,02080,1972-12-24,50,749.0,40.39,male,fireman,30,FIXED,0
+10017,Brandon Phillips,Brandon,Phillips,"11759 Casey Mission Apt. 483
+South Rachel, TN 21514",TN,21514,1950-06-12,72,806.0,15.45,male,retired,30,FIXED,0
+10018,Scott Mccullough,Scott,Mccullough,"9790 Cobb Manor Apt. 484
+Port Samantha, FM 66507",FM,66507,1961-11-08,61,341.0,80.18,male,electrician,30,FIXED,1
+10019,John Luna,John,Luna,"408 Caitlin Lodge Suite 192
+Robinsonhaven, VA 03149",VA,03149,2001-01-10,22,800.0,35.47,male,salesman,30,FIXED,0
+10020,George Perez,George,Perez,"28526 Fields Underpass Apt. 646
+Cantrellberg, NM 04864",NM,04864,1970-04-28,52,347.0,84.76,male,salesman,30,FIXED,1
+10021,Diane Hanna,Diane,Hanna,"03930 Mary Common Apt. 053
+New Brandonberg, AZ 99270",AZ,99270,1957-10-21,65,501.0,55.23,female,salesman,30,FIXED,1
+10022,Cassandra Todd,Cassandra,Todd,"Unit 4290 Box 4593
+DPO AP 04248",AP,04248,1968-07-20,54,618.0,69.73,female,salesman,30,FIXED,0
+10023,Richard Barnes,Richard,Barnes,"12100 Williams Mews
+Patriciaview, SC 65290",SC,65290,1974-02-10,49,782.0,40.18,male,accountant,30,FIXED,0
+10024,Christian Jones,Christian,Jones,"15773 Kimberly Centers Suite 785
+Port Alex, PR 21003",PR,21003,1959-07-26,63,468.0,88.41,male,dentist,30,FIXED,1
+10025,Andrea Graham,Andrea,Graham,"63123 Reyes Mountains
+Lake Ericaborough, UT 13892",UT,13892,1973-12-22,49,595.0,43.65,female,salesman,30,FIXED,1
+10026,Toni Wise,Toni,Wise,"485 Wesley Vista
+Port Timothy, MH 82448",MH,82448,1977-10-28,45,538.0,57.28,male,student,15,FIXED,1
+10027,Kathy Randall,Kathy,Randall,"207 April Springs
+East Christopher, TN 31159",TN,31159,1951-11-27,71,805.0,28.91,female,teacher,30,FIXED,0
+10028,Susan Werner,Susan,Werner,"453 Melissa Ports
+Claytonstad, PR 01054",PR,01054,1973-07-07,49,803.0,30.38,female,nurse,30,FIXED,1
+10029,Ryan Taylor,Ryan,Taylor,"203 Kristina Stravenue Suite 496
+Thompsonmouth, GA 38864",GA,38864,1954-03-29,69,787.0,29.25,male,electrician,30,FIXED,0
+10030,Tracey Walker,Tracey,Walker,"0763 Shaun Branch Suite 526
+West Michelle, AL 38391",AL,38391,1974-01-27,49,532.0,55.0,female,librarian,30,FIXED,1
+10031,Rodney Ford,Rodney,Ford,"1154 Joseph Trail
+East Nicole, SD 61562",SD,61562,1951-10-19,71,392.0,80.87,male,stockbroker,30,FIXED,1
+10032,Louis Murray,Louis,Murray,"1197 Nicole Spring Apt. 369
+Lake Charlestown, IA 75985",IA,75985,1957-08-24,65,789.0,12.75,male,retired,30,FIXED,0
+10033,Kristin Robbins,Kristin,Robbins,"8409 Mills Prairie
+Richshire, MI 29425",MI,29425,1984-07-31,38,812.0,28.29,female,salesman,30,FIXED,0
+10034,Amy Bailey,Amy,Bailey,"PSC 5775, Box 4547
+APO AE 18220",AE,18220,1995-01-01,28,355.0,85.4,female,electrician,30,FIXED,1
+10035,Jason Gomez,Jason,Gomez,"80064 Johnston Mountains Apt. 717
+New Sarah, CO 74035",CO,74035,1975-08-30,47,648.0,55.56,male,accountant,30,FIXED,0
+10036,Daniel Carr,Daniel,Carr,"704 Carr Shoals
+East Deborah, MI 90525",MI,90525,1966-04-29,56,596.0,57.76,male,mechanic,30,FIXED,0
+10037,Dr. Nicole Patterson,Nicole,Patterson,"526 Smith Brooks
+Donaldborough, GA 63896",GA,63896,1998-07-17,24,615.0,54.87,female,student,30,FIXED,0
+10038,Erin Torres,Erin,Torres,"6045 Michael Ways
+New Heather, MA 59914",MA,59914,1975-05-04,47,536.0,77.22,female,software developer,30,FIXED,1
+10039,Allen Rich,Allen,Rich,"4872 Todd Island
+Port Robert, MS 80700",MS,80700,1956-03-11,67,811.0,23.57,male,doctor,30,FIXED,0
+10040,Harry Contreras,Harry,Contreras,"2198 Mayo Ways
+Jessicaside, AL 78600",AL,78600,1959-04-03,64,453.0,80.93,male,stockbroker,15,FIXED,1
+10041,William Brown,William,Brown,"78616 Cooke Vista Apt. 155
+Maryfort, MI 60753",MI,60753,1963-09-22,59,354.0,76.54,male,salesman,30,FIXED,1
+10042,Steven Harris,Steven,Harris,"009 Nichole Isle
+Andrewfort, NJ 47405",NJ,47405,1988-08-25,34,805.0,34.72,male,retired,30,FIXED,0
+10043,Dylan White,Dylan,White,"3800 Anne Harbor Suite 446
+New Andrew, IA 92467",IA,92467,1970-02-06,53,355.0,82.5,male,investment banker,30,FIXED,1
+10044,Michael Washington,Michael,Washington,"69753 Johnson Mills
+Lake Melaniechester, NJ 16001",NJ,16001,2000-02-27,23,818.0,37.88,male,accountant,30,FIXED,0
+10045,Sara Smith,Sara,Smith,"493 Parker Hill
+Reynoldsfort, NC 54134",NC,54134,2000-12-18,22,608.0,56.87,female,salesman,30,FIXED,0
+10046,Kimberly Spencer,Kimberly,Spencer,"1274 Powers Roads Suite 413
+West Joantown, GU 37799",GU,37799,1982-06-19,40,791.0,34.79,female,mechanic,30,FIXED,0
+10047,Laura Santiago,Laura,Santiago,"65496 Watkins Cove Suite 943
+East Wesley, UT 02958",UT,02958,1977-09-10,45,381.0,82.27,female,plumber,30,FIXED,1
+10048,Tiffany Harris,Tiffany,Harris,"7777 Cindy Track
+South Johnton, FM 99343",FM,99343,1965-03-03,58,802.0,28.48,female,plumber,15,FIXED,0
+10049,Kevin Wells,Kevin,Wells,"57927 Brown Fork Suite 555
+New Catherine, GU 34264",GU,34264,1952-04-28,70,805.0,24.92,male,librarian,30,FIXED,0
+10050,Suzanne Rodriguez,Suzanne,Rodriguez,"7508 Ryan Avenue Apt. 306
+Mendezport, MT 29179",MT,29179,2001-03-19,22,362.0,90.26,female,plumber,30,FIXED,1
+10051,Jessica Norris,Jessica,Norris,"562 Diana Circles Suite 600
+New Laura, PR 92931",PR,92931,1954-03-09,69,801.0,39.25,female,teacher,30,FIXED,0
+10052,Patricia Stewart,Patricia,Stewart,"73271 Amanda Dale Apt. 980
+Wigginsside, MI 83950",MI,83950,1953-02-01,70,502.0,57.53,female,electrician,30,FIXED,1
+10053,Jeffery West,Jeffery,West,"070 Peter Oval Suite 480
+East Hannah, NH 60553",NH,60553,1976-12-15,46,359.0,92.16,male,salesman,30,FIXED,1
+10054,Robert Scott,Robert,Scott,"39576 Allen Plains Suite 473
+Curtisville, OH 96216",OH,96216,1958-12-12,64,344.0,90.55,male,teacher,30,FIXED,1
+10055,Christina Andrews,Christina,Andrews,"9046 Wilkerson Hills Suite 926
+South Laura, PR 24173",PR,24173,1961-12-05,61,478.0,67.81,female,salesman,15,FIXED,1
+10056,Ronald Hardy,Ronald,Hardy,"9382 Anthony Plain Suite 099
+West Savannah, GU 56549",GU,56549,1954-03-21,69,473.0,71.82,male,mechanic,30,FIXED,1
+10057,Ms. Jillian Mcdaniel DVM,Jillian,Mcdaniel,"927 Heath Oval Apt. 263
+East Robert, VI 74247",VI,74247,1955-04-17,68,472.0,76.3,female,student,30,FIXED,1
+10058,Anthony Cooper,Anthony,Cooper,"1122 Thomas Drive
+Port Michelleland, GU 88236",GU,88236,1965-09-15,57,351.0,94.24,male,lawyer,15,FIXED,1
+10059,Christine Alexander,Christine,Alexander,"5382 Sanchez Forks Apt. 590
+Lake Marcbury, OR 06982",OR,06982,1963-08-15,59,786.0,24.64,female,nurse,30,FIXED,1
+10060,Joseph Li,Joseph,Li,"15389 Douglas Village Suite 323
+Rachelshire, WY 09986",WY,09986,1969-02-23,54,347.0,82.6,male,mechanic,30,FIXED,1
+10061,Kayla Mason,Kayla,Mason,"1166 Raymond Ports
+Lisatown, CO 06858",CO,06858,1951-07-02,71,726.0,40.37,female,electrician,30,FIXED,0
+10062,Heather Acosta,Heather,Acosta,"3032 Michael Islands
+Davisborough, CO 50357",CO,50357,1990-12-24,32,785.0,46.97,female,software developer,30,FIXED,0
+10063,Sierra Estrada,Sierra,Estrada,"21336 Katelyn Rapids
+Matthewfurt, AL 52484",AL,52484,1970-08-08,52,765.0,37.04,female,accountant,30,FIXED,0
+10064,Robert Miller,Robert,Miller,"5971 Kristy Garden Suite 514
+West Travisfurt, UT 06121",UT,06121,1973-10-18,49,810.0,51.27,male,electrician,30,FIXED,0
+10065,Morgan Bradford,Morgan,Bradford,"Unit 5961 Box 0096
+DPO AP 41434",AP,41434,1968-03-23,55,809.0,31.38,male,retired,30,FIXED,0
+10066,Sean Harper,Sean,Harper,"26945 Gibbs Turnpike
+South Shannonside, GA 71596",GA,71596,1965-08-18,57,781.0,46.24,male,electrician,30,FIXED,0
+10067,James Smith,James,Smith,"12977 Ryan Summit Suite 174
+Michaelside, MP 94204",MP,94204,1996-12-26,26,353.0,74.61,male,electrician,30,FIXED,1
+10068,Angelica Cunningham,Angelica,Cunningham,"554 Vaughn Loaf Suite 671
+Parkerburgh, ME 83555",ME,83555,2002-08-09,20,354.0,85.71,female,software developer,30,FIXED,1
+10069,Kevin Drake,Kevin,Drake,"738 Joshua Spring Suite 187
+East Tamaramouth, LA 61384",LA,61384,1982-09-26,40,523.0,68.75,male,fireman,30,FIXED,1
+10070,John Graham,John,Graham,"1928 Parks Turnpike
+Henryport, OH 33680",OH,33680,1967-04-04,56,811.0,37.62,male,teacher,30,FIXED,0
+10071,Edward Murphy,Edward,Murphy,"33708 Scott Glen Suite 192
+Port Robertville, NM 83390",NM,83390,1978-05-15,44,800.0,22.42,male,teacher,30,FIXED,0
+10072,Philip Fuller,Philip,Fuller,"974 Johnson Ford Suite 514
+South Wendy, GU 73381",GU,73381,1981-07-01,41,781.0,28.46,male,student,15,FIXED,0
+10073,Fernando Gonzalez,Fernando,Gonzalez,"Unit 3442 Box 8571
+DPO AE 43091",AE,43091,1986-07-02,36,791.0,8.28,male,retired,30,FIXED,0
+10074,Robert Patton,Robert,Patton,"103 Johnson Springs
+South Traciton, DE 45221",DE,45221,2001-07-20,21,474.0,74.79,male,student,30,FIXED,1
+10075,Deborah Lawrence,Deborah,Lawrence,"914 Joseph Lights Suite 821
+West Brianside, KY 48386",KY,48386,1977-01-31,46,706.0,40.23,female,mason,30,FIXED,0
+10076,Roy Harvey,Roy,Harvey,"86435 Griffin Knolls
+Laurenside, RI 45311",RI,45311,1977-06-12,45,348.0,81.04,male,lawyer,30,FIXED,1
+10077,Lisa Prince,Lisa,Prince,"204 Brittany Drives Apt. 538
+West Marc, KY 34357",KY,34357,1970-02-01,53,590.0,45.88,female,mechanic,30,FIXED,0
+10078,Jerry Palmer,Jerry,Palmer,"7403 Hopkins Avenue Suite 484
+Littleport, NE 55750",NE,55750,1971-10-10,51,379.0,69.72,male,teacher,30,FIXED,1
+10079,Ryan Jenkins,Ryan,Jenkins,"14574 Barr Mountains Apt. 825
+Holtburgh, OH 74910",OH,74910,1962-06-02,60,798.0,45.87,male,plumber,30,FIXED,1
+10080,Joseph Fox,Joseph,Fox,"99396 Cheryl Throughway
+North Judyhaven, NH 64693",NH,64693,1987-07-16,35,588.0,55.03,male,mechanic,30,FIXED,0
+10081,Lisa Gutierrez,Lisa,Gutierrez,"PSC 0234, Box 3931
+APO AE 91501",AE,91501,1960-12-14,62,730.0,51.4,female,librarian,30,FIXED,0
+10082,Glenda Aguilar,Glenda,Aguilar,"38229 Irwin Greens Apt. 299
+Port Lisa, MO 92182",MO,92182,1957-05-19,65,796.0,3.43,female,retired,30,FIXED,0
+10083,William Ross,William,Ross,"4270 Juarez Ports
+South Scottland, KY 11844",KY,11844,1966-06-28,56,642.0,63.32,male,librarian,30,FIXED,0
+10084,Jeremy Oneill,Jeremy,Oneill,"7492 Caldwell Stravenue
+Archerborough, UT 70771",UT,70771,1993-06-16,29,724.0,44.43,male,software developer,30,FIXED,0
+10085,Samantha Johnson,Samantha,Johnson,"8751 Frederick Overpass Suite 490
+Carlyport, OH 47097",OH,47097,1956-12-07,66,799.0,28.83,female,student,30,FIXED,0
+10086,Jacob Hudson,Jacob,Hudson,"773 Stephanie Center
+Dawnview, NE 11631",NE,11631,1973-03-18,50,692.0,53.03,male,plumber,15,FIXED,0
+10087,Justin Allen,Justin,Allen,"811 Hall Point
+West Alexanderton, IA 36683",IA,36683,1983-06-26,39,614.0,47.95,male,data scientist,30,FIXED,0
+10088,Ryan Gray,Ryan,Gray,"2076 Parker Trafficway
+Lake Dale, HI 96539",HI,96539,1983-05-22,39,469.0,79.9,male,lawyer,15,FIXED,1
+10089,Jean Ross,Jean,Ross,"3398 Tanya Vista
+Marcusmouth, VI 97030",VI,97030,1973-12-30,49,366.0,87.86,male,fireman,30,FIXED,1
+10090,Dennis Mitchell,Dennis,Mitchell,"129 Madison Manors
+Michaelside, MO 37387",MO,37387,1950-03-15,73,523.0,72.14,male,teacher,30,FIXED,1
+10091,Julie Garcia,Julie,Garcia,"388 Brown Corners
+Jessicachester, MA 56579",MA,56579,1964-11-29,58,355.0,92.64,female,nurse,30,FIXED,1
+10092,Richard Spencer,Richard,Spencer,"5973 Amanda Route
+Johnfurt, AK 87494",AK,87494,1962-05-16,60,360.0,77.47,male,accountant,30,FIXED,1
+10093,Janet Thomas,Janet,Thomas,"4961 Daniels Tunnel
+Port Lindaport, MD 40683",MD,40683,1973-06-29,49,798.0,20.13,female,student,30,FIXED,0
+10094,Cindy Garcia,Cindy,Garcia,"033 Freeman Hills
+West Christopher, WV 72235",WV,72235,1963-12-16,59,791.0,49.07,female,mason,30,FIXED,0
+10095,Nicole Robertson,Nicole,Robertson,"Unit 6511 Box 2674
+DPO AA 39223",AA,39223,1984-09-19,38,466.0,74.16,female,stockbroker,30,FIXED,1
+10096,Courtney Hall,Courtney,Hall,"041 David Ferry
+Ronaldfort, MI 77069",MI,77069,2000-03-09,23,355.0,83.19,female,mason,30,FIXED,1
+10097,Rachel Edwards,Rachel,Edwards,"56097 Kevin Ford Apt. 042
+East Davidstad, OK 02929",OK,02929,1978-12-04,44,806.0,42.13,female,data scientist,30,FIXED,1
+10098,Shannon Taylor,Shannon,Taylor,"787 Robert Point Apt. 322
+Lake Aliciamouth, IA 73747",IA,73747,1979-06-04,43,604.0,57.49,female,salesman,30,FIXED,0
+10099,Christopher Santana,Christopher,Santana,"975 Gloria Station
+South Tristan, FL 02427",FL,02427,1983-09-09,39,547.0,67.46,male,doctor,30,FIXED,1
+10100,Jordan Howard,Jordan,Howard,"494 Jennifer Cliffs Apt. 492
+Wrightland, ID 14888",ID,14888,1961-05-13,61,802.0,23.58,male,teacher,30,FIXED,0
+10101,James Martin,James,Martin,"994 Mccormick Port
+Atkinsonborough, FL 07873",FL,07873,1989-11-29,33,336.0,91.73,male,fireman,30,FIXED,1
+10102,Pamela Krueger,Pamela,Krueger,"229 Casey Gardens Apt. 396
+Danielside, TX 67018",TX,67018,1966-06-11,56,356.0,78.53,female,doctor,30,FIXED,1
+10103,Jessica Taylor,Jessica,Taylor,"14240 Haley Rest
+West Erica, CA 81340",CA,81340,1977-08-15,45,804.0,34.31,female,dentist,30,FIXED,0
+10104,Wendy Rodriguez,Wendy,Rodriguez,"29315 Michael Viaduct
+West Amandafurt, PA 89101",PA,89101,1978-10-31,44,746.0,32.99,female,plumber,30,FIXED,0
+10105,Donna Wilson,Donna,Wilson,"840 Kathy Extensions
+Lake Valerieberg, KS 83874",KS,83874,1959-08-15,63,331.0,86.45,female,nurse,15,FIXED,1
+10106,Brandy Wilson,Brandy,Wilson,"5485 Steve Roads
+Riveraborough, MP 14423",MP,14423,1966-06-13,56,502.0,71.95,female,fireman,30,FIXED,1
+10107,Jennifer Moore,Jennifer,Moore,"Unit 1084 Box 0004
+DPO AA 52527",AA,52527,1986-09-19,36,726.0,37.69,female,retired,30,FIXED,0
+10108,Christopher Barber DDS,Christopher,Barber,"21996 Lee Rapids
+Lake Jodyton, IL 68862",IL,68862,1963-10-29,59,796.0,28.9,male,contractor,15,FIXED,0
+10109,James Banks,James,Banks,"02055 James Drive Apt. 245
+Lonnieport, TN 30608",TN,30608,1984-04-05,39,711.0,41.29,male,dentist,30,FIXED,0
+10110,Brenda Smith,Brenda,Smith,"0677 Cindy Station Suite 055
+Rodriguezhaven, NE 16433",NE,16433,1969-04-21,54,803.0,34.88,female,software developer,30,FIXED,0
+10111,Katherine Taylor,Katherine,Taylor,"97804 Garza Park Apt. 401
+Heathermouth, MA 26611",MA,26611,1978-08-20,44,811.0,32.15,female,salesman,30,FIXED,0
+10112,Gary Mcdonald,Gary,Mcdonald,"30583 Russell Burg
+West Pamela, ND 93875",ND,93875,1961-05-07,61,352.0,88.08,male,mechanic,30,FIXED,1
+10113,Jennifer Wolfe,Jennifer,Wolfe,"552 Cheryl Port
+Lake Ashleymouth, OH 70131",OH,70131,1985-03-02,38,578.0,68.34,female,doctor,30,FIXED,1
+10114,Robert Archer,Robert,Archer,"915 Carmen Greens
+Andersonland, NM 70617",NM,70617,1982-09-30,40,792.0,47.54,male,stockbroker,30,FIXED,1
+10115,Mr. Christopher Rivera,Christopher,Rivera,"0147 Lori Crossing
+New Daisyland, TN 66354",TN,66354,1992-08-10,30,798.0,37.38,male,teacher,30,FIXED,0
+10116,Matthew Paul,Matthew,Paul,"PSC 2110, Box 4462
+APO AA 61970",AA,61970,1990-07-26,32,811.0,27.2,male,salesman,30,FIXED,0
+10117,Jordan Thomas,Jordan,Thomas,"318 Jones Road
+Port Joshua, AK 56697",AK,56697,1998-12-16,24,790.0,33.67,male,student,30,FIXED,0
+10118,Anthony Rojas,Anthony,Rojas,"493 Mckenzie Lake Apt. 822
+Rileybury, NE 30290",NE,30290,1979-10-30,43,334.0,83.92,male,accountant,30,FIXED,1
+10119,Andrew Short,Andrew,Short,"656 Larry Causeway Suite 610
+East Theresa, WI 46135",WI,46135,1955-02-19,68,811.0,26.56,male,software developer,30,FIXED,0
+10120,Anthony Norris,Anthony,Norris,"93610 Johnson Shoals
+Alexfurt, MN 19685",MN,19685,1963-05-14,59,356.0,92.01,male,mechanic,30,FIXED,1
+10121,Christina Young,Christina,Young,"2131 Jason Road
+Port Deborahton, IN 12825",IN,12825,1999-08-20,23,350.0,84.35,female,fireman,30,FIXED,1
+10122,Rachel Moore,Rachel,Moore,"5203 Reed Turnpike
+West Susan, AL 03849",AL,03849,1973-06-24,49,803.0,43.77,female,software developer,30,FIXED,0
+10123,Brent Moore,Brent,Moore,"43587 Christopher Points
+Port Anthonyland, OK 04468",OK,04468,1954-05-14,68,510.0,58.98,male,data scientist,30,FIXED,1
+10124,James Russell,James,Russell,"051 Young Lane
+North Bruce, DE 85320",DE,85320,1980-06-15,42,343.0,74.79,male,mason,30,FIXED,1
+10125,Jennifer Mitchell,Jennifer,Mitchell,"357 Michael Road Suite 899
+Ryanstad, MI 02482",MI,02482,1992-12-19,30,784.0,22.52,female,teacher,30,FIXED,0
+10126,Sarah Norman,Sarah,Norman,"PSC 5559, Box 4252
+APO AA 84038",AA,84038,1996-06-01,26,647.0,69.08,female,accountant,30,FIXED,0
+10127,Dr. Randall Johnson,Randall,Johnson,"5511 Harrell Parks
+Ginamouth, HI 84757",HI,84757,2000-04-07,23,437.0,76.55,male,mechanic,30,FIXED,1
+10128,Fernando Barrera,Fernando,Barrera,"927 Wendy Rapids Suite 911
+Colemanville, NJ 77839",NJ,77839,1959-02-19,64,801.0,1.42,male,retired,30,FIXED,0
+10129,John Mclean,John,Mclean,"052 Rivera Glen Suite 498
+West Timothyland, ME 24790",ME,24790,1965-03-31,58,422.0,92.79,male,investment banker,30,FIXED,1
+10130,Rodney Hill,Rodney,Hill,"058 Joseph Lodge
+Jessicachester, OK 02022",OK,02022,1990-05-19,32,364.0,91.89,male,librarian,30,FIXED,1
+10131,Judy Dennis,Judy,Dennis,"PSC 1718, Box 1166
+APO AP 29530",AP,29530,1961-11-19,61,775.0,20.72,female,retired,30,FIXED,0
+10132,Karen Fields,Karen,Fields,"813 Ariana Inlet
+West Amber, MT 91135",MT,91135,1959-06-17,63,538.0,51.74,female,salesman,30,FIXED,1
+10133,Rebekah Christensen,Rebekah,Christensen,"185 Angela Shoal
+Michaelton, TX 52767",TX,52767,1988-08-17,34,756.0,52.65,female,dentist,30,FIXED,0
+10134,Nicholas Smith,Nicholas,Smith,"PSC 2347, Box 9852
+APO AA 80891",AA,80891,1994-06-28,28,615.0,72.42,male,electrician,30,FIXED,0
+10135,Brandon Valdez DDS,Brandon,Valdez,"8494 Rogers Lakes Apt. 679
+West Hayleyborough, GU 75459",GU,75459,1994-07-21,28,386.0,77.03,male,electrician,30,FIXED,1
+10136,Jonathan Conner,Jonathan,Conner,"003 Gibson Manors Apt. 263
+Stephaniechester, ID 89441",ID,89441,1979-01-22,44,801.0,30.13,male,dentist,30,FIXED,0
+10137,Shaun Jackson,Shaun,Jackson,"9456 Janet Islands
+North Kristinaside, MD 57768",MD,57768,1994-04-18,29,496.0,69.15,male,student,30,FIXED,1
+10138,Christopher Wyatt,Christopher,Wyatt,"0677 Ryan Freeway Suite 571
+North Pamela, MI 92074",MI,92074,2000-05-05,22,357.0,92.33,male,stockbroker,30,FIXED,1
+10139,Jeremy Ortega,Jeremy,Ortega,"24894 Lewis Drives
+Lake Alan, MI 62808",MI,62808,1958-02-12,65,350.0,85.16,male,stockbroker,15,FIXED,1
+10140,Carlos Fuentes,Carlos,Fuentes,"27717 Baker Union Suite 650
+Markville, TN 02688",TN,02688,1987-09-20,35,354.0,93.27,male,stockbroker,30,FIXED,1
+10141,Chloe Black,Chloe,Black,"596 Gutierrez Port
+New Jamesport, SC 08776",SC,08776,1966-09-27,56,562.0,62.74,female,accountant,30,FIXED,0
+10142,Jessica Carroll,Jessica,Carroll,"8137 Young Lane
+Tuckerton, MA 23486",MA,23486,1992-05-24,30,456.0,70.05,female,salesman,30,FIXED,1
+10143,Meredith Patterson,Meredith,Patterson,"USNS Shaw
+FPO AE 40222",AE,40222,1979-11-16,43,419.0,72.83,female,fireman,30,FIXED,1
+10144,Vicki Mccarthy,Vicki,Mccarthy,"427 David Roads Apt. 224
+Frankberg, PW 42174",PW,42174,1954-06-09,68,460.0,74.06,female,contractor,30,FIXED,1
+10145,Victor Ross,Victor,Ross,"63552 Jennifer Street
+Shanehaven, KY 22994",KY,22994,1985-08-25,37,575.0,64.14,male,accountant,30,FIXED,0
+10146,Nicole Young,Nicole,Young,"119 Mary Square
+Michaeltown, PR 24494",PR,24494,1964-05-09,58,334.0,79.77,female,salesman,30,FIXED,1
+10147,Kathryn Smith,Kathryn,Smith,"55468 Kelly Motorway
+Kleinmouth, AR 76714",AR,76714,1987-04-30,35,363.0,88.28,female,student,30,FIXED,1
+10148,Carol Dunlap,Carol,Dunlap,"Unit 4323 Box 9323
+DPO AP 98842",AP,98842,1988-11-18,34,776.0,45.53,female,student,30,FIXED,0
+10149,Lucas Shea,Lucas,Shea,"5402 Kimberly Highway Suite 160
+New Glenn, AK 16518",AK,16518,1958-05-15,64,493.0,68.13,male,mechanic,30,FIXED,1
+10150,Yolanda Owens,Yolanda,Owens,"3088 Julia Greens
+Harperfort, UT 13193",UT,13193,1966-01-12,57,344.0,89.44,female,dentist,30,FIXED,1
+10151,Anna Smith,Anna,Smith,"93869 Devin Shoals
+West Alan, UT 60294",UT,60294,1952-12-11,70,780.0,23.58,female,teacher,30,FIXED,0
+10152,Adrienne Espinoza,Adrienne,Espinoza,"677 Derek Square
+New Raymondland, WY 71873",WY,71873,1988-05-03,34,803.0,33.71,female,librarian,30,FIXED,0
+10153,Samuel Miller,Samuel,Miller,"7000 Amy Springs
+Gomezstad, MS 80973",MS,80973,1996-03-16,27,792.0,22.46,male,librarian,30,FIXED,0
+10154,William Scott,William,Scott,"8783 Christopher Cliffs Suite 351
+South Amyside, AS 34055",AS,34055,1992-05-20,30,333.0,87.9,male,contractor,30,FIXED,1
+10155,Jennifer Walter,Jennifer,Walter,"9936 Patrick Stream
+North Bethanymouth, VT 37405",VT,37405,1980-05-20,42,514.0,78.12,female,nurse,30,FIXED,1
+10156,Anthony Stanton,Anthony,Stanton,"3703 Christopher Villages Apt. 179
+North Raymondfort, IL 70775",IL,70775,1990-08-28,32,371.0,87.12,male,quantitative researcher,30,FIXED,1
+10157,Zachary Martin,Zachary,Martin,"2352 Benjamin Haven
+Lake Taylor, MS 61380",MS,61380,1995-02-11,28,802.0,31.62,male,salesman,30,FIXED,0
+10158,Michael Gillespie,Michael,Gillespie,"08325 Samuel Isle Suite 810
+Melissaport, DC 68677",DC,68677,1966-12-02,56,783.0,36.91,male,fireman,30,FIXED,0
+10159,John Gay,John,Gay,"060 George Lane Suite 426
+New Thomas, NE 97954",NE,97954,1972-02-11,51,505.0,54.0,male,electrician,30,FIXED,1
+10160,Zachary Thompson,Zachary,Thompson,"4910 Fuller Crest
+Lake Williamland, NH 62643",NH,62643,1983-04-29,39,357.0,84.11,male,salesman,30,FIXED,1
+10161,Timothy Carlson,Timothy,Carlson,"54484 Lonnie Lakes Suite 568
+West Kelseymouth, TX 48735",TX,48735,1953-06-13,69,354.0,79.6,male,salesman,30,FIXED,1
+10162,Abigail Powell,Abigail,Powell,"0872 Berger Coves Apt. 890
+Tonyachester, MH 56152",MH,56152,1986-07-15,36,549.0,61.97,female,mechanic,30,FIXED,1
+10163,Patrick Simpson,Patrick,Simpson,"922 Daniels Circles
+West Mary, MO 71190",MO,71190,1959-08-10,63,344.0,90.1,male,salesman,30,FIXED,1
+10164,Cindy Evans,Cindy,Evans,"95811 Pierce Ridge
+East Maryland, TN 29956",TN,29956,1966-06-18,56,791.0,54.24,female,salesman,30,FIXED,0
+10165,Sabrina Graham,Sabrina,Graham,"880 Christopher Parks Apt. 020
+East Teresa, TN 37709",TN,37709,1983-09-30,39,356.0,83.88,female,teacher,30,FIXED,1
+10166,Joseph Weaver,Joseph,Weaver,"7638 Thomas Hills
+South Whitney, WY 18544",WY,18544,1960-06-11,62,330.0,77.64,male,contractor,30,FIXED,1
+10167,Ryan Chen,Ryan,Chen,"6170 Martinez Spring
+South Brianland, SD 94947",SD,94947,1990-12-18,32,804.0,25.37,male,fireman,30,FIXED,0
+10168,Anthony Cox,Anthony,Cox,"2257 James Ville Apt. 456
+Lake Lisaside, MD 62751",MD,62751,1989-08-19,33,792.0,24.15,male,mechanic,30,FIXED,0
+10169,Christopher Sampson DDS,Christopher,Sampson,"3867 Thompson Lake Apt. 646
+Lake Rebeccaberg, MI 82754",MI,82754,2001-11-19,21,458.0,63.25,male,salesman,30,FIXED,1
+10170,Brian Jones,Brian,Jones,"Unit 9602 Box 6420
+DPO AA 46321",AA,46321,1995-07-29,27,802.0,21.68,male,student,15,FIXED,0
+10171,Julia Martinez,Julia,Martinez,"320 Roy Green
+Lake Misty, PA 87648",PA,87648,1955-12-12,67,790.0,18.16,female,retired,15,FIXED,0
+10172,Michael Young,Michael,Young,"032 Wilson Avenue Apt. 135
+Port Eric, AL 70818",AL,70818,1991-01-23,32,579.0,63.74,male,salesman,30,FIXED,0
+10173,Courtney Newman,Courtney,Newman,"519 Griffith Light
+South Stephanie, NJ 89819",NJ,89819,2000-02-12,23,637.0,64.91,female,stockbroker,15,FIXED,0
+10174,Holly Nguyen,Holly,Nguyen,"719 Brown Village Suite 284
+Cookland, MT 94956",MT,94956,1959-01-10,64,488.0,82.13,female,stockbroker,30,FIXED,1
+10175,Shirley Bowers,Shirley,Bowers,"USCGC Martinez
+FPO AA 18300",AA,18300,1990-12-04,32,345.0,86.62,female,doctor,30,FIXED,1
+10176,Jason Mitchell,Jason,Mitchell,"87549 Clark Garden Apt. 696
+Hartfurt, IL 37472",IL,37472,1953-08-19,69,784.0,22.64,male,student,30,FIXED,0
+10177,Aaron Hill,Aaron,Hill,"3094 Espinoza Spur Suite 900
+Mckayside, IN 06614",IN,06614,1983-06-11,39,525.0,55.41,male,fireman,30,FIXED,1
+10178,Matthew Mays,Matthew,Mays,"149 Sylvia Branch
+South Bryan, SC 70958",SC,70958,1950-10-08,72,340.0,72.91,male,salesman,30,FIXED,1
+10179,Shelley Robinson,Shelley,Robinson,"348 Hall Branch
+Michelleberg, DC 39505",DC,39505,1984-07-28,38,781.0,39.41,female,nurse,30,FIXED,1
+10180,Olivia Gordon,Olivia,Gordon,"5652 Brittany Islands Suite 007
+Theresashire, CA 86821",CA,86821,1986-03-30,37,744.0,60.68,female,nurse,30,FIXED,1
+10181,Jordan Hernandez,Jordan,Hernandez,"0322 William Station
+Campbellbury, TN 82894",TN,82894,1983-09-27,39,687.0,50.83,male,plumber,30,FIXED,0
+10182,Mr. Matthew Black MD,Matthew,Black,"07196 Hull Land
+Peterberg, DE 81864",DE,81864,2002-08-31,20,351.0,76.46,male,doctor,30,FIXED,1
+10183,Scott Nguyen,Scott,Nguyen,"09818 Rodriguez Lodge Apt. 778
+Benjaminview, NY 87760",NY,87760,1981-08-24,41,796.0,12.79,male,retired,30,FIXED,0
+10184,David Allen,David,Allen,"50131 Cunningham Manor Apt. 467
+West Rebecca, RI 36090",RI,36090,1987-11-10,35,581.0,49.29,male,teacher,30,FIXED,0
+10185,Julie Johnston,Julie,Johnston,"82067 Matthew Glens Apt. 865
+Courtneyfort, NY 11981",NY,11981,1974-12-04,48,787.0,38.38,female,doctor,15,FIXED,0
+10186,Mr. John Garcia,John,Garcia,"189 Wolfe Cape Apt. 534
+Lake Jasonmouth, ID 64354",ID,64354,1951-06-20,71,357.0,94.19,male,salesman,30,FIXED,1
+10187,Cole White,Cole,White,"34469 Lang Vista Apt. 885
+New Hannahborough, VT 53829",VT,53829,1984-02-25,39,819.0,45.94,male,mechanic,30,FIXED,0
+10188,Jeffrey Lopez,Jeffrey,Lopez,"596 Jones Mall Suite 396
+South Michaelberg, VA 62328",VA,62328,1991-03-23,32,785.0,9.36,male,retired,30,FIXED,0
+10189,Olivia Williams,Olivia,Williams,"8129 Mills Forge Apt. 142
+West Jennifermouth, GU 09130",GU,09130,1964-06-29,58,758.0,46.47,female,librarian,30,FIXED,0
+10190,Christina Davis,Christina,Davis,"732 Marshall Course Suite 781
+Kellystad, CO 57385",CO,57385,1990-09-08,32,743.0,48.49,female,contractor,30,FIXED,0
+10191,Maria Gutierrez,Maria,Gutierrez,"35847 David Alley Suite 938
+South Jennifer, AR 64610",AR,64610,1968-10-12,54,802.0,26.07,female,accountant,30,FIXED,0
+10192,Devon Velazquez,Devon,Velazquez,"9869 Gill Bypass Apt. 614
+Cummingsberg, WV 21247",WV,21247,1957-07-24,65,612.0,64.81,male,quantitative researcher,30,FIXED,0
+10193,Christopher Alexander,Christopher,Alexander,"551 Diane Stream
+North David, ID 02506",ID,02506,1988-11-13,34,732.0,49.8,male,salesman,30,FIXED,0
+10194,Jonathan Ramirez,Jonathan,Ramirez,"9167 Lucas Overpass
+North Davidfurt, OH 78549",OH,78549,1970-10-18,52,697.0,62.94,male,electrician,30,FIXED,0
+10195,Matthew Short,Matthew,Short,"9238 Jessica Corners Apt. 625
+Lake William, GU 74466",GU,74466,1960-02-24,63,466.0,76.09,male,contractor,30,FIXED,1
+10196,Kevin Newman,Kevin,Newman,"23695 Stanley Garden
+Lake Kristy, MO 77002",MO,77002,1978-11-05,44,360.0,85.12,male,mechanic,30,FIXED,1
+10197,Michele Austin,Michele,Austin,"5357 Timothy Plains Apt. 269
+Powellland, ID 68228",ID,68228,1994-10-30,28,503.0,73.08,female,salesman,30,FIXED,1
+10198,Thomas Crosby,Thomas,Crosby,"1371 Wilson Bridge Apt. 102
+Blackshire, TN 62662",TN,62662,1964-08-04,58,817.0,55.8,male,salesman,15,FIXED,0
+10199,Robert Smith,Robert,Smith,"539 Ricky Villages Suite 994
+West Paulside, AR 72683",AR,72683,1991-06-05,31,808.0,0.46,male,retired,30,FIXED,0
+10200,Clifford Foster,Clifford,Foster,"PSC 1207, Box 5200
+APO AA 74136",AA,74136,1984-12-11,38,576.0,65.07,male,librarian,30,FIXED,1
+10201,Brandon Bowers,Brandon,Bowers,"901 Cook Lock
+Stephenshaven, RI 49617",RI,49617,1976-10-06,46,814.0,20.6,male,electrician,30,FIXED,1
+10202,Rachel Terry,Rachel,Terry,"8441 Andrew Freeway
+South Gregshire, MP 65523",MP,65523,1986-12-19,36,661.0,52.97,female,librarian,15,FIXED,0
+10203,Alexander Hill,Alexander,Hill,"81658 Cooper Ports
+South Amandaport, MD 55526",MD,55526,1988-05-28,34,771.0,50.89,male,plumber,30,FIXED,0
+10204,Kenneth Palmer,Kenneth,Palmer,"USCGC Ramirez
+FPO AP 57696",AP,57696,1998-05-06,24,798.0,38.08,male,salesman,30,FIXED,0
+10205,Daniel Yoder,Daniel,Yoder,"USNV Martin
+FPO AP 20756",AP,20756,1957-12-25,65,353.0,83.91,male,librarian,30,FIXED,1
+10206,Christine Stone,Christine,Stone,"135 Tommy Branch Apt. 472
+New Todd, OR 46380",OR,46380,1992-02-23,31,810.0,38.59,female,retired,30,FIXED,0
+10207,Nicole Rios,Nicole,Rios,"657 Leslie Spring Suite 033
+West Erin, MI 10430",MI,10430,1959-10-09,63,348.0,75.25,female,salesman,30,FIXED,1
+10208,Debbie Martinez,Debbie,Martinez,"50433 Saunders Squares
+North Jay, RI 07093",RI,07093,1963-06-23,59,414.0,72.62,female,software developer,30,FIXED,1
+10209,Sheri Cunningham,Sheri,Cunningham,"PSC 2187, Box 2386
+APO AA 64129",AA,64129,1956-02-22,67,791.0,43.26,female,teacher,15,FIXED,0
+10210,Nicole Sweeney,Nicole,Sweeney,"68720 William Coves Suite 825
+Matthewton, DE 30942",DE,30942,1996-02-18,27,692.0,36.84,female,mechanic,30,FIXED,0
+10211,Daniel Smith,Daniel,Smith,"954 Dawn Glen Suite 665
+New Alison, MT 74424",MT,74424,1996-05-31,26,797.0,50.67,male,mechanic,30,FIXED,0
+10212,Lisa Walls,Lisa,Walls,"40328 Lynn Station Suite 844
+Michaelview, MT 61726",MT,61726,1978-12-11,44,336.0,83.85,female,salesman,30,FIXED,1
+10213,Kelly Gilbert,Kelly,Gilbert,"726 Robin Mountain Suite 934
+Connorland, IA 62389",IA,62389,1995-11-24,27,364.0,53.28,female,stockbroker,30,FIXED,1
+10214,Mario York,Mario,York,"78360 Jonathan Vista
+Port Ruben, NE 97039",NE,97039,2001-02-01,22,437.0,71.35,male,salesman,30,FIXED,1
+10215,Daniel Blair,Daniel,Blair,"51764 April Park Suite 509
+Maddoxbury, NJ 25314",NJ,25314,1974-06-02,48,338.0,86.25,male,data scientist,30,FIXED,1
+10216,John Rivers,John,Rivers,"01981 Alicia Station
+Martinton, CT 82636",CT,82636,1975-05-11,47,334.0,70.96,male,lawyer,30,FIXED,1
+10217,William Jones,William,Jones,"466 Anna Unions Apt. 386
+Baldwinfurt, FL 96965",FL,96965,1986-08-16,36,729.0,61.42,male,salesman,15,FIXED,0
+10218,Matthew Lewis,Matthew,Lewis,"267 Fisher Camp
+New Brian, IN 24875",IN,24875,1960-03-28,63,442.0,72.62,male,stockbroker,30,FIXED,1
+10219,Max Walker,Max,Walker,"920 Robert Land Apt. 500
+New Natalieside, MH 31052",MH,31052,1977-11-21,45,769.0,41.82,male,fireman,30,FIXED,0
+10220,Angel Robinson,Angel,Robinson,"252 Diane Villages Apt. 153
+West James, IN 89698",IN,89698,1985-01-02,38,347.0,81.92,male,student,30,FIXED,1
+10221,Toni Mooney,Toni,Mooney,"22284 Wood Island Suite 572
+North Sandraview, NJ 41059",NJ,41059,1969-01-24,54,780.0,31.05,male,salesman,30,FIXED,0
+10222,Stephen Trujillo,Stephen,Trujillo,"795 Dawn Locks Apt. 400
+Tylerbury, PR 77473",PR,77473,1976-03-06,47,355.0,87.76,male,teacher,30,FIXED,1
+10223,Kevin Rodriguez,Kevin,Rodriguez,"25647 Powell Cove Apt. 274
+New Alexis, RI 87563",RI,87563,1965-10-31,57,416.0,78.45,male,librarian,30,FIXED,1
+10224,Ms. Tiffany Diaz PhD,Tiffany,Diaz,"3353 Lawrence Passage
+New Jacob, ID 28691",ID,28691,1966-10-14,56,454.0,75.16,female,librarian,30,FIXED,1
+10225,Alan Hamilton,Alan,Hamilton,"03183 Edward Pine Suite 050
+Lake Erictown, GA 04995",GA,04995,1990-10-21,32,819.0,27.03,male,doctor,30,FIXED,0
+10226,David Berger,David,Berger,"930 Knight Haven Suite 162
+Rileyborough, NE 99432",NE,99432,1971-10-30,51,804.0,45.11,male,doctor,30,FIXED,0
+10227,Jasmin Walker,Jasmin,Walker,"4120 Williams Lakes
+Davidton, MN 83807",MN,83807,1954-12-26,68,496.0,69.33,female,nurse,30,FIXED,1
+10228,Sara White,Sara,White,"517 Hartman Mission Suite 656
+East Jeffreyfurt, CO 96542",CO,96542,1953-09-13,69,823.0,37.33,female,retired,30,FIXED,0
+10229,Timothy Potts,Timothy,Potts,"817 Sherri Village
+Lake Juanmouth, VI 44904",VI,44904,1962-09-20,60,680.0,48.08,male,stockbroker,30,FIXED,0
+10230,Sheri Myers,Sheri,Myers,"795 Murphy Estates Apt. 432
+Port Gordon, MH 19536",MH,19536,1998-12-08,24,740.0,42.45,female,contractor,30,FIXED,0
+10231,Michael Taylor,Michael,Taylor,"0263 Abigail Island
+Leeview, TN 45284",TN,45284,1964-06-25,58,643.0,61.87,male,salesman,30,FIXED,0
+10232,Kimberly Garcia,Kimberly,Garcia,"80717 Melissa Trail Apt. 073
+Whitefurt, MI 62706",MI,62706,1960-01-30,63,608.0,48.92,female,stockbroker,30,FIXED,0
+10233,Nicholas Brown,Nicholas,Brown,"8475 Thomas Circles Suite 037
+North Ianland, MA 33891",MA,33891,1951-09-14,71,800.0,25.97,male,electrician,15,FIXED,0
+10234,Jeffrey Ramsey,Jeffrey,Ramsey,"7969 Thomas Place Suite 388
+East Pamela, RI 28592",RI,28592,1965-08-09,57,796.0,50.49,male,software developer,30,FIXED,0
+10235,Joe Miller,Joe,Miller,"70778 Tyler Crossroad
+Harperfort, MO 63805",MO,63805,1980-03-10,43,731.0,43.09,male,dentist,30,FIXED,0
+10236,Daniel Jenkins,Daniel,Jenkins,"8621 Jimmy Circle
+East Josephside, NJ 10450",NJ,10450,1971-08-23,51,659.0,59.89,male,electrician,30,FIXED,0
+10237,Vanessa King,Vanessa,King,"3383 Norris Meadow Apt. 347
+Rivasburgh, TX 05012",TX,05012,1978-06-26,44,805.0,31.86,female,stockbroker,30,FIXED,0
+10238,Jennifer Neal,Jennifer,Neal,"PSC 2527, Box 8624
+APO AP 38200",AP,38200,1993-02-08,30,634.0,51.82,female,software developer,30,FIXED,0
+10239,Timothy Smith,Timothy,Smith,"59603 Mccann Estates Suite 301
+North Devinton, MS 02849",MS,02849,1997-06-18,25,377.0,76.94,male,salesman,30,FIXED,1
+10240,Barbara George,Barbara,George,"2922 Cynthia Harbors
+Reynoldsland, UT 55596",UT,55596,1979-12-30,43,355.0,89.49,female,nurse,30,FIXED,1
+10241,John Flores,John,Flores,"8957 Mary Spurs
+Delgadoborough, GU 02427",GU,02427,1978-04-24,45,431.0,77.8,male,electrician,30,FIXED,1
+10242,Megan Jackson,Megan,Jackson,"473 Lauren Parkway Suite 417
+New Melissa, ME 24781",ME,24781,1990-05-04,32,345.0,86.71,female,student,30,FIXED,1
+10243,Paul Gray,Paul,Gray,"44294 Davis Spurs Apt. 012
+Pettybury, KY 31331",KY,31331,1989-10-14,33,420.0,73.1,male,quantitative researcher,30,FIXED,1
+10244,Jerry Harrison,Jerry,Harrison,"97137 Jones Highway Suite 766
+North Nicholas, OH 41438",OH,41438,1987-01-03,36,648.0,49.89,male,teacher,30,FIXED,0
+10245,Charlene Castillo,Charlene,Castillo,"850 West Lake
+Port Jamiefort, MO 18448",MO,18448,1980-02-01,43,711.0,57.71,female,lawyer,30,FIXED,0
+10246,Maria Cantu,Maria,Cantu,"USNV Rodriguez
+FPO AE 39962",AE,39962,1964-07-24,58,747.0,54.48,female,teacher,30,FIXED,0
+10247,Carlos Steele,Carlos,Steele,"10337 Whitney Cove
+Port Bryanmouth, MD 35616",MD,35616,1998-09-14,24,692.0,51.44,male,salesman,30,FIXED,1
+10248,Kimberly Wang,Kimberly,Wang,"USNS Roberts
+FPO AA 52543",AA,52543,1954-08-08,68,407.0,78.5,female,librarian,30,FIXED,1
+10249,Brittany Norton,Brittany,Norton,"8526 Cheyenne Branch
+Lake Brianna, KS 53351",KS,53351,1971-09-20,51,344.0,80.08,female,lawyer,30,FIXED,1
+10250,Mary Lee,Mary,Lee,"132 Walton Bridge
+Huynhville, ME 55881",ME,55881,1961-05-20,61,807.0,32.27,female,software developer,30,FIXED,0
+10251,Anna Leon,Anna,Leon,"7881 Johnson Orchard
+Port Stephenshire, MS 97550",MS,97550,1966-08-09,56,339.0,83.74,female,dentist,30,FIXED,1
+10252,Gina Gibson,Gina,Gibson,"60307 Todd Bridge Suite 169
+Adriennefurt, AK 17718",AK,17718,1964-07-03,58,671.0,54.67,female,fireman,30,FIXED,0
+10253,Sharon Acevedo,Sharon,Acevedo,"PSC 6666, Box 7143
+APO AE 79263",AE,79263,1960-09-07,62,349.0,84.67,female,teacher,30,FIXED,1
+10254,Brenda Cox,Brenda,Cox,"89521 Melissa Corner Suite 473
+Farmermouth, TX 93717",TX,93717,1995-05-19,27,380.0,83.25,female,mechanic,30,FIXED,1
+10255,Katie Patel,Katie,Patel,"7992 Schneider Courts
+Reginaland, PW 41414",PW,41414,2000-03-23,23,434.0,63.43,female,student,30,FIXED,1
+10256,Aaron Love,Aaron,Love,"67602 Gonzalez Views
+Port Lindseyland, TN 74966",TN,74966,1965-05-19,57,786.0,21.97,male,mechanic,30,FIXED,0
+10257,Grace Riley,Grace,Riley,"Unit 3942 Box 4399
+DPO AP 81821",AP,81821,1997-11-20,25,552.0,56.38,female,nurse,15,FIXED,1
+10258,Connor Brown,Connor,Brown,"7249 Blair Shore
+Masonmouth, MS 38347",MS,38347,1992-04-16,31,792.0,34.57,male,plumber,30,FIXED,0
+10259,Ms. Kelly Miller,Kelly,Miller,"88918 Angela Prairie Apt. 801
+Juliaview, OR 73337",OR,73337,1988-05-01,34,593.0,63.22,female,fireman,15,FIXED,0
+10260,Jeffrey Thompson,Jeffrey,Thompson,"71524 Castillo Loaf Suite 829
+Williamschester, WY 04510",WY,04510,1985-05-29,37,592.0,73.66,male,salesman,30,FIXED,0
+10261,Darryl King,Darryl,King,"8122 Oliver Villages
+North Timberg, IN 56695",IN,56695,1998-04-05,25,624.0,75.95,male,mechanic,30,FIXED,0
+10262,Javier Sullivan,Javier,Sullivan,"0058 Johnson Expressway
+East Kristinland, PA 46315",PA,46315,1987-06-08,35,800.0,32.57,male,accountant,15,FIXED,0
+10263,Jeffrey Shah,Jeffrey,Shah,"69694 Vargas Burg Suite 928
+East Joel, ND 79233",ND,79233,1991-02-05,32,355.0,84.76,male,contractor,30,FIXED,1
+10264,Jonathan Ramirez,Jonathan,Ramirez,"5880 Kelly Locks
+Shirleyview, TX 07543",TX,07543,1992-01-12,31,331.0,85.6,male,student,30,FIXED,1
+10265,Eric Turner,Eric,Turner,"5426 Amanda Shoal Suite 692
+Hartside, AR 41338",AR,41338,1955-03-13,68,803.0,38.38,male,mason,30,FIXED,0
+10266,Ashley Horn,Ashley,Horn,"963 Gonzales Burgs Suite 964
+New Lisa, RI 16289",RI,16289,1973-07-11,49,364.0,64.77,female,student,30,FIXED,1
+10267,Jim Contreras II,Jim,Contreras,"68157 Justin Isle
+Hernandezhaven, OR 02726",OR,02726,1977-02-22,46,661.0,43.92,male,mechanic,30,FIXED,0
+10268,Jacqueline Bennett,Jacqueline,Bennett,"88357 Gonzalez Terrace Apt. 868
+Rachelmouth, MT 86655",MT,86655,1998-10-15,24,792.0,21.31,female,software developer,30,FIXED,0
+10269,Joseph Davis,Joseph,Davis,"2253 Thompson Trail
+Port Melissahaven, MN 86873",MN,86873,1981-07-24,41,794.0,29.48,male,student,30,FIXED,0
+10270,Holly Cohen,Holly,Cohen,"3085 Hernandez Harbors
+Stewartbury, WA 63421",WA,63421,1987-06-06,35,464.0,59.19,female,dentist,30,FIXED,1
+10271,Laura Williams,Laura,Williams,"1955 Pennington Fields Apt. 745
+Scottville, NC 53548",NC,53548,1994-10-06,28,720.0,52.36,female,mechanic,30,FIXED,0
+10272,Zachary Hernandez,Zachary,Hernandez,"473 Brianna Island
+Ewingfurt, DC 94881",DC,94881,2002-03-27,21,335.0,82.64,male,accountant,30,FIXED,1
+10273,Tamara West,Tamara,West,"PSC 4008, Box 0867
+APO AE 49878",AE,49878,1985-12-09,37,525.0,69.89,female,nurse,30,FIXED,1
+10274,Gina Green,Gina,Green,"850 Tiffany Springs Suite 466
+Silvaberg, PW 83376",PW,83376,2002-01-02,21,776.0,39.39,female,lawyer,30,FIXED,0
+10275,Hunter Mullins,Hunter,Mullins,"2083 Walker Falls
+North Christineport, MN 18976",MN,18976,1986-04-06,37,811.0,31.87,male,plumber,30,FIXED,0
+10276,Joann Brown,Joann,Brown,"31864 Nancy Squares
+Morgantown, DC 12983",DC,12983,1999-04-14,24,355.0,88.6,female,mechanic,30,FIXED,1
+10277,Angela Williams,Angela,Williams,"6115 John Hollow
+Scottshire, WV 16170",WV,16170,1994-12-01,28,378.0,90.13,female,accountant,30,FIXED,1
+10278,Thomas Williams,Thomas,Williams,"654 Teresa Crossing Suite 157
+Port Laurenside, ID 03056",ID,03056,1980-02-24,43,337.0,74.38,male,doctor,15,FIXED,1
+10279,Meredith Mclaughlin,Meredith,Mclaughlin,"211 Wesley Ports
+West Jamesville, MH 39693",MH,39693,1958-10-06,64,765.0,44.73,female,salesman,30,FIXED,0
+10280,Justin Davis,Justin,Davis,"70540 Daniel Coves Apt. 092
+Lake Anthony, SC 31615",SC,31615,2000-08-18,22,508.0,71.74,male,fireman,30,FIXED,1
+10281,Tamara Cole,Tamara,Cole,"31550 Lauren Lock Apt. 330
+South Jennifer, HI 67888",HI,67888,1969-09-01,53,648.0,38.45,female,stockbroker,30,FIXED,0
+10282,Amy Berry,Amy,Berry,"694 Michael Glen Suite 588
+South Kenneth, ME 46715",ME,46715,1990-02-09,33,789.0,26.59,female,student,30,FIXED,0
+10283,Jennifer Li,Jennifer,Li,"641 Pittman Canyon
+Justinchester, SD 45548",SD,45548,1982-05-04,40,794.0,38.39,female,teacher,30,FIXED,0
+10284,Christine Lopez,Christine,Lopez,"26481 Hill Bridge Apt. 684
+Millerstad, NH 10346",NH,10346,1982-12-28,40,585.0,49.94,female,doctor,30,FIXED,0
+10285,Mr. Kenneth Moran,Kenneth,Moran,"5068 Leslie Corners
+Martinbury, AS 46999",AS,46999,1969-12-09,53,795.0,34.24,male,plumber,30,FIXED,0
+10286,Jonathan Hess,Jonathan,Hess,"90989 Alex Ports Apt. 480
+Lake Daniel, PW 77973",PW,77973,1986-01-08,37,599.0,63.81,male,software developer,30,FIXED,0
+10287,Marcus Rodriguez,Marcus,Rodriguez,"452 David Brook
+New Cynthia, IN 76275",IN,76275,1973-11-20,49,790.0,27.34,male,salesman,30,FIXED,0
+10288,Sarah Pruitt,Sarah,Pruitt,"PSC 8794, Box 4492
+APO AE 30545",AE,30545,1970-10-07,52,540.0,59.67,female,doctor,30,FIXED,1
+10289,David Bradley,David,Bradley,"0503 Young Mission Apt. 940
+Jonesbury, AL 05292",AL,05292,1992-03-16,31,414.0,90.63,male,librarian,30,FIXED,1
+10290,Amanda Turner,Amanda,Turner,"004 Ryan Forges
+New Savannahton, MD 93325",MD,93325,1975-10-12,47,520.0,76.3,female,mechanic,30,FIXED,1
+10291,Victoria Turner,Victoria,Turner,"USNV Montes
+FPO AA 41995",AA,41995,1986-09-14,36,703.0,40.58,female,plumber,30,FIXED,0
+10292,April Fields,April,Fields,"27147 Robert Unions Apt. 989
+Lake Jonathan, ME 42435",ME,42435,1963-12-22,59,809.0,36.67,female,doctor,30,FIXED,0
+10293,Benjamin Hutchinson,Benjamin,Hutchinson,"7259 Joseph Ports
+New Tylerland, AZ 33015",AZ,33015,1977-02-01,46,530.0,63.68,male,fireman,30,FIXED,1
+10294,Joshua Ross,Joshua,Ross,"26915 Anderson Track
+Port Deniseshire, DC 16671",DC,16671,1994-05-07,28,450.0,61.91,male,student,30,FIXED,1
+10295,John Wilkinson,John,Wilkinson,"7579 Mia Mission
+Englishfurt, WI 02537",WI,02537,1990-04-30,32,455.0,79.88,male,electrician,30,FIXED,1
+10296,Nicole Brown,Nicole,Brown,"3096 Matthew Roads
+New Jennifer, PR 64602",PR,64602,1991-09-08,31,769.0,44.01,female,software developer,30,FIXED,1
+10297,Kenneth Davis,Kenneth,Davis,"79508 Gerald View
+Brockside, GA 01934",GA,01934,1965-04-06,58,706.0,38.69,male,salesman,30,FIXED,0
+10298,Alyssa Bailey,Alyssa,Bailey,"0691 Brian Brook
+Derrickstad, PR 81007",PR,81007,1966-05-22,56,704.0,55.11,female,accountant,30,FIXED,0
+10299,Candice Davis,Candice,Davis,"0827 Lopez Road
+East Christy, UT 82266",UT,82266,1983-12-07,39,603.0,59.8,female,accountant,30,FIXED,0
+10300,Phillip Murphy,Phillip,Murphy,"PSC 5616, Box 0474
+APO AP 02296",AP,02296,1964-11-07,58,350.0,89.91,male,doctor,30,FIXED,1
+10301,Patricia Parsons,Patricia,Parsons,"74554 Jaclyn Knolls Apt. 693
+Port Amandamouth, UT 89397",UT,89397,1967-05-02,55,571.0,61.76,female,contractor,30,FIXED,0
+10302,Lisa Fitzgerald,Lisa,Fitzgerald,"6160 Bond Orchard
+Johnsonland, MO 78161",MO,78161,2001-03-20,22,328.0,93.76,female,nurse,30,FIXED,1
+10303,Deborah Medina,Deborah,Medina,"9903 Ashley Street
+Lake Brent, AR 31429",AR,31429,2000-03-05,23,650.0,49.32,female,librarian,30,FIXED,0
+10304,Dawn Medina,Dawn,Medina,"755 Jones Point
+Longchester, OR 24378",OR,24378,1962-08-11,60,793.0,3.9,female,retired,30,FIXED,0
+10305,Jordan Meadows,Jordan,Meadows,"57047 John Locks Apt. 704
+Cantumouth, GU 02088",GU,02088,1993-01-07,30,589.0,65.38,male,salesman,30,FIXED,0
+10306,Johnny Thompson,Johnny,Thompson,"6874 Hill Locks
+Hernandezland, MH 89739",MH,89739,1957-10-24,65,672.0,49.54,male,data scientist,30,FIXED,0
+10307,Mrs. Amanda Hartman,Amanda,Hartman,"6621 Alan Way Apt. 865
+Larryborough, OK 87766",OK,87766,1959-01-03,64,424.0,71.27,female,teacher,30,FIXED,1
+10308,Angela Klein,Angela,Klein,"164 Todd Summit Suite 246
+East Nathaniel, AL 31570",AL,31570,1961-09-23,61,573.0,62.09,female,teacher,30,FIXED,0
+10309,Cameron Taylor,Cameron,Taylor,"USCGC Hamilton
+FPO AP 39024",AP,39024,1995-07-27,27,455.0,54.75,male,software developer,30,FIXED,1
+10310,Dana Ortega,Dana,Ortega,"7331 Hansen Station
+Francisberg, NE 54106",NE,54106,1961-03-18,62,391.0,65.45,female,nurse,30,FIXED,1
+10311,Jeremy Schroeder,Jeremy,Schroeder,"PSC 1781, Box 7765
+APO AE 89226",AE,89226,2003-01-12,20,804.0,24.62,male,salesman,15,FIXED,0
+10312,Haley Bass,Haley,Bass,"42680 Rose Squares Apt. 488
+Port Matthew, IA 02912",IA,02912,1985-12-15,37,801.0,28.6,female,student,30,FIXED,0
+10313,Andrew Hale,Andrew,Hale,"78103 Frazier Crescent
+Juarezmouth, AR 49800",AR,49800,1963-08-30,59,792.0,22.1,male,plumber,30,FIXED,0
+10314,Jon Rocha,Jon,Rocha,"560 Pineda Parkways Apt. 687
+West Jackson, GU 22017",GU,22017,1956-03-28,67,424.0,79.32,male,software developer,30,FIXED,1
+10315,Jillian Long,Jillian,Long,"338 Robert Forks Apt. 220
+Jamesmouth, MT 80268",MT,80268,1999-04-27,23,359.0,79.28,female,salesman,30,FIXED,1
+10316,Susan Mitchell,Susan,Mitchell,"549 Castaneda Plains Suite 644
+South Courtneystad, NY 22199",NY,22199,1995-09-08,27,807.0,48.79,female,mechanic,30,FIXED,0
+10317,Margaret Davis,Margaret,Davis,"01592 Jones Station Suite 454
+Wallstad, AR 91885",AR,91885,1965-09-29,57,504.0,55.41,female,lawyer,30,FIXED,1
+10318,Kyle Santos,Kyle,Santos,"92089 Vazquez Drive Apt. 143
+Donaldshire, OK 29898",OK,29898,1952-04-10,71,350.0,72.73,female,librarian,15,FIXED,1
+10319,Jennifer Guerrero,Jennifer,Guerrero,"276 Charles Stravenue
+East Jacksonchester, NC 87890",NC,87890,1950-10-29,72,709.0,60.45,female,mason,30,FIXED,0
+10320,Kayla Ferguson,Kayla,Ferguson,"16140 Garcia Way
+Beardfurt, WI 48789",WI,48789,1967-02-08,56,649.0,48.08,female,plumber,30,FIXED,0
+10321,Tammy Hernandez,Tammy,Hernandez,"73698 Reed Meadows Apt. 661
+West Lydiabury, DC 86681",DC,86681,1977-08-18,45,769.0,63.52,female,dentist,30,FIXED,0
+10322,Kendra Mendoza,Kendra,Mendoza,"3004 Roger Route
+Matthewbury, OR 44146",OR,44146,1957-02-17,66,687.0,46.62,female,plumber,30,FIXED,0
+10323,Edward Hanson,Edward,Hanson,"364 Curtis Squares Apt. 374
+Linshire, PA 13983",PA,13983,1979-09-24,43,517.0,78.83,male,salesman,30,FIXED,1
+10324,James Fuller,James,Fuller,"7922 Jarvis Corners Apt. 917
+North Lindafort, CO 63267",CO,63267,1990-06-28,32,803.0,26.3,male,fireman,30,FIXED,0
+10325,Joe Roman,Joe,Roman,"7885 Rebecca Harbor Apt. 944
+North Joanne, CA 50873",CA,50873,1974-01-06,49,581.0,73.64,male,lawyer,30,FIXED,0
+10326,Brandi Castillo,Brandi,Castillo,"9532 Cunningham Ranch Apt. 345
+Elizabethton, NH 52892",NH,52892,1983-11-03,39,348.0,83.92,female,electrician,30,FIXED,1
+10327,Shannon Rivera,Shannon,Rivera,"3378 Baker Roads
+North Carolyn, MN 61405",MN,61405,1957-06-18,65,793.0,36.21,female,mechanic,30,FIXED,0
+10328,Chelsey Banks,Chelsey,Banks,"067 Horn Oval
+East Tyler, OH 91684",OH,91684,1954-06-21,68,789.0,22.4,female,dentist,15,FIXED,0
+10329,Rachel Fuller,Rachel,Fuller,"9130 Chase Cliff Suite 432
+North Marcia, NM 84440",NM,84440,1960-09-04,62,568.0,57.24,female,doctor,30,FIXED,0
+10330,Kristen Lopez,Kristen,Lopez,"5602 Lisa Locks Apt. 055
+Garzashire, FM 88193",FM,88193,1983-01-03,40,790.0,46.26,female,accountant,30,FIXED,0
+10331,William Owen,William,Owen,"937 Jorge Crescent Apt. 353
+Williamfurt, GA 99136",GA,99136,1952-09-09,70,581.0,61.05,male,fireman,30,FIXED,0
+10332,Jessica Lindsey,Jessica,Lindsey,"0853 Schwartz Corner Apt. 451
+Brownfort, PA 49614",PA,49614,1962-12-09,60,762.0,53.01,female,doctor,30,FIXED,0
+10333,Chad Smith,Chad,Smith,"7424 Jones Junction Suite 764
+West Jeffrey, MO 38738",MO,38738,1971-01-07,52,605.0,59.85,male,mechanic,30,FIXED,0
+10334,Michael Atkins,Michael,Atkins,"2140 Mary Harbor
+Tuckerton, FM 72443",FM,72443,1958-10-26,64,563.0,61.24,male,salesman,30,FIXED,0
+10335,Patricia Miller,Patricia,Miller,"9248 Amber Views Suite 394
+Taylorberg, FM 95719",FM,95719,1972-08-24,50,354.0,78.19,female,fireman,30,FIXED,1
+10336,Cole Harvey,Cole,Harvey,"129 Teresa Path Suite 133
+Douglastown, CA 48025",CA,48025,1952-08-06,70,361.0,83.64,male,salesman,15,FIXED,1
+10337,Timothy Mckenzie,Timothy,Mckenzie,"05747 Andrew Forges
+Kristenbury, MH 36537",MH,36537,1984-05-10,38,806.0,42.58,male,software developer,30,FIXED,0
+10338,Lori Williams,Lori,Williams,"8348 Marquez Drives
+North Andrea, SC 85809",SC,85809,1985-08-08,37,800.0,35.15,female,electrician,30,FIXED,0
+10339,Arthur Williams,Arthur,Williams,"7712 Jacqueline Passage
+North Jose, PR 41016",PR,41016,1968-06-24,54,795.0,34.63,male,plumber,30,FIXED,0
+10340,Mark Carroll,Mark,Carroll,"82929 Kelly Street
+Justinstad, MD 68996",MD,68996,1993-09-23,29,767.0,55.36,male,lawyer,30,FIXED,0
+10341,Derek Schneider,Derek,Schneider,"74125 Shane Parks
+Port Codyland, ND 82635",ND,82635,1996-07-11,26,366.0,65.37,male,fireman,30,FIXED,1
+10342,Joanna Boyd,Joanna,Boyd,"250 Cochran Dam Apt. 664
+Zamoratown, GA 71131",GA,71131,1978-06-10,44,784.0,23.48,female,software developer,30,FIXED,0
+10343,Christopher Sanchez,Christopher,Sanchez,"49824 Richards Row
+Port Mathew, DE 02598",DE,02598,1992-05-28,30,756.0,40.68,male,software developer,15,FIXED,1
+10344,Faith Farrell,Faith,Farrell,"Unit 5081 Box 3436
+DPO AA 63147",AA,63147,1992-12-18,30,344.0,78.61,female,lawyer,30,FIXED,1
+10345,Daniel Alvarado,Daniel,Alvarado,"PSC 2031, Box 8014
+APO AE 92305",AE,92305,1970-07-27,52,803.0,28.54,male,software developer,30,FIXED,0
+10346,Kyle Moore,Kyle,Moore,"7088 Austin Avenue
+Bradfordfort, DE 65591",DE,65591,1986-07-09,36,590.0,61.29,female,mechanic,30,FIXED,0
+10347,Karen Lee,Karen,Lee,"41518 Charles Rue
+Austinchester, MA 58362",MA,58362,1995-10-19,27,397.0,79.03,female,nurse,30,FIXED,1
+10348,Natasha Boyd,Natasha,Boyd,"43706 Kristin Avenue Apt. 349
+Port Crystalmouth, ME 87737",ME,87737,1994-09-04,28,355.0,80.31,female,teacher,30,FIXED,1
+10349,Ann Scott,Ann,Scott,"032 Jones Meadows Suite 246
+Boyertown, FM 09300",FM,09300,1963-12-14,59,544.0,69.32,female,doctor,15,FIXED,1
+10350,Christian Dixon,Christian,Dixon,"883 Flores View
+Elizabethfort, CO 30624",CO,30624,2000-07-02,22,350.0,77.52,male,electrician,30,FIXED,1
+10351,Matthew Payne,Matthew,Payne,"PSC 2097, Box 5243
+APO AP 13609",AP,13609,1993-02-03,30,760.0,33.18,male,salesman,30,FIXED,0
+10352,Jimmy Chambers,Jimmy,Chambers,"909 Cross Station Suite 020
+North Craig, OR 42423",OR,42423,1967-03-12,56,806.0,31.77,male,stockbroker,30,FIXED,0
+10353,Paige Phillips,Paige,Phillips,"67357 Butler Skyway
+North Amberton, OH 51291",OH,51291,1961-06-27,61,797.0,20.38,female,salesman,30,FIXED,0
+10354,Jacob Rojas,Jacob,Rojas,"90435 Schmidt Coves Apt. 440
+Lake Lorraine, ID 45067",ID,45067,2000-03-12,23,801.0,25.95,male,salesman,30,FIXED,0
+10355,Shaun Baker,Shaun,Baker,"79467 Kara Unions
+Bradleyfurt, HI 68381",HI,68381,1994-03-23,29,431.0,80.71,male,plumber,30,FIXED,1
+10356,Emily Lewis,Emily,Lewis,"04145 Rachel Inlet Apt. 807
+Lake Jonstad, WI 73979",WI,73979,2001-07-17,21,796.0,29.74,female,mechanic,30,FIXED,0
+10357,Susan Johnson,Susan,Johnson,"507 Mcbride Coves Suite 585
+Abigailberg, FM 24105",FM,24105,1952-10-20,70,420.0,81.56,female,investment banker,30,FIXED,1
+10358,Eric Short,Eric,Short,"52959 Ortiz Shore
+Amberchester, AR 76448",AR,76448,1977-06-14,45,813.0,24.31,male,dentist,15,FIXED,0
+10359,Jennifer Shaw,Jennifer,Shaw,"7198 Malone Freeway Suite 551
+West Crystal, CO 58294",CO,58294,1963-05-16,59,633.0,56.79,female,mechanic,30,FIXED,0
+10360,Robert Lindsey,Robert,Lindsey,"04092 Brandon Parkways Apt. 903
+West Vanessaberg, OH 54749",OH,54749,1957-04-11,66,351.0,82.74,male,accountant,30,FIXED,1
+10361,Sara Holt,Sara,Holt,"3452 Maureen Lane
+Ramirezfort, NV 20890",NV,20890,1962-09-23,60,608.0,79.66,female,librarian,30,FIXED,0
+10362,Samuel Humphrey,Samuel,Humphrey,"292 Nielsen Mill
+South Steven, NE 43174",NE,43174,1965-10-01,57,337.0,85.49,male,librarian,30,FIXED,1
+10363,Kyle Mcdonald,Kyle,Mcdonald,"02080 Steven Shore
+North Danielle, FL 94353",FL,94353,1984-02-14,39,806.0,22.2,female,electrician,30,FIXED,0
+10364,Angelica Hickman,Angelica,Hickman,"76822 Zachary Island Suite 476
+New Rebecca, WV 00903",WV,00903,1956-12-07,66,822.0,40.1,female,salesman,30,FIXED,0
+10365,Taylor Hopkins,Taylor,Hopkins,"USNS Silva
+FPO AE 90486",AE,90486,1966-10-07,56,631.0,45.85,male,librarian,30,FIXED,0
+10366,Brooke Payne,Brooke,Payne,"67266 Brandon Cliffs Apt. 209
+East Cynthiamouth, SD 82810",SD,82810,1951-05-27,71,792.0,23.42,female,lawyer,30,FIXED,0
+10367,Rhonda Flores,Rhonda,Flores,"PSC 2552, Box 8660
+APO AE 72049",AE,72049,1996-12-23,26,812.0,41.09,female,accountant,30,FIXED,0
+10368,Deborah Nelson,Deborah,Nelson,"967 Huff Drive
+Lake Ashleyside, VI 33114",VI,33114,1981-02-23,42,744.0,39.76,female,mason,30,FIXED,0
+10369,Randy Campbell,Randy,Campbell,"51160 Solis Neck
+Robertshire, MP 52238",MP,52238,1969-11-22,53,347.0,92.85,male,salesman,15,FIXED,1
+10370,Stephanie Bush,Stephanie,Bush,"USNS Jordan
+FPO AA 78022",AA,78022,1990-08-19,32,758.0,44.95,female,investment banker,30,FIXED,0
+10371,Sarah Flores,Sarah,Flores,"7709 Villa Path Apt. 590
+Matthewborough, WI 32571",WI,32571,1971-08-22,51,635.0,49.6,female,stockbroker,30,FIXED,1
+10372,Michael Bullock,Michael,Bullock,"6672 Kathryn Manor
+Shanechester, AZ 44754",AZ,44754,1992-09-01,30,564.0,60.92,male,dentist,30,FIXED,0
+10373,Scott Brown,Scott,Brown,"7350 Lisa Crossing Apt. 690
+Carrieshire, NV 55948",NV,55948,1966-08-29,56,792.0,28.76,male,retired,30,FIXED,0
+10374,Jennifer Burch,Jennifer,Burch,"1613 Tammy Loop Suite 769
+Brooksborough, HI 34498",HI,34498,1966-06-24,56,395.0,80.7,female,doctor,30,FIXED,1
+10375,Sonya Durham,Sonya,Durham,"06752 Miller Hollow
+East Saramouth, IA 28265",IA,28265,1979-05-31,43,796.0,24.42,female,accountant,30,FIXED,0
+10376,Daniel Frazier,Daniel,Frazier,"463 Andrew Motorway
+Lisashire, MH 99064",MH,99064,1966-02-24,57,808.0,41.02,male,electrician,30,FIXED,0
+10377,Catherine Barnes,Catherine,Barnes,"88038 Moore Square
+Brayland, WA 43317",WA,43317,1955-09-13,67,805.0,32.32,female,software developer,30,FIXED,0
+10378,Timothy Willis,Timothy,Willis,"9845 Reed Summit
+Longstad, DC 18455",DC,18455,1987-04-22,36,351.0,85.76,male,stockbroker,30,FIXED,1
+10379,John Johnson,John,Johnson,"4323 Montgomery Fork
+East Christopher, MA 49412",MA,49412,1996-01-04,27,557.0,48.71,male,software developer,30,FIXED,0
+10380,Tony Odom,Tony,Odom,"2710 David Plains
+North Bradview, SC 67883",SC,67883,1978-12-28,44,810.0,29.05,male,mechanic,30,FIXED,0
+10381,April Powell,April,Powell,"532 King River Suite 892
+Doughertystad, FL 88836",FL,88836,1970-10-13,52,337.0,85.37,female,salesman,30,FIXED,1
+10382,Dustin Boyer,Dustin,Boyer,"1032 Robinson Estates
+North Evanside, OK 79890",OK,79890,1982-04-03,41,799.0,49.88,male,accountant,30,FIXED,0
+10383,Mrs. Nicole Hayes,Nicole,Hayes,"135 Miller Path Apt. 648
+Hernandezbury, NC 38280",NC,38280,1982-08-21,40,437.0,76.51,female,plumber,30,FIXED,1
+10384,Gregory Bolton,Gregory,Bolton,"83973 Sherry Hollow Apt. 758
+South Jessicaview, UT 07600",UT,07600,1983-10-06,39,782.0,38.24,male,plumber,30,FIXED,0
+10385,Veronica Gonzalez,Veronica,Gonzalez,"281 Jones Dale
+Jeffreyfort, PR 71211",PR,71211,1971-09-29,51,812.0,25.22,female,retired,30,FIXED,0
+10386,Phyllis Smith,Phyllis,Smith,"816 Marshall Lake Apt. 140
+Johnsonland, CA 28008",CA,28008,1950-11-23,72,343.0,92.95,female,quantitative researcher,15,FIXED,1
+10387,Phillip Baker,Phillip,Baker,"516 Christian Field Suite 688
+Lake Cody, UT 97379",UT,97379,1952-04-13,71,602.0,61.41,male,salesman,30,FIXED,0
+10388,Deborah Gray,Deborah,Gray,"21789 Knight Harbors Suite 118
+South Kerrymouth, VT 64982",VT,64982,1954-12-02,68,359.0,74.42,female,mechanic,30,FIXED,1
+10389,Michael Simmons,Michael,Simmons,"0979 Lisa Bridge Apt. 116
+South Kathrynfort, ME 55966",ME,55966,1964-08-08,58,660.0,63.67,male,student,30,FIXED,0
+10390,Alex Kline,Alex,Kline,"USCGC Casey
+FPO AP 76947",AP,76947,1972-11-17,50,655.0,54.1,male,salesman,30,FIXED,1
+10391,Kelly Short,Kelly,Short,"332 Evans Summit
+North Adam, MT 15552",MT,15552,1982-07-03,40,658.0,52.22,female,lawyer,30,FIXED,0
+10392,Joshua Benson,Joshua,Benson,"490 Crystal Pines
+Nolanbury, DE 54524",DE,54524,1990-12-05,32,369.0,75.83,male,salesman,30,FIXED,1
+10393,Brooke Harper,Brooke,Harper,"57731 Turner Crest Suite 253
+Angelaville, IL 39199",IL,39199,1995-06-01,27,509.0,61.39,female,student,30,FIXED,1
+10394,Michael Ross,Michael,Ross,"756 Wood Rapid Apt. 256
+Michelleview, CT 98137",CT,98137,2000-03-19,23,355.0,84.97,male,accountant,30,FIXED,1
+10395,Katherine Sutton,Katherine,Sutton,"USS Cobb
+FPO AE 59219",AE,59219,1950-07-18,72,795.0,32.74,female,contractor,30,FIXED,0
+10396,Richard Williams MD,Richard,Williams,"7776 Laura Cliff
+New Nicholaschester, SC 93599",SC,93599,1979-05-26,43,352.0,90.29,male,salesman,30,FIXED,1
+10397,Lauren Acosta,Lauren,Acosta,"8843 Matthew Land Suite 175
+Antoniochester, OK 39703",OK,39703,1992-05-30,30,678.0,35.78,female,mason,30,FIXED,0
+10398,Martin Fritz,Martin,Fritz,"USNV Terry
+FPO AA 50194",AA,50194,1992-08-29,30,798.0,49.67,male,accountant,30,FIXED,1
+10399,Daniel Johnston,Daniel,Johnston,"25549 Miller Ford
+Ramirezland, AK 64463",AK,64463,2003-01-30,20,359.0,85.13,male,software developer,15,FIXED,1
+10400,Michelle Eaton,Michelle,Eaton,"0323 Carter Gardens Apt. 138
+Port Alicia, LA 94274",LA,94274,1956-03-10,67,638.0,58.7,female,salesman,30,FIXED,0
+10401,April Harris,April,Harris,"6279 Browning Hollow Apt. 463
+Gatesmouth, AR 57133",AR,57133,1983-07-21,39,433.0,79.89,female,plumber,30,FIXED,1
+10402,Nathan Duarte,Nathan,Duarte,"0648 Burns Junctions
+Tiffanyton, PR 29691",PR,29691,1974-07-28,48,789.0,48.76,male,contractor,30,FIXED,0
+10403,Joshua Strickland,Joshua,Strickland,"61505 Julie Knoll
+New Sara, FM 68098",FM,68098,1966-12-31,56,769.0,34.41,male,electrician,30,FIXED,1
+10404,Sophia Johnston,Sophia,Johnston,"0454 Jeanette Ford Suite 523
+Brownmouth, MS 22287",MS,22287,1960-12-08,62,350.0,76.21,female,librarian,30,FIXED,1
+10405,Rebekah Jones,Rebekah,Jones,"5532 Liu Haven
+Burnsfurt, OH 08735",OH,08735,1989-02-21,34,801.0,34.85,female,quantitative researcher,30,FIXED,0
+10406,Brittany Reid,Brittany,Reid,"776 Patrick View Suite 315
+Lake Cheryl, VA 55697",VA,55697,1990-07-12,32,643.0,56.19,female,nurse,30,FIXED,1
+10407,Alex Nguyen,Alex,Nguyen,"4526 Baker Station Apt. 119
+Stephenchester, ID 95302",ID,95302,1986-01-01,37,420.0,69.56,male,accountant,30,FIXED,1
+10408,Jacob Adams,Jacob,Adams,"05290 Thomas Lodge
+East Maryshire, ID 03241",ID,03241,1980-10-19,42,795.0,34.76,male,software developer,30,FIXED,0
+10409,Priscilla Duffy,Priscilla,Duffy,"879 Anderson Forks
+Davidside, VT 31243",VT,31243,2000-07-16,22,812.0,48.24,female,electrician,30,FIXED,0
+10410,Mark Flores,Mark,Flores,"USCGC Zamora
+FPO AE 88342",AE,88342,1985-06-05,37,340.0,71.54,male,lawyer,30,FIXED,1
+10411,Laura Patterson,Laura,Patterson,"5257 Amy Ferry Apt. 722
+Brandonland, TX 92157",TX,92157,1983-02-07,40,795.0,37.66,female,electrician,30,FIXED,0
+10412,Christopher Gray,Christopher,Gray,"088 Terri Flats
+Kristyberg, MP 93934",MP,93934,1984-02-21,39,814.0,27.23,male,electrician,30,FIXED,0
+10413,Timothy Jones,Timothy,Jones,"973 Miller Plaza
+Ramirezstad, NV 14586",NV,14586,1970-09-03,52,731.0,53.67,male,salesman,30,FIXED,0
+10414,Mrs. Debra Robinson MD,Debra,Robinson,"3230 Peggy Orchard Apt. 123
+Thompsonborough, SD 99677",SD,99677,1996-09-13,26,413.0,70.74,female,lawyer,30,FIXED,1
+10415,Emily Munoz,Emily,Munoz,"507 Kimberly Fork Suite 480
+North Deniseville, OR 28328",OR,28328,1980-08-15,42,790.0,27.06,female,mechanic,30,FIXED,0
+10416,Mrs. Erin Larsen,Erin,Larsen,"USS Martin
+FPO AE 99289",AE,99289,1977-11-19,45,802.0,14.77,female,retired,30,FIXED,0
+10417,Julie Mendoza,Julie,Mendoza,"9852 Mullins Bridge
+Lake Desireeland, OK 66460",OK,66460,1984-06-30,38,349.0,89.26,female,librarian,30,FIXED,1
+10418,Jeffrey Horne,Jeffrey,Horne,"647 Rios Motorway
+New Ashleyview, VT 59679",VT,59679,1960-03-30,63,819.0,31.33,male,plumber,30,FIXED,0
+10419,Erin Harris,Erin,Harris,"3465 Abigail Cape Apt. 808
+Mejiamouth, GA 44588",GA,44588,1964-10-08,58,339.0,88.86,female,librarian,30,FIXED,1
+10420,Angela Rogers,Angela,Rogers,"887 Reese Walk Apt. 280
+Gomezton, FL 06974",FL,06974,1961-05-10,61,369.0,94.37,female,doctor,30,FIXED,1
+10421,Eric Zimmerman,Eric,Zimmerman,"467 Dave Corners
+North Nancy, HI 04649",HI,04649,1964-01-10,59,340.0,83.94,male,doctor,30,FIXED,1
+10422,Bonnie Preston,Bonnie,Preston,"5897 Sean Ports
+North Victoriaport, MH 82441",MH,82441,1997-04-30,25,341.0,81.06,female,teacher,30,FIXED,1
+10423,Timothy Velasquez,Timothy,Velasquez,"PSC 0903, Box 0156
+APO AE 66444",AE,66444,1966-01-04,57,802.0,51.37,male,salesman,30,FIXED,0
+10424,Andrew Williams,Andrew,Williams,"018 Allen Underpass
+East Amyton, FL 91804",FL,91804,2002-07-21,20,806.0,36.93,male,doctor,30,FIXED,0
+10425,Dr. Brett Barrett,Brett,Barrett,"6031 Derek Village Apt. 713
+West Donnahaven, GU 84826",GU,84826,1956-01-09,67,338.0,73.45,male,plumber,30,FIXED,1
+10426,Elizabeth Smith,Elizabeth,Smith,"8675 George Green Apt. 347
+East Jason, OK 10493",OK,10493,1996-03-30,27,794.0,32.21,female,mechanic,30,FIXED,0
+10427,Jeffrey Frazier,Jeffrey,Frazier,"28024 Jeremy Islands
+Port Kimberlyview, OK 96344",OK,96344,1950-09-02,72,811.0,29.96,male,teacher,30,FIXED,0
+10428,Elizabeth Hopkins,Elizabeth,Hopkins,"88235 Nicole Ferry Suite 863
+Amandaton, WV 83078",WV,83078,1991-03-09,32,526.0,72.18,female,contractor,30,FIXED,1
+10429,Melody Richard,Melody,Richard,"018 Richards Street Suite 573
+Darleneport, MA 87246",MA,87246,1962-08-03,60,346.0,79.59,female,doctor,30,FIXED,1
+10430,Brandon Wright,Brandon,Wright,"039 Bray View
+Mclaughlinburgh, HI 15278",HI,15278,1983-10-08,39,808.0,36.46,male,salesman,15,FIXED,0
+10431,Jason Carpenter,Jason,Carpenter,"586 Shelton Causeway Suite 163
+Brockhaven, MD 51526",MD,51526,1980-03-15,43,360.0,75.43,male,lawyer,30,FIXED,1
+10432,Kerry Peterson,Kerry,Peterson,"940 Andrews Well
+East Lisa, KS 40476",KS,40476,2001-11-03,21,795.0,3.35,female,retired,30,FIXED,0
+10433,Paul Frey,Paul,Frey,"1674 Donna Creek Suite 332
+Millerside, IL 14350",IL,14350,1970-02-13,53,617.0,64.66,male,salesman,30,FIXED,0
+10434,Shelly Frederick,Shelly,Frederick,"324 William Parkway Apt. 850
+East Wanda, MT 84983",MT,84983,1982-05-08,40,651.0,41.88,female,software developer,30,FIXED,0
+10435,Kenneth Middleton,Kenneth,Middleton,"94487 William Ports Apt. 497
+East Peterborough, PA 17677",PA,17677,1954-12-11,68,571.0,51.04,male,lawyer,15,FIXED,0
+10436,Richard Patterson,Richard,Patterson,"77369 Hayes Brook
+South Michael, ID 41803",ID,41803,1956-03-13,67,743.0,49.97,male,doctor,30,FIXED,0
+10437,Cassandra Smith,Cassandra,Smith,"843 Jennifer Rapids Apt. 818
+Port Heathertown, ME 99122",ME,99122,1970-06-18,52,800.0,37.42,female,salesman,30,FIXED,0
+10438,Tiffany Orozco,Tiffany,Orozco,"3619 Jones Canyon Suite 242
+Martinezstad, IN 03136",IN,03136,1958-01-10,65,813.0,21.12,female,retired,15,FIXED,0
+10439,Tammy Roberson,Tammy,Roberson,"88414 Schultz Rapid
+Elizabethville, GA 87868",GA,87868,1960-07-26,62,416.0,90.99,female,doctor,15,FIXED,1
+10440,Robert Dennis,Robert,Dennis,"033 Sophia Manors Apt. 421
+New Tammyton, ME 32135",ME,32135,1998-03-24,25,368.0,71.73,male,stockbroker,15,FIXED,1
+10441,Elizabeth Boone,Elizabeth,Boone,"USS Hunter
+FPO AA 28550",AA,28550,1968-05-26,54,825.0,32.11,female,software developer,30,FIXED,0
+10442,Melanie Hammond,Melanie,Hammond,"USNV Anderson
+FPO AE 46624",AE,46624,1993-08-27,29,360.0,91.42,female,stockbroker,30,FIXED,1
+10443,Steven Carpenter,Steven,Carpenter,"2458 Matthew Vista Apt. 978
+East Kelly, DC 76474",DC,76474,1950-09-19,72,348.0,86.65,male,teacher,30,FIXED,1
+10444,John Harvey,John,Harvey,"45283 Turner Falls Suite 226
+Foxbury, PA 65174",PA,65174,1994-02-04,29,797.0,24.98,male,stockbroker,30,FIXED,0
+10445,Claudia Peters,Claudia,Peters,"43001 Miller Valleys Suite 094
+Hannahton, VA 08906",VA,08906,1980-11-12,42,555.0,74.03,female,accountant,30,FIXED,0
+10446,Michael Yates,Michael,Yates,"77230 Lucas Road
+South Robert, AS 16215",AS,16215,1970-09-10,52,803.0,39.55,male,mechanic,30,FIXED,0
+10447,Beth Nguyen,Beth,Nguyen,"662 Carter Brooks Apt. 055
+Morganburgh, DE 41858",DE,41858,1958-12-19,64,794.0,30.0,female,fireman,30,FIXED,0
+10448,Laura Farmer,Laura,Farmer,"USCGC Greene
+FPO AE 58896",AE,58896,1953-06-23,69,759.0,49.19,female,fireman,30,FIXED,0
+10449,Jennifer Powell,Jennifer,Powell,"14386 Duffy Neck
+North Jessicaton, ID 07585",ID,07585,1979-07-19,43,786.0,29.9,female,stockbroker,30,FIXED,0
+10450,Erika Hughes,Erika,Hughes,"363 Elizabeth Pines
+South Jose, NC 12753",NC,12753,1981-06-18,41,804.0,35.76,female,software developer,30,FIXED,0
+10451,Antonio West,Antonio,West,"552 Watkins Gardens Suite 084
+Christinetown, OR 39289",OR,39289,1986-12-24,36,610.0,63.26,male,salesman,15,FIXED,0
+10452,Daniel Garcia,Daniel,Garcia,"PSC 1046, Box 8621
+APO AE 50620",AE,50620,1959-08-11,63,543.0,68.62,male,teacher,30,FIXED,1
+10453,Caitlin Brady,Caitlin,Brady,"31780 Wall View
+Smithshire, GA 26138",GA,26138,1962-10-12,60,799.0,44.34,female,contractor,15,FIXED,0
+10454,Mary Gonzalez,Mary,Gonzalez,"2616 Stacey Dale
+South Hannah, GU 59896",GU,59896,1981-05-26,41,801.0,16.49,female,retired,15,FIXED,0
+10455,Casey Miller,Casey,Miller,"972 Campbell Views
+South Andre, MS 10100",MS,10100,1992-08-31,30,672.0,55.92,female,librarian,30,FIXED,0
+10456,Monica Taylor,Monica,Taylor,"Unit 3875 Box 9534
+DPO AA 50725",AA,50725,1987-07-22,35,693.0,45.83,female,fireman,30,FIXED,0
+10457,Chad Booth,Chad,Booth,"72391 Samantha Crossing
+East Johntown, SC 91005",SC,91005,1999-06-19,23,674.0,39.23,male,mechanic,30,FIXED,0
+10458,Jose Parker,Jose,Parker,"Unit 8033 Box 0267
+DPO AE 45797",AE,45797,2000-04-04,23,806.0,20.32,male,plumber,30,FIXED,0
+10459,Karen Arnold,Karen,Arnold,"5538 Ramos Way Suite 091
+Jeffreyport, UT 68559",UT,68559,1975-02-28,48,354.0,94.74,female,salesman,30,FIXED,1
+10460,Jordan Hill,Jordan,Hill,"57667 Tammy Street Suite 910
+Lisaborough, SD 81807",SD,81807,1964-03-30,59,593.0,71.14,male,lawyer,30,FIXED,0
+10461,Shawn Taylor,Shawn,Taylor,"57678 Lindsay Haven Suite 175
+New Brendaberg, NV 50854",NV,50854,1953-01-20,70,340.0,85.78,male,student,30,FIXED,1
+10462,Christopher Gonzales,Christopher,Gonzales,"USS Mccoy
+FPO AA 94768",AA,94768,2001-04-05,22,357.0,92.83,male,data scientist,30,FIXED,1
+10463,Sandra Rivas,Sandra,Rivas,"1670 Christina Mission
+Emilyhaven, NY 81177",NY,81177,1953-08-25,69,346.0,89.59,female,nurse,30,FIXED,1
+10464,Christopher Hernandez,Christopher,Hernandez,"12195 Wayne Fall
+Spencerberg, AS 73128",AS,73128,1990-01-16,33,800.0,36.9,male,plumber,30,FIXED,0
+10465,Lauren Miller,Lauren,Miller,"729 Joy Lake
+North Michael, NH 65443",NH,65443,1996-03-09,27,367.0,82.33,female,dentist,30,FIXED,1
+10466,Todd Owens,Todd,Owens,"5587 Munoz Roads Apt. 802
+Bennettshire, AK 38301",AK,38301,1998-07-25,24,583.0,62.2,male,doctor,30,FIXED,1
+10467,Antonio Peterson,Antonio,Peterson,"9460 Miranda Corners Apt. 033
+South Jennifer, CO 96291",CO,96291,1976-12-31,46,551.0,62.43,male,dentist,30,FIXED,0
+10468,Bailey Henderson MD,Bailey,Henderson,"3050 Lane Place Suite 115
+Marymouth, PA 88295",PA,88295,1963-05-05,59,370.0,75.55,female,dentist,30,FIXED,1
+10469,Frank Greer,Frank,Greer,"025 Martinez Flat Apt. 334
+South Jakeshire, PW 84332",PW,84332,1989-06-17,33,788.0,21.04,male,salesman,30,FIXED,0
+10470,Shane Sullivan,Shane,Sullivan,"413 Kelly Ferry
+Port Richard, OK 04330",OK,04330,2000-07-05,22,795.0,1.81,male,retired,30,FIXED,0
+10471,Nicole Lewis,Nicole,Lewis,"81223 Jessica Shore Suite 201
+Lake Monica, DE 66020",DE,66020,1991-07-31,31,796.0,37.93,female,nurse,30,FIXED,1
+10472,Dustin Nichols,Dustin,Nichols,"7989 Stephanie Mountains
+Andrewstad, GU 49541",GU,49541,1963-05-19,59,787.0,50.91,male,salesman,30,FIXED,0
+10473,Amy Kline,Amy,Kline,"177 Benson Hills Apt. 569
+North Kimberly, AZ 54431",AZ,54431,1972-05-29,50,354.0,71.48,female,student,30,FIXED,1
+10474,Heather Hicks,Heather,Hicks,"7900 Miller Lane
+New Williammouth, MD 06046",MD,06046,1997-09-22,25,666.0,44.52,female,nurse,30,FIXED,1
+10475,Yolanda Vang,Yolanda,Vang,"7233 Matthew Junctions Suite 083
+Jeffreyville, OH 55918",OH,55918,1962-05-29,60,357.0,76.39,female,dentist,30,FIXED,1
+10476,Angela Hernandez,Angela,Hernandez,"1868 Chung Center Apt. 915
+New Anthonyside, DC 37453",DC,37453,2002-02-03,21,807.0,34.14,female,teacher,30,FIXED,0
+10477,James Rice,James,Rice,"74343 Jessica Gardens
+East Amandachester, DE 96344",DE,96344,1959-07-09,63,791.0,46.64,male,teacher,30,FIXED,0
+10478,Jim Sanders,Jim,Sanders,"222 Samuel Port
+New Mirandatown, NV 84903",NV,84903,1950-10-23,72,811.0,53.22,male,salesman,30,FIXED,0
+10479,Savannah Valdez,Savannah,Valdez,"84702 Wood Junction Suite 222
+North Brittany, ND 99162",ND,99162,1988-05-23,34,792.0,28.77,female,accountant,30,FIXED,0
+10480,Kristine Anderson,Kristine,Anderson,"26412 Veronica Wells
+Singletonberg, MI 47907",MI,47907,1958-08-16,64,793.0,35.55,female,retired,30,FIXED,0
+10481,Eric Mcdonald,Eric,Mcdonald,"57102 Luis Crossroad
+South Daniel, ID 55282",ID,55282,1966-05-14,56,369.0,81.45,male,teacher,30,FIXED,1
+10482,Jeremy Marks,Jeremy,Marks,"11494 Nunez Oval Apt. 890
+South Juan, OR 23807",OR,23807,1986-08-30,36,794.0,24.81,male,stockbroker,30,FIXED,0
+10483,Mary Hardy,Mary,Hardy,"297 Johnson Falls Apt. 981
+West Craigburgh, AK 96420",AK,96420,1982-03-04,41,353.0,89.15,female,teacher,30,FIXED,1
+10484,Kathleen Coleman,Kathleen,Coleman,"69966 Elliott Rue
+Wendyton, GU 36939",GU,36939,1959-05-06,63,656.0,38.81,female,software developer,30,FIXED,0
+10485,Eric Murray,Eric,Murray,"86577 Gregory Avenue
+Jimport, IL 59441",IL,59441,1962-10-30,60,799.0,20.92,male,salesman,30,FIXED,0
+10486,Peter Murray,Peter,Murray,"780 Lori Row Apt. 907
+Gregorystad, MP 75115",MP,75115,1986-09-29,36,800.0,34.79,male,software developer,30,FIXED,0
+10487,Melanie Fitzpatrick,Melanie,Fitzpatrick,"22769 Evan Street Suite 220
+Jimenezberg, OR 12558",OR,12558,1988-01-11,35,789.0,40.44,female,salesman,30,FIXED,0
+10488,Brittany Le,Brittany,Le,"464 Conway Viaduct
+Lake Derrickborough, MI 96308",MI,96308,1994-01-22,29,358.0,84.91,female,quantitative researcher,30,FIXED,1
+10489,James Warner,James,Warner,"38583 Hubbard Green Suite 492
+Port Michael, PW 11339",PW,11339,1989-01-10,34,729.0,57.02,male,plumber,30,FIXED,0
+10490,Juan Garrison,Juan,Garrison,"141 West Road Suite 420
+Ericksonbury, AL 40919",AL,40919,1975-11-16,47,460.0,67.25,male,plumber,30,FIXED,1
+10491,Holly Webb,Holly,Webb,"8732 Simmons Glen Apt. 787
+Lopezfurt, PR 06077",PR,06077,1988-06-09,34,736.0,49.12,female,electrician,30,FIXED,1
+10492,Kenneth Beck,Kenneth,Beck,"0539 Salinas Gateway Apt. 663
+New Nicholas, SC 64619",SC,64619,1960-09-27,62,361.0,85.31,male,dentist,30,FIXED,1
+10493,Richard Beck,Richard,Beck,"3082 Shaun Lane
+Mistyland, MH 51818",MH,51818,1996-07-01,26,793.0,30.6,male,accountant,30,FIXED,0
+10494,Stephanie Brock,Stephanie,Brock,"44832 David Ferry Apt. 138
+Lake Joseph, MI 31055",MI,31055,1955-01-29,68,787.0,20.76,female,teacher,30,FIXED,0
+10495,Erica Rasmussen,Erica,Rasmussen,"084 Walsh Tunnel
+Mcdanielchester, GU 63968",GU,63968,1970-10-19,52,366.0,94.12,female,stockbroker,30,FIXED,1
+10496,Ms. Patricia Martinez,Patricia,Martinez,"95758 Wheeler Hill
+Leonardview, UT 77882",UT,77882,1965-11-14,57,464.0,69.33,female,accountant,15,FIXED,1
+10497,Stephanie Gonzalez,Stephanie,Gonzalez,"92975 Burns Camp
+Nguyenmouth, VA 03173",VA,03173,1987-03-20,36,656.0,61.09,female,librarian,30,FIXED,0
+10498,John Waters,John,Waters,"380 Miller Skyway
+Port Nicholas, AZ 71081",AZ,71081,1994-04-05,29,458.0,84.97,male,plumber,30,FIXED,1
+10499,Anne Hickman,Anne,Hickman,"8627 Medina Dale
+Port Joshua, IN 07686",IN,07686,1972-11-22,50,640.0,63.35,female,mechanic,30,FIXED,1
+10500,Teresa Armstrong,Teresa,Armstrong,"USNS Rosario
+FPO AE 59220",AE,59220,1975-09-29,47,792.0,32.76,female,retired,30,FIXED,0
+10501,Megan Lane,Megan,Lane,"64613 Lane Alley Suite 676
+Gomezville, KY 30025",KY,30025,1964-11-28,58,346.0,73.95,female,mechanic,30,FIXED,1
+10502,Madison Erickson,Madison,Erickson,"PSC 0352, Box 3324
+APO AE 53517",AE,53517,1958-10-10,64,561.0,60.01,female,salesman,30,FIXED,1
+10503,Benjamin Sherman,Benjamin,Sherman,"3326 Todd Radial Apt. 106
+Colemanland, MD 21275",MD,21275,1958-05-02,64,641.0,39.94,male,retired,30,FIXED,0
+10504,Brian Gutierrez,Brian,Gutierrez,"1241 Castro Garden
+Martinezbury, NY 19964",NY,19964,1951-04-09,72,634.0,55.09,male,lawyer,30,FIXED,0
+10505,Denise Haney,Denise,Haney,"8855 George Ranch
+East Kathy, NC 64539",NC,64539,1968-05-14,54,455.0,58.04,female,accountant,30,FIXED,1
+10506,Jennifer Lopez,Jennifer,Lopez,"70817 Karen Place Apt. 834
+Reedmouth, AS 36577",AS,36577,1972-09-24,50,743.0,51.62,female,dentist,15,FIXED,0
+10507,Jasmine Terry,Jasmine,Terry,"941 Stevens Corners Suite 836
+West Christopherfort, PW 00716",PW,00716,1975-08-14,47,797.0,38.63,female,librarian,30,FIXED,0
+10508,Kristi Howard,Kristi,Howard,"PSC 6998, Box 0445
+APO AA 82927",AA,82927,1982-12-30,40,793.0,7.47,female,retired,30,FIXED,0
+10509,Eric Adams,Eric,Adams,"PSC 6811, Box 5079
+APO AE 38294",AE,38294,1967-05-19,55,352.0,88.44,male,plumber,15,FIXED,1
+10510,Shari Merritt,Shari,Merritt,"1520 Mallory Causeway
+Port Williammouth, LA 44429",LA,44429,1971-10-17,51,351.0,89.28,female,salesman,30,FIXED,1
+10511,Ashley Moyer,Ashley,Moyer,"Unit 3229 Box 4633
+DPO AP 51899",AP,51899,1983-04-14,40,579.0,73.32,female,salesman,30,FIXED,0
+10512,Jeffrey Myers,Jeffrey,Myers,"USNV Hernandez
+FPO AP 17423",AP,17423,1964-09-21,58,359.0,83.51,male,teacher,30,FIXED,1
+10513,Jason French,Jason,French,"4360 Thompson Point
+Lake Charles, ND 89532",ND,89532,1978-02-16,45,646.0,61.59,male,teacher,30,FIXED,0
+10514,Kimberly Miller,Kimberly,Miller,"0944 Garner Branch Suite 109
+Port Cody, NE 13791",NE,13791,1984-04-22,39,798.0,46.66,female,mechanic,30,FIXED,1
+10515,Jennifer Martin,Jennifer,Martin,"USCGC Johnson
+FPO AP 69604",AP,69604,1971-12-12,51,411.0,71.73,female,lawyer,30,FIXED,1
+10516,Cassandra Smith,Cassandra,Smith,"0157 Matthew Wells Suite 624
+Martinezberg, NJ 14499",NJ,14499,1977-03-06,46,371.0,74.95,female,accountant,30,FIXED,1
+10517,Francisco James,Francisco,James,"Unit 8339 Box 4217
+DPO AE 37218",AE,37218,1989-01-09,34,426.0,87.98,male,doctor,30,FIXED,1
+10518,Nichole Lloyd,Nichole,Lloyd,"698 Christopher Summit Apt. 757
+Lake Amanda, HI 20466",HI,20466,1961-02-21,62,799.0,23.03,female,salesman,30,FIXED,0
+10519,Keith Freeman,Keith,Freeman,"398 Jennifer Plains
+Josephchester, MP 85020",MP,85020,1987-03-31,36,808.0,32.33,male,dentist,30,FIXED,0
+10520,Christopher Wallace,Christopher,Wallace,"202 Jason Parkway
+Caseystad, NM 75009",NM,75009,1951-05-19,71,619.0,55.93,male,dentist,30,FIXED,0
+10521,Mr. Christopher Brown,Christopher,Brown,"675 Jennifer Inlet
+Brittanyville, PR 75743",PR,75743,1978-08-22,44,345.0,82.9,male,librarian,30,FIXED,1
+10522,Christine Swanson,Christine,Swanson,"5664 Jesse Course Apt. 958
+Andersontown, OH 60014",OH,60014,1992-11-03,30,806.0,38.91,female,dentist,30,FIXED,0
+10523,James Miller,James,Miller,"592 Zoe Ramp Suite 540
+North Kerrychester, IL 78928",IL,78928,1993-08-21,29,361.0,90.48,male,plumber,30,FIXED,1
+10524,Philip Thomas,Philip,Thomas,"66498 Murphy Tunnel Suite 333
+Lake Nancytown, NE 69355",NE,69355,1962-07-11,60,797.0,20.38,male,dentist,15,FIXED,0
+10525,Laurie Watson,Laurie,Watson,"97718 Harry Turnpike Apt. 185
+New Brendaton, KS 64047",KS,64047,1990-07-23,32,348.0,89.87,female,lawyer,30,FIXED,1
+10526,James White,James,White,"476 Walker Fields
+Nancybury, MO 83698",MO,83698,1974-12-22,48,604.0,64.95,male,doctor,30,FIXED,1
+10527,Michael Alexander,Michael,Alexander,"Unit 6607 Box 0303
+DPO AE 07048",AE,07048,1954-10-17,68,539.0,62.72,male,student,30,FIXED,1
+10528,Jerry Schmidt,Jerry,Schmidt,"61053 Walker Summit
+Carlosmouth, PW 53252",PW,53252,2000-05-25,22,565.0,55.11,male,librarian,30,FIXED,0
+10529,Kathryn Walls,Kathryn,Walls,"USCGC Delgado
+FPO AA 89384",AA,89384,1978-07-27,44,787.0,39.55,female,nurse,30,FIXED,1
+10530,William Rowe,William,Rowe,"514 Wilcox Fork Apt. 187
+Brewerchester, ND 59276",ND,59276,1968-03-11,55,529.0,55.71,male,salesman,30,FIXED,1
+10531,Cynthia Porter,Cynthia,Porter,"549 Jessica Island Suite 579
+New Jimmy, KY 36672",KY,36672,1991-12-31,31,363.0,86.64,female,salesman,30,FIXED,1
+10532,Dr. Amber Reyes,Amber,Reyes,"77884 Gomez Ways
+New Leahfurt, NY 34527",NY,34527,1975-12-05,47,752.0,44.24,female,librarian,15,FIXED,0
+10533,Debbie Graham,Debbie,Graham,"01912 Jennifer Lane Suite 799
+Potterstad, PR 26784",PR,26784,1951-09-20,71,797.0,35.15,female,contractor,30,FIXED,0
+10534,Tina Cole,Tina,Cole,"58300 Nicole Stream
+Frankhaven, DE 85180",DE,85180,1953-10-25,69,801.0,26.53,female,plumber,30,FIXED,0
+10535,Suzanne Lutz,Suzanne,Lutz,"88841 Ashley Flats Apt. 680
+North Kyle, NJ 60157",NJ,60157,1987-02-27,36,335.0,65.57,female,student,30,FIXED,1
+10536,Audrey Hurst,Audrey,Hurst,"787 Tammy Flat
+North Robert, IN 27860",IN,27860,1987-10-28,35,413.0,72.13,female,mechanic,30,FIXED,1
+10537,Melissa Smith,Melissa,Smith,"818 Wood Springs
+Port Dustin, MO 65170",MO,65170,1975-10-12,47,640.0,61.2,female,accountant,30,FIXED,0
+10538,Tina White,Tina,White,"059 George Dale
+Thompsonton, VI 37094",VI,37094,1991-05-02,31,533.0,59.9,female,salesman,30,FIXED,1
+10539,Maureen Phillips,Maureen,Phillips,"53625 Coleman Shore
+Gainesstad, MI 42205",MI,42205,1958-08-27,64,810.0,24.28,female,teacher,30,FIXED,0
+10540,Cynthia Lewis,Cynthia,Lewis,"265 Calhoun Lodge
+East Jeffreyside, NJ 24457",NJ,24457,1995-07-14,27,353.0,93.19,female,electrician,30,FIXED,1
+10541,Vanessa Anderson,Vanessa,Anderson,"9271 Johnson Motorway
+Lake Kenneth, TX 42491",TX,42491,1969-01-02,54,523.0,58.74,female,accountant,30,FIXED,1
+10542,Rodney Bell,Rodney,Bell,"Unit 6285 Box 6698
+DPO AE 08501",AE,08501,2001-08-20,21,591.0,68.18,male,librarian,30,FIXED,0
+10543,Dr. Rachel Quinn DVM,Rachel,Quinn,"62691 Brandon Ports
+South Joshuachester, MO 93914",MO,93914,1996-10-04,26,792.0,6.73,female,retired,30,FIXED,0
+10544,Jill Harrison,Jill,Harrison,"6478 Nash Course Suite 783
+Robertport, RI 88741",RI,88741,1965-12-16,57,801.0,25.57,female,nurse,30,FIXED,1
+10545,Richard Floyd,Richard,Floyd,"54413 Bradley Rest
+North Michelle, MA 49244",MA,49244,1989-12-09,33,487.0,61.05,male,salesman,30,FIXED,1
+10546,Jose Stephens,Jose,Stephens,"05676 Harper Underpass
+Davisville, WI 12751",WI,12751,1976-06-04,46,666.0,67.84,male,contractor,30,FIXED,0
+10547,Jennifer Mora,Jennifer,Mora,"295 Megan Island
+Johnport, FM 52221",FM,52221,1954-02-05,69,808.0,21.94,female,mechanic,30,FIXED,0
+10548,Chelsea Leach,Chelsea,Leach,"Unit 9393 Box 6104
+DPO AP 62207",AP,62207,1998-06-20,24,742.0,48.95,female,student,30,FIXED,0
+10549,Brandon Lewis,Brandon,Lewis,"921 Jonathan Trafficway
+Blakeview, NJ 25516",NJ,25516,1954-07-12,68,354.0,82.33,male,mechanic,15,FIXED,1
+10550,Matthew Lee,Matthew,Lee,"94251 David Trail Apt. 205
+Port Dylanmouth, AL 99906",AL,99906,1965-10-17,57,810.0,11.35,male,retired,30,FIXED,0
+10551,Barry Hurley,Barry,Hurley,"535 Brianna Row
+Lake Robin, CO 77134",CO,77134,1954-06-11,68,797.0,22.21,male,salesman,30,FIXED,0
+10552,Mallory Williams,Mallory,Williams,"218 Knight Field
+Port Connie, SC 85629",SC,85629,2003-02-14,20,804.0,41.12,female,nurse,30,FIXED,0
+10553,Sarah Weaver,Sarah,Weaver,"PSC 4437, Box 6161
+APO AE 40557",AE,40557,1950-06-22,72,353.0,86.86,female,salesman,30,FIXED,1
+10554,Stephen Smith,Stephen,Smith,"542 David Parkways Suite 717
+Williamstown, MA 34654",MA,34654,1971-12-25,51,598.0,64.39,male,salesman,30,FIXED,0
+10555,Amy Valdez,Amy,Valdez,"027 Casey Valley
+Fisherborough, UT 94443",UT,94443,1981-07-13,41,438.0,81.22,female,accountant,15,FIXED,1
+10556,Tracey Davis,Tracey,Davis,"Unit 3636 Box 1410
+DPO AA 49838",AA,49838,1954-09-11,68,804.0,43.62,female,doctor,30,FIXED,0
+10557,Mary Gilmore,Mary,Gilmore,"467 John Springs
+Jonathanfurt, PW 03339",PW,03339,1962-07-05,60,790.0,8.45,female,retired,30,FIXED,0
+10558,Kyle Wagner,Kyle,Wagner,"408 Andrew Turnpike
+Juanfort, RI 14436",RI,14436,1967-12-25,55,551.0,60.14,female,mechanic,30,FIXED,0
+10559,Alex Martin,Alex,Martin,"86776 Whitney Dale
+Austinland, MA 14806",MA,14806,1952-06-27,70,369.0,73.59,male,salesman,30,FIXED,1
+10560,Chad Cox,Chad,Cox,"818 Charles Fork Suite 158
+East Troyton, SC 10256",SC,10256,1954-08-30,68,478.0,70.83,male,lawyer,30,FIXED,1
+10561,Sarah Clark,Sarah,Clark,"052 Murphy Underpass Suite 244
+North Lindsay, IA 08424",IA,08424,1960-06-27,62,405.0,67.33,female,stockbroker,30,FIXED,1
+10562,Jennifer Collins,Jennifer,Collins,"760 West Inlet
+Rodriguezshire, UT 90062",UT,90062,1952-02-12,71,350.0,81.82,female,student,30,FIXED,1
+10563,Andrea Gonzalez,Andrea,Gonzalez,"172 Davenport Square Apt. 376
+Shannonview, NE 73397",NE,73397,1988-01-12,35,346.0,89.39,female,mechanic,30,FIXED,1
+10564,Christopher Wiggins,Christopher,Wiggins,"5194 Bradley Forest Suite 615
+Port Nicolestad, FL 87030",FL,87030,1967-01-04,56,669.0,59.5,male,accountant,30,FIXED,0
+10565,Ann Medina,Ann,Medina,"87356 Kirk Skyway
+East Stephen, NJ 46115",NJ,46115,1962-07-31,60,652.0,46.32,female,nurse,30,FIXED,1
+10566,Bobby Ibarra,Bobby,Ibarra,"63495 Mcconnell Lights
+Katherineshire, MN 61337",MN,61337,1958-02-01,65,373.0,92.21,male,plumber,15,FIXED,1
+10567,Austin Mitchell,Austin,Mitchell,"6725 William Squares Suite 508
+Haynesside, MP 75505",MP,75505,1981-06-18,41,793.0,22.34,male,retired,30,FIXED,0
+10568,Gary Thomas,Gary,Thomas,"358 Long Causeway
+Holderside, MS 76637",MS,76637,1988-03-15,35,363.0,92.85,male,dentist,30,FIXED,1
+10569,Kathryn Brown,Kathryn,Brown,"PSC 4864, Box 0549
+APO AP 28254",AP,28254,1950-08-23,72,691.0,53.22,female,accountant,30,FIXED,1
+10570,Craig Parker,Craig,Parker,"PSC 5558, Box 6803
+APO AA 04779",AA,04779,1976-04-12,47,611.0,52.29,male,accountant,15,FIXED,0
+10571,Adam Powers,Adam,Powers,"912 Ramirez Hill
+Mcgeestad, MN 61617",MN,61617,1973-02-22,50,641.0,58.65,male,salesman,30,FIXED,0
+10572,Andrew Green,Andrew,Green,"33452 Lopez Light
+South James, NE 03017",NE,03017,1956-03-29,67,797.0,35.99,male,accountant,30,FIXED,1
+10573,Kevin Golden,Kevin,Golden,"56044 Jennifer Causeway
+New Autumn, WY 98709",WY,98709,1970-11-23,52,488.0,79.37,male,plumber,30,FIXED,1
+10574,Diana Williams,Diana,Williams,"5279 Nguyen Junctions
+East Justinborough, MH 60312",MH,60312,1991-04-20,32,604.0,49.56,female,contractor,30,FIXED,0
+10575,Briana Duncan,Briana,Duncan,"289 Ronald Points Apt. 922
+Luisborough, MT 42233",MT,42233,1982-06-12,40,799.0,10.57,female,retired,30,FIXED,0
+10576,Joseph Jones,Joseph,Jones,"441 Henry Landing Suite 895
+North Sarahhaven, ID 70231",ID,70231,1988-06-10,34,789.0,46.28,male,librarian,15,FIXED,0
+10577,Eric Garcia,Eric,Garcia,"91612 Johnson Keys Apt. 184
+East Kerrybury, NV 28999",NV,28999,1967-10-03,55,777.0,38.14,male,mason,30,FIXED,0
+10578,Jack Johnson,Jack,Johnson,"85672 Rios Shores
+Clarketon, SC 69485",SC,69485,1969-10-13,53,808.0,21.85,male,fireman,30,FIXED,0
+10579,Dr. Sherry Skinner,Sherry,Skinner,"0690 Joseph Plaza Suite 180
+Lake Christopher, PW 89396",PW,89396,1989-08-18,33,582.0,71.49,female,librarian,30,FIXED,0
+10580,Susan Allen MD,Susan,Allen,"56257 Bennett Neck Suite 105
+Elizabethtown, OH 74260",OH,74260,2000-01-29,23,606.0,56.23,female,contractor,30,FIXED,0
+10581,Sarah Heath,Sarah,Heath,"99000 Laura Squares Apt. 216
+Martinfurt, UT 99680",UT,99680,1974-10-21,48,797.0,30.52,female,nurse,30,FIXED,1
+10582,Peter Shaw,Peter,Shaw,"629 Conway Terrace Apt. 585
+Denisehaven, HI 40086",HI,40086,1976-12-06,46,555.0,57.39,male,student,30,FIXED,0
+10583,Nicole Harris,Nicole,Harris,"02763 Turner Causeway Suite 988
+South Diana, WA 15885",WA,15885,1980-12-06,42,353.0,67.2,female,accountant,30,FIXED,1
+10584,Alexandra Rodriguez,Alexandra,Rodriguez,"9958 George Radial Apt. 127
+Port Robertchester, WI 47643",WI,47643,1987-07-23,35,575.0,68.82,female,nurse,30,FIXED,1
+10585,Mrs. Anita Sheppard,Anita,Sheppard,"05595 Stewart Neck Apt. 637
+Davidmouth, AR 18943",AR,18943,1980-05-30,42,357.0,85.25,female,plumber,30,FIXED,1
+10586,Matthew Edwards,Matthew,Edwards,"1189 Hernandez Prairie Suite 180
+South Zacharymouth, MO 81007",MO,81007,1987-08-13,35,598.0,40.99,male,stockbroker,30,FIXED,0
+10587,Jerry Richardson,Jerry,Richardson,"85053 Heather Park Suite 724
+Wandaport, UT 82842",UT,82842,1991-01-25,32,357.0,80.75,male,software developer,30,FIXED,1
+10588,Stacey Martin,Stacey,Martin,"325 Hernandez Locks
+Ramirezchester, AR 36502",AR,36502,1960-09-28,62,608.0,52.99,female,fireman,30,FIXED,0
+10589,Ann Morris,Ann,Morris,"998 Reeves Cove Apt. 699
+Garciaville, AS 28685",AS,28685,1960-10-26,62,355.0,78.45,female,nurse,30,FIXED,1
+10590,Alexandria Mitchell,Alexandria,Mitchell,"481 Brady Meadow
+Denisechester, AK 62018",AK,62018,1974-07-01,48,770.0,47.82,female,lawyer,30,FIXED,0
+10591,Pamela Kramer,Pamela,Kramer,"3729 William Shore
+Lake Amandamouth, AL 47622",AL,47622,1976-07-15,46,652.0,59.77,female,lawyer,30,FIXED,0
+10592,Emma Finley,Emma,Finley,"44995 Coleman View Suite 422
+Antoniomouth, IL 74426",IL,74426,1958-09-27,64,716.0,51.96,female,mechanic,30,FIXED,0
+10593,Joseph Dalton,Joseph,Dalton,"9095 Mclaughlin Squares Suite 653
+North Robertmouth, WV 24386",WV,24386,1978-04-20,45,795.0,22.58,male,retired,30,FIXED,0
+10594,James Young,James,Young,"45304 Mitchell Oval Apt. 694
+Port Joshuafort, FM 94915",FM,94915,1989-06-16,33,796.0,26.44,male,fireman,30,FIXED,0
+10595,Gregory Swanson IV,Gregory,Swanson,"8007 Jackson Streets Suite 157
+Port Michaelview, MO 23434",MO,23434,1964-01-31,59,421.0,72.89,male,contractor,30,FIXED,1
+10596,Michelle Pace,Michelle,Pace,"66228 Castillo Land Suite 698
+Copelandmouth, AR 86379",AR,86379,1999-09-03,23,497.0,71.61,female,doctor,30,FIXED,1
+10597,Rebekah Mccall,Rebekah,Mccall,"399 Barajas River
+Michaelmouth, IA 51099",IA,51099,1965-04-03,58,559.0,51.15,female,dentist,30,FIXED,0
+10598,Mandy Walker,Mandy,Walker,"0173 Patrick Mountain Apt. 259
+Danielland, TX 20211",TX,20211,1988-07-08,34,801.0,30.17,female,doctor,30,FIXED,0
+10599,Melanie Glenn,Melanie,Glenn,"57039 Smith Trace
+Tammyburgh, IA 04672",IA,04672,1967-08-10,55,790.0,28.95,female,electrician,30,FIXED,0
+10600,Ms. Natalie Rowe,Natalie,Rowe,"378 Collins Fields Apt. 468
+Smallland, MD 87679",MD,87679,1968-05-31,54,358.0,89.18,female,salesman,30,FIXED,1
+10601,Alisha Sanford,Alisha,Sanford,"833 Reed Throughway Apt. 942
+Hartmanborough, ND 38645",ND,38645,1997-11-23,25,474.0,53.74,female,teacher,30,FIXED,1
+10602,Joseph Flynn,Joseph,Flynn,"711 Tony Court
+North Lisafurt, CT 05585",CT,05585,1958-09-27,64,493.0,65.49,male,electrician,30,FIXED,1
+10603,Adam Smith,Adam,Smith,"941 Brooks Plains Apt. 591
+Angelafurt, MS 31143",MS,31143,1959-06-19,63,646.0,47.22,male,salesman,30,FIXED,0
+10604,Alexis Dalton,Alexis,Dalton,"88321 Doyle Plaza
+North Nicole, ND 11325",ND,11325,1980-04-09,43,804.0,25.34,male,stockbroker,30,FIXED,0
+10605,Patricia Taylor,Patricia,Taylor,"6691 Lawson Manor Suite 782
+Williamfort, NY 77041",NY,77041,1965-11-06,57,491.0,62.17,female,lawyer,30,FIXED,1
+10606,Joshua King,Joshua,King,"4600 Gomez Rapids Suite 866
+Veronicafort, RI 05322",RI,05322,1958-09-21,64,705.0,49.38,male,plumber,30,FIXED,0
+10607,Anthony Montgomery,Anthony,Montgomery,"35617 Teresa Branch Apt. 175
+North Barbara, IN 75588",IN,75588,1992-12-03,30,710.0,65.16,male,stockbroker,30,FIXED,0
+10608,Carrie Cunningham,Carrie,Cunningham,"0200 Davis Forks Apt. 666
+New Brad, FL 96666",FL,96666,1963-08-09,59,804.0,37.02,female,stockbroker,30,FIXED,0
+10609,Heidi Hill,Heidi,Hill,"2244 Bates Forks Suite 811
+Jenniferland, NJ 72702",NJ,72702,1980-07-06,42,779.0,48.72,female,teacher,30,FIXED,0
+10610,Sheila Barnes,Sheila,Barnes,"971 Lane Crest
+Port Jacqueline, MT 22809",MT,22809,1988-10-17,34,788.0,39.12,female,contractor,30,FIXED,0
+10611,Chloe Torres,Chloe,Torres,"781 Jason Divide
+New Brandon, VI 21326",VI,21326,1999-04-08,24,374.0,69.76,female,nurse,30,FIXED,1
+10612,Dennis Robertson,Dennis,Robertson,"USCGC Smith
+FPO AP 18424",AP,18424,1979-12-09,43,807.0,15.89,male,retired,30,FIXED,0
+10613,Juan Morgan,Juan,Morgan,"2733 Ruth Square Suite 829
+Everettfort, WI 86702",WI,86702,1973-12-02,49,785.0,35.39,male,doctor,30,FIXED,0
+10614,David Deleon,David,Deleon,"Unit 1591 Box 5660
+DPO AP 14030",AP,14030,1987-02-11,36,464.0,68.83,male,stockbroker,30,FIXED,1
+10615,Michael Hernandez,Michael,Hernandez,"623 Michael View Apt. 982
+Aprilport, WV 03855",WV,03855,2001-05-24,21,350.0,85.9,male,librarian,30,FIXED,1
+10616,Katherine Stafford,Katherine,Stafford,"5196 Matthew Estates
+South Ryanside, FM 73854",FM,73854,1986-05-02,36,813.0,26.14,female,dentist,15,FIXED,0
+10617,Bruce Melendez,Bruce,Melendez,"6936 Herrera Landing
+Lake Jennifer, MS 60702",MS,60702,1992-03-13,31,560.0,68.64,male,salesman,30,FIXED,1
+10618,Marvin Adams,Marvin,Adams,"14986 Samantha Springs Apt. 445
+Parkershire, MP 54997",MP,54997,1993-11-28,29,757.0,52.63,male,software developer,30,FIXED,0
+10619,Michelle Nguyen,Michelle,Nguyen,"8533 Michael Terrace Suite 704
+Garyshire, AK 28178",AK,28178,1958-01-08,65,481.0,71.25,female,mechanic,30,FIXED,1
+10620,Sarah Morse,Sarah,Morse,"500 Davis Path Apt. 581
+Kellymouth, NC 31085",NC,31085,1965-07-21,57,332.0,94.81,female,contractor,30,FIXED,1
+10621,Glenn Murray,Glenn,Murray,"685 Turner Crescent
+South Adrienne, DC 15183",DC,15183,1998-11-19,24,376.0,80.09,male,salesman,30,FIXED,1
+10622,Kathleen Ware,Kathleen,Ware,"PSC 7066, Box 5082
+APO AE 05009",AE,05009,1994-09-06,28,802.0,57.46,female,accountant,30,FIXED,0
+10623,Tara Santos,Tara,Santos,"099 Mercado Hill
+Jeremyberg, AS 54092",AS,54092,1979-11-13,43,793.0,27.77,female,stockbroker,15,FIXED,0
+10624,Faith Lutz,Faith,Lutz,"045 Campbell Points Suite 085
+Harrismouth, AK 42683",AK,42683,1993-04-22,30,803.0,37.77,female,plumber,30,FIXED,0
+10625,James Saunders,James,Saunders,"02752 Baker Run
+Scottburgh, KY 15525",KY,15525,1953-11-09,69,355.0,67.56,male,data scientist,30,FIXED,1
+10626,Wendy Hodges,Wendy,Hodges,"3002 Ryan Spurs
+East Davidshire, MH 88747",MH,88747,1955-05-12,67,767.0,45.36,female,plumber,30,FIXED,0
+10627,Linda Kelley,Linda,Kelley,"350 Phillip Mountains Suite 203
+West Deborah, ND 15467",ND,15467,1988-01-30,35,824.0,30.64,female,teacher,30,FIXED,0
+10628,Robert Cox,Robert,Cox,"1521 Gonzales Inlet
+Lucasbury, WI 97220",WI,97220,1993-01-02,30,812.0,31.16,male,dentist,30,FIXED,0
+10629,Ryan Fields,Ryan,Fields,"6119 Tracey Throughway Suite 235
+Simpsonhaven, AK 14501",AK,14501,1987-08-29,35,365.0,92.76,male,librarian,30,FIXED,1
+10630,Susan Brown,Susan,Brown,"52078 Brandon Trafficway Apt. 270
+Lake Jasonview, VT 65462",VT,65462,1959-06-15,63,799.0,23.9,female,teacher,30,FIXED,0
+10631,Matthew Francis,Matthew,Francis,"98802 Mason Streets
+Phillipbury, AZ 04195",AZ,04195,1985-12-07,37,779.0,42.06,male,accountant,15,FIXED,0
+10632,Sarah Turner,Sarah,Turner,"35727 Wright Landing Suite 127
+Port Reneechester, NC 91674",NC,91674,1963-04-13,60,756.0,35.57,female,teacher,30,FIXED,0
+10633,Brooke Sosa,Brooke,Sosa,"727 Stokes Ranch Apt. 752
+Lake Wendytown, AK 04817",AK,04817,1972-07-17,50,505.0,66.88,female,mechanic,15,FIXED,1
+10634,Philip Heath,Philip,Heath,"6267 Hernandez Mall Apt. 360
+Moorefurt, DE 81752",DE,81752,1974-11-08,48,353.0,70.31,male,electrician,30,FIXED,1
+10635,Teresa Leonard,Teresa,Leonard,"6717 Maria Club
+Monicaton, MI 09503",MI,09503,1998-04-25,24,626.0,69.45,female,fireman,15,FIXED,1
+10636,Karen Simpson,Karen,Simpson,"43868 Ortiz Views
+North Nicoleburgh, ID 42297",ID,42297,1966-06-13,56,344.0,91.47,female,nurse,30,FIXED,1
+10637,Natasha Garrett,Natasha,Garrett,"79235 Summers Summit
+South Timothy, NC 36057",NC,36057,1990-07-15,32,799.0,23.5,female,electrician,30,FIXED,0
+10638,Alison Martinez,Alison,Martinez,"46749 Donald Wells Apt. 178
+Lopezfurt, HI 25650",HI,25650,1950-08-24,72,337.0,91.99,female,librarian,30,FIXED,1
+10639,Manuel Ruiz,Manuel,Ruiz,"43104 Holly Motorway Suite 695
+East Ryanberg, NE 43672",NE,43672,1982-05-03,40,732.0,45.9,male,plumber,30,FIXED,0
+10640,Stephanie Higgins,Stephanie,Higgins,"633 Amanda Expressway
+North Stevenport, DE 26622",DE,26622,1990-11-17,32,359.0,92.18,female,quantitative researcher,30,FIXED,1
+10641,Ronald Brown,Ronald,Brown,"8861 Smith Estate Suite 750
+Graymouth, WY 09045",WY,09045,1976-09-30,46,379.0,78.46,male,lawyer,30,FIXED,1
+10642,Mary Wilson,Mary,Wilson,"929 Jeffery Cliff
+South Natasha, MP 95573",MP,95573,1969-12-22,53,573.0,71.84,female,fireman,30,FIXED,1
+10643,Christopher Summers,Christopher,Summers,"USNV Herrera
+FPO AA 07806",AA,07806,1991-05-16,31,789.0,22.25,male,doctor,30,FIXED,0
+10644,John Richardson,John,Richardson,"66278 Rachel Forest Apt. 910
+North Michaelton, DE 04062",DE,04062,1967-10-31,55,808.0,24.47,male,lawyer,30,FIXED,0
+10645,Kenneth Jacobs,Kenneth,Jacobs,"8898 John Forge Suite 138
+Deborahview, MP 14963",MP,14963,1983-11-13,39,732.0,54.55,male,contractor,30,FIXED,0
+10646,Tracy Thomas,Tracy,Thomas,"506 Shelton Garden Suite 713
+Lake Oliviaside, MI 21733",MI,21733,1964-06-18,58,388.0,72.51,female,salesman,15,FIXED,1
+10647,Andrew Young,Andrew,Young,"75510 Richardson Parks
+Kaitlynburgh, ID 80109",ID,80109,1992-11-27,30,347.0,86.72,male,student,30,FIXED,1
+10648,James Johnson,James,Johnson,"PSC 1401, Box 8038
+APO AE 66604",AE,66604,1986-02-01,37,812.0,23.68,male,electrician,30,FIXED,0
+10649,Laura Washington,Laura,Washington,"81879 Mario Square Apt. 885
+New Brandon, NV 74522",NV,74522,1988-07-28,34,343.0,83.47,female,nurse,30,FIXED,1
+10650,Erica Collins,Erica,Collins,"4139 Mora Village
+North Nicole, MH 60857",MH,60857,1970-11-04,52,338.0,88.48,female,plumber,30,FIXED,1
+10651,Andrea Watts,Andrea,Watts,"7262 Navarro Spurs
+Aaronfurt, MA 11328",MA,11328,1988-02-14,35,450.0,64.96,female,nurse,15,FIXED,1
+10652,Travis Johnson,Travis,Johnson,"PSC 6106, Box 9742
+APO AP 88326",AP,88326,1992-12-22,30,551.0,65.96,male,plumber,30,FIXED,0
+10653,Nicole Munoz DVM,Nicole,Munoz,"3865 Tina Trail Suite 749
+North Susanmouth, MA 40795",MA,40795,1987-04-25,35,361.0,88.54,female,plumber,30,FIXED,1
+10654,Jessica Smith,Jessica,Smith,"21651 Maria Coves
+Kristinaville, KY 25324",KY,25324,1999-07-27,23,814.0,36.0,female,investment banker,30,FIXED,0
+10655,Dennis Taylor,Dennis,Taylor,"3777 Lopez Lodge Suite 205
+Ianland, TN 06688",TN,06688,2002-01-20,21,355.0,94.43,male,mason,30,FIXED,1
+10656,Tiffany Hill,Tiffany,Hill,"7085 Edward Fort Suite 044
+North Tanya, TX 06709",TX,06709,1966-05-10,56,799.0,48.92,female,mason,30,FIXED,0
+10657,David Shepard,David,Shepard,"96179 Michael Ramp Apt. 458
+Traceychester, PW 06786",PW,06786,1994-11-04,28,374.0,63.07,male,fireman,30,FIXED,1
+10658,Cindy Wood,Cindy,Wood,"389 Martinez Burgs
+East Paul, MT 80873",MT,80873,1957-05-17,65,796.0,27.91,female,lawyer,30,FIXED,0
+10659,Joseph Juarez,Joseph,Juarez,"80706 Amanda Square
+Calebshire, OH 29390",OH,29390,1956-05-22,66,475.0,55.56,male,accountant,30,FIXED,1
+10660,Angela Smith,Angela,Smith,"7782 Robertson Burgs Apt. 266
+Manningside, OH 66976",OH,66976,1997-02-12,26,347.0,81.58,female,salesman,30,FIXED,1
+10661,Marvin Oliver,Marvin,Oliver,"498 Michael Burg Suite 024
+Wilsonport, MS 96623",MS,96623,1962-12-02,60,351.0,88.0,male,electrician,30,FIXED,1
+10662,James Barrett,James,Barrett,"23623 Patrick Turnpike Suite 536
+Sandersbury, AL 19688",AL,19688,1972-01-18,51,355.0,73.84,male,salesman,30,FIXED,1
+10663,Chelsea Lawson,Chelsea,Lawson,"3552 Velazquez Groves
+South Christianshire, FM 97342",FM,97342,1999-07-06,23,343.0,80.93,female,stockbroker,30,FIXED,1
+10664,Eileen Meza,Eileen,Meza,"239 Kathryn Square Apt. 102
+Lake Scott, IA 48097",IA,48097,1979-03-28,44,783.0,34.03,female,retired,30,FIXED,0
+10665,Amanda Nguyen,Amanda,Nguyen,"5199 Thomas Stream
+Kevinstad, KY 23549",KY,23549,1978-12-09,44,357.0,83.72,female,nurse,30,FIXED,1
+10666,Kathy Hicks,Kathy,Hicks,"9599 Amanda Centers
+Port Brandonmouth, MI 60171",MI,60171,1991-01-15,32,354.0,77.08,female,contractor,30,FIXED,1
+10667,Bryan Collins,Bryan,Collins,"PSC 8919, Box 7622
+APO AP 11974",AP,11974,1964-08-14,58,340.0,93.04,male,fireman,30,FIXED,1
+10668,Christopher Pineda,Christopher,Pineda,"095 Kristine Parks Apt. 945
+Kayleeview, KS 11070",KS,11070,1970-03-10,53,672.0,40.28,male,dentist,30,FIXED,0
+10669,Michelle Johnson,Michelle,Johnson,"53053 Johnathan Rapid Apt. 385
+Lake Ericaport, PA 57618",PA,57618,1993-03-09,30,349.0,71.74,female,dentist,30,FIXED,1
+10670,Jerry Bowers,Jerry,Bowers,"503 Amanda Field Suite 910
+Maryfort, CT 56806",CT,56806,1957-03-17,66,436.0,86.59,male,salesman,30,FIXED,1
+10671,Kelsey Mcguire,Kelsey,Mcguire,"208 Anderson Manor
+Port Arielstad, GU 04951",GU,04951,1991-10-24,31,454.0,53.87,female,librarian,30,FIXED,1
+10672,Daniel Warner,Daniel,Warner,"06174 Cheryl Views
+Port Kennethberg, PA 39573",PA,39573,1950-03-16,73,806.0,27.33,male,software developer,30,FIXED,0
+10673,Sarah Leon,Sarah,Leon,"06264 Lindsey Fords Suite 049
+Walkerview, NC 89471",NC,89471,2001-05-23,21,655.0,51.92,female,fireman,30,FIXED,0
+10674,Zachary Fields,Zachary,Fields,"809 Hutchinson Branch
+Bensonview, GA 25387",GA,25387,1974-07-08,48,581.0,64.06,male,mechanic,30,FIXED,0
+10675,Nicole Chen,Nicole,Chen,"6869 Kelsey Port
+East Nicole, GA 70885",GA,70885,2002-06-26,20,746.0,60.38,female,dentist,30,FIXED,0
+10676,Kenneth Olson,Kenneth,Olson,"0357 Garcia Hollow Suite 532
+East Michaelport, ME 50073",ME,50073,1989-05-02,33,805.0,24.54,male,salesman,30,FIXED,0
+10677,April Pena,April,Pena,"02652 Randy Parkways
+Port Charles, SC 72480",SC,72480,1973-04-14,50,568.0,61.76,female,mechanic,30,FIXED,0
+10678,Timothy Long,Timothy,Long,"34534 Louis Viaduct
+West Ericmouth, KS 68179",KS,68179,1991-03-11,32,658.0,70.18,male,plumber,30,FIXED,0
+10679,Sheena Villanueva,Sheena,Villanueva,"488 Lawrence Spring
+Lake Jamesborough, MT 38863",MT,38863,1976-09-15,46,525.0,66.14,female,mechanic,30,FIXED,1
+10680,Jeffrey Richards,Jeffrey,Richards,"38430 Emily Courts Suite 325
+Elizabethton, TX 70625",TX,70625,1994-03-11,29,791.0,38.69,male,doctor,30,FIXED,0
+10681,Ryan Baldwin,Ryan,Baldwin,"1787 Maria Wells
+Bernardhaven, GU 92541",GU,92541,1987-06-21,35,475.0,71.88,male,mechanic,30,FIXED,1
+10682,Aaron Jimenez,Aaron,Jimenez,"8743 Heidi Hill Suite 418
+Port Dennisfurt, HI 99379",HI,99379,1950-11-15,72,684.0,49.63,male,student,30,FIXED,0
+10683,Gabriel Paul,Gabriel,Paul,"8145 Johnson Crossroad Apt. 512
+Crystalport, SD 04785",SD,04785,1956-01-09,67,800.0,23.3,male,electrician,30,FIXED,0
+10684,Elizabeth Terry,Elizabeth,Terry,"2500 Jose Branch
+Hollandtown, ME 94872",ME,94872,1987-10-24,35,502.0,62.11,female,contractor,30,FIXED,1
+10685,Jeffrey James,Jeffrey,James,"27590 Patricia Drive Suite 071
+Lake Christina, WA 84509",WA,84509,1995-10-27,27,810.0,17.89,male,retired,30,FIXED,0
+10686,Megan Jones,Megan,Jones,"4401 Thomas Springs Apt. 711
+Port Cindy, MH 59563",MH,59563,1962-07-12,60,802.0,9.56,female,retired,30,FIXED,0
+10687,Billy Medina,Billy,Medina,"741 Bishop Pines
+North Jamesfort, GU 51479",GU,51479,1959-08-19,63,775.0,32.32,male,retired,30,FIXED,0
+10688,Thomas Johnson,Thomas,Johnson,"28148 Esparza Roads Suite 959
+Davidsonton, OK 69297",OK,69297,1964-10-01,58,806.0,42.83,male,student,30,FIXED,0
+10689,Pamela Williams,Pamela,Williams,"8277 Matthew Stravenue
+North Jose, PA 52539",PA,52539,1987-03-13,36,807.0,25.1,female,doctor,30,FIXED,0
+10690,Linda Glass,Linda,Glass,"78745 Michelle Knoll Apt. 844
+West David, OK 43715",OK,43715,1962-02-28,61,810.0,41.79,female,nurse,30,FIXED,1
+10691,Melissa Garcia,Melissa,Garcia,"2546 Martin Run
+Lake Andrew, AL 32134",AL,32134,1983-11-22,39,536.0,52.44,female,mason,30,FIXED,1
+10692,Casey Porter,Casey,Porter,"416 Carter Ports
+Williamberg, OH 83638",OH,83638,1998-03-30,25,519.0,72.78,female,accountant,30,FIXED,1
+10693,Jesse Watson,Jesse,Watson,"PSC 0770, Box 4092
+APO AP 75907",AP,75907,1957-06-14,65,806.0,9.93,male,retired,30,FIXED,0
+10694,Michelle Miller,Michelle,Miller,"7041 Briana Heights
+East Deniseville, GU 18117",GU,18117,2002-09-08,20,375.0,75.97,female,mechanic,30,FIXED,1
+10695,Joshua Coleman,Joshua,Coleman,"5030 Howe Drive Suite 485
+Bakermouth, MT 52938",MT,52938,1999-02-07,24,637.0,58.36,male,dentist,30,FIXED,0
+10696,Paul Santana,Paul,Santana,"84271 Eric Drive
+Hamiltonborough, TX 63506",TX,63506,1957-06-19,65,782.0,36.51,male,mechanic,30,FIXED,0
+10697,Megan Curry,Megan,Curry,"PSC 7514, Box 6480
+APO AE 24077",AE,24077,1977-09-04,45,480.0,69.8,female,mechanic,30,FIXED,1
+10698,Jordan Long,Jordan,Long,"USS Middleton
+FPO AA 45516",AA,45516,1981-02-05,42,809.0,21.94,male,dentist,30,FIXED,0
+10699,Jasmine Ryan,Jasmine,Ryan,"42297 Katherine Plains
+South Angelaport, AZ 45946",AZ,45946,1983-08-22,39,811.0,37.9,female,doctor,30,FIXED,0
+10700,Edward Barnes,Edward,Barnes,"352 Emily Trace Apt. 823
+West Jennifer, MA 42927",MA,42927,1984-09-20,38,350.0,88.68,male,salesman,30,FIXED,1
+10701,Danielle Day,Danielle,Day,"0904 Kenneth Square
+Samanthaview, IN 39989",IN,39989,1974-07-22,48,605.0,63.23,female,contractor,30,FIXED,0
+10702,Pamela Dyer,Pamela,Dyer,"99385 Reid Club Suite 147
+North Wandaside, OR 59472",OR,59472,1963-10-29,59,507.0,60.59,female,contractor,30,FIXED,1
+10703,Peter Hodges,Peter,Hodges,"29750 David Fields Suite 207
+West Christopherborough, OK 06983",OK,06983,1981-12-08,41,797.0,40.87,male,contractor,30,FIXED,0
+10704,Sean Page,Sean,Page,"425 Thomas Pike
+North Carolshire, CA 60427",CA,60427,1982-06-20,40,753.0,46.75,male,teacher,30,FIXED,0
+10705,Paul Campbell,Paul,Campbell,"53252 Golden Curve
+Williamsland, AL 87173",AL,87173,1962-10-23,60,449.0,80.23,male,contractor,30,FIXED,1
+10706,Dustin Morgan,Dustin,Morgan,"27845 Pamela Brook Apt. 354
+East Chadborough, CT 64817",CT,64817,1987-01-05,36,803.0,21.76,male,software developer,30,FIXED,0
+10707,Sandra Adams,Sandra,Adams,"34460 Martinez Summit Apt. 808
+North Stevenland, MI 84680",MI,84680,1975-05-31,47,799.0,37.91,female,nurse,30,FIXED,1
+10708,Rachel Schneider,Rachel,Schneider,"38697 Suzanne Burgs
+Lindseybury, AZ 63884",AZ,63884,1963-08-29,59,630.0,42.72,female,lawyer,30,FIXED,0
+10709,Debra Navarro,Debra,Navarro,"612 Veronica Point Suite 313
+Petersonchester, PR 98330",PR,98330,1994-09-03,28,694.0,36.14,female,contractor,30,FIXED,0
+10710,Robin Goodman,Robin,Goodman,"064 Jeremy Islands
+South Barbarachester, WY 83959",WY,83959,1974-04-05,49,507.0,70.81,male,librarian,30,FIXED,1
+10711,Kara Moore,Kara,Moore,"523 Barrett Freeway
+Bradleyview, UT 71850",UT,71850,1955-06-22,67,329.0,87.44,female,plumber,30,FIXED,1
+10712,Larry Ray,Larry,Ray,"6255 Phillips Fields
+North Jessica, MO 94100",MO,94100,2002-12-09,20,800.0,22.83,male,fireman,30,FIXED,0
+10713,Tricia Ward,Tricia,Ward,"1268 Herrera Glen
+East Susan, GA 97186",GA,97186,2002-12-12,20,794.0,38.59,female,mason,30,FIXED,0
+10714,Elizabeth Rivas,Elizabeth,Rivas,"09949 Jensen Parkway Apt. 718
+North Richard, VI 13727",VI,13727,1972-11-15,50,575.0,56.26,female,doctor,30,FIXED,0
+10715,Tamara Hernandez,Tamara,Hernandez,"788 Mackenzie Ferry
+North Tasha, NY 17594",NY,17594,1960-08-02,62,765.0,34.9,female,salesman,30,FIXED,0
+10716,Michael Vaughn,Michael,Vaughn,"3434 Douglas Circle
+New Aaron, CT 75866",CT,75866,1973-05-31,49,749.0,34.63,male,salesman,30,FIXED,0
+10717,Alexander Thompson,Alexander,Thompson,"2018 Amanda Glen
+Natalieburgh, NJ 51361",NJ,51361,1977-10-05,45,610.0,63.91,male,contractor,30,FIXED,1
+10718,Charlotte Pratt,Charlotte,Pratt,"69110 Parker Roads Apt. 197
+Suttonside, MT 60468",MT,60468,2000-09-12,22,347.0,80.07,female,contractor,30,FIXED,1
+10719,Drew Buchanan,Drew,Buchanan,"71058 Rebecca Islands Apt. 866
+West Steven, NV 05460",NV,05460,1960-08-09,62,812.0,33.23,male,stockbroker,30,FIXED,0
+10720,Eric Smith,Eric,Smith,"418 Susan Loaf Apt. 647
+Patrickstad, WI 85518",WI,85518,1966-07-18,56,521.0,70.92,male,salesman,30,FIXED,1
+10721,Michelle Lynch,Michelle,Lynch,"887 Jones Spring Apt. 261
+Port Kevin, RI 61403",RI,61403,1992-07-08,30,713.0,42.81,female,plumber,30,FIXED,0
+10722,Andrew Romero,Andrew,Romero,"28757 Simmons Trafficway Suite 061
+Jillhaven, ND 56693",ND,56693,1970-09-12,52,357.0,72.46,male,salesman,30,FIXED,1
+10723,Meredith Martin,Meredith,Martin,"USNV Mccoy
+FPO AA 45831",AA,45831,1979-12-20,43,803.0,37.93,female,retired,30,FIXED,0
+10724,Jacqueline Daniels,Jacqueline,Daniels,"PSC 7632, Box 0381
+APO AA 00514",AA,00514,1979-04-09,44,607.0,62.31,female,salesman,30,FIXED,0
+10725,Leah Stokes,Leah,Stokes,"3471 Brian Corner Apt. 526
+Smithhaven, NY 44094",NY,44094,2002-03-25,21,336.0,87.45,female,software developer,30,FIXED,1
+10726,Patricia Cox,Patricia,Cox,"USS White
+FPO AP 63212",AP,63212,1970-07-26,52,358.0,79.47,female,librarian,30,FIXED,1
+10727,Tracy Fletcher,Tracy,Fletcher,"58095 James Vista
+Jeffreychester, NH 37187",NH,37187,1967-08-27,55,684.0,43.57,female,mechanic,30,FIXED,0
+10728,Zachary Sandoval,Zachary,Sandoval,"90563 Tonya Mount
+West Evanburgh, KS 05843",KS,05843,1980-02-02,43,418.0,91.31,male,student,30,FIXED,1
+10729,Nicole Cunningham,Nicole,Cunningham,"98383 Smith Well Suite 790
+East Allisonland, WV 17838",WV,17838,1965-09-22,57,523.0,59.62,female,salesman,15,FIXED,1
+10730,Mallory Adams,Mallory,Adams,"9216 Allen Isle
+Sherimouth, NY 38281",NY,38281,1987-11-25,35,811.0,30.03,female,teacher,30,FIXED,0
+10731,Elizabeth Martinez,Elizabeth,Martinez,"9515 Jennifer Estate Suite 829
+New David, WV 11614",WV,11614,1992-09-26,30,349.0,88.36,female,stockbroker,30,FIXED,1
+10732,Maurice Nguyen,Maurice,Nguyen,"2816 Anthony Meadow Apt. 790
+Figueroastad, CT 88697",CT,88697,1958-06-13,64,347.0,86.5,male,lawyer,30,FIXED,1
+10733,Thomas Curtis,Thomas,Curtis,"669 Cunningham Field
+Port Matthew, IL 25058",IL,25058,1995-10-03,27,338.0,75.28,male,electrician,30,FIXED,1
+10734,Kari Hull,Kari,Hull,"0969 Ortiz Pine Suite 447
+West Michellemouth, GU 28258",GU,28258,1975-12-28,47,347.0,90.35,female,mason,30,FIXED,1
+10735,Paul Woods,Paul,Woods,"7258 Natasha Land
+Patrickmouth, MO 57682",MO,57682,1959-06-12,63,358.0,83.84,male,salesman,30,FIXED,1
+10736,Richard Morgan,Richard,Morgan,"607 Wilson Ports Suite 835
+North Edward, OK 89283",OK,89283,2001-04-24,22,810.0,37.38,male,contractor,30,FIXED,0
+10737,Danny Hogan,Danny,Hogan,"23243 Hunt Gateway
+Joneston, VI 06000",VI,06000,2001-08-31,21,423.0,79.43,male,electrician,30,FIXED,1
+10738,Christine Lane,Christine,Lane,"80948 King Gardens
+Morgantown, NY 90249",NY,90249,2000-04-11,23,427.0,86.61,female,dentist,30,FIXED,1
+10739,Christopher Ward,Christopher,Ward,"189 Shelley Trafficway
+New Steven, TX 23209",TX,23209,1974-02-19,49,359.0,76.22,male,salesman,30,FIXED,1
+10740,Eric Greene,Eric,Greene,"USNS Briggs
+FPO AA 78464",AA,78464,1970-05-24,52,630.0,56.99,male,student,30,FIXED,0
+10741,Susan Bowers,Susan,Bowers,"69464 Davidson Throughway Suite 785
+New Lisa, HI 43003",HI,43003,1970-10-30,52,815.0,24.58,female,mechanic,30,FIXED,0
+10742,Charles Clay,Charles,Clay,"8623 Dennis Stravenue Apt. 955
+South Stephanieburgh, NC 73143",NC,73143,1987-02-26,36,790.0,30.13,male,lawyer,30,FIXED,0
+10743,Natalie Smith,Natalie,Smith,"403 Trevino Motorway
+Bakerport, SC 72544",SC,72544,1975-10-09,47,352.0,85.92,female,teacher,15,FIXED,1
+10744,Dawn Carter,Dawn,Carter,"69730 Rick Forest Apt. 443
+Molinafort, AK 61976",AK,61976,1985-02-09,38,650.0,49.9,female,lawyer,30,FIXED,1
+10745,Jenna Kelly,Jenna,Kelly,"644 Bond Lane
+Thompsonhaven, FL 35648",FL,35648,1978-06-29,44,724.0,52.07,female,doctor,30,FIXED,0
+10746,Jodi Case,Jodi,Case,"555 Samantha Islands
+Kimberlyville, LA 22349",LA,22349,1988-07-22,34,789.0,42.8,female,student,30,FIXED,1
+10747,Benjamin Martin,Benjamin,Martin,"682 John Pine
+West Sandraview, UT 91267",UT,91267,1989-03-06,34,773.0,42.34,male,software developer,30,FIXED,0
+10748,Mark Russell,Mark,Russell,"Unit 9461 Box 1248
+DPO AP 27466",AP,27466,1953-01-15,70,784.0,31.42,male,dentist,30,FIXED,0
+10749,Laura Chambers,Laura,Chambers,"252 Phelps Heights Suite 117
+Port Dianechester, VT 66053",VT,66053,1952-02-12,71,686.0,39.7,female,electrician,30,FIXED,0
+10750,Derrick Powell MD,Derrick,Powell,"29368 Keller Ford
+Kevinhaven, VI 13552",VI,13552,1989-02-17,34,544.0,62.9,male,doctor,30,FIXED,1
+10751,John Henderson,John,Henderson,"978 Gina Shoals
+Alecfort, PA 73136",PA,73136,1963-02-09,60,473.0,77.95,male,stockbroker,30,FIXED,1
+10752,Marc Carter,Marc,Carter,"46922 Trevor Skyway
+North Crystalfort, PW 53989",PW,53989,1979-10-24,43,598.0,62.25,male,dentist,30,FIXED,0
+10753,Kristen Scott,Kristen,Scott,"9625 Martin Corners
+North Chase, VI 29973",VI,29973,1965-08-27,57,335.0,75.4,female,contractor,30,FIXED,1
+10754,Tristan Lewis,Tristan,Lewis,"88479 Sharon Cove Apt. 123
+Chelseashire, RI 24544",RI,24544,1970-02-01,53,346.0,75.36,male,salesman,30,FIXED,1
+10755,Patrick Wilson,Patrick,Wilson,"6971 Brown Lane Apt. 181
+Port Marybury, SC 58497",SC,58497,1985-11-15,37,423.0,70.45,male,student,30,FIXED,1
+10756,John Mccarthy,John,Mccarthy,"9659 White Forge
+Cooleymouth, OR 25073",OR,25073,1954-05-14,68,400.0,82.19,male,data scientist,30,FIXED,1
+10757,Darrell Taylor,Darrell,Taylor,"217 Ochoa Road Suite 050
+Port Elizabethburgh, MI 78806",MI,78806,1958-09-28,64,788.0,22.63,male,student,30,FIXED,0
+10758,Tamara Perez,Tamara,Perez,"Unit 9197 Box 1940
+DPO AE 38168",AE,38168,1956-06-25,66,582.0,59.14,female,nurse,30,FIXED,1
+10759,Stephen Gilbert,Stephen,Gilbert,"53481 Tammy Prairie Apt. 752
+Beverlyborough, IN 21480",IN,21480,1989-12-14,33,344.0,76.84,male,plumber,15,FIXED,1
+10760,David Casey,David,Casey,"USS Skinner
+FPO AE 53294",AE,53294,1996-03-08,27,353.0,91.53,male,mechanic,15,FIXED,1
+10761,Brittany Kirby,Brittany,Kirby,"5246 Baird Corner
+West James, AR 03128",AR,03128,1968-10-01,54,400.0,79.44,female,nurse,30,FIXED,1
+10762,Meghan Klein,Meghan,Klein,"20222 Patel Vista Suite 974
+New Tommouth, IN 97066",IN,97066,1960-01-29,63,709.0,43.15,female,fireman,30,FIXED,0
+10763,Charles Aguilar,Charles,Aguilar,"65651 Kristen Turnpike
+Phillipsland, SD 81092",SD,81092,2002-03-01,21,753.0,59.63,male,librarian,30,FIXED,0
+10764,Mark Mitchell,Mark,Mitchell,"3985 Schmidt Meadow
+Vegamouth, MI 01329",MI,01329,1956-02-26,67,811.0,32.53,male,salesman,30,FIXED,0
+10765,Aaron Miller,Aaron,Miller,"12145 Kenneth Island
+Rebeccatown, AL 05772",AL,05772,1964-12-30,58,350.0,91.67,male,mason,15,FIXED,1
+10766,Randy Li,Randy,Li,"02724 Joseph View Apt. 425
+West Joseph, TN 13470",TN,13470,1956-11-09,66,809.0,36.17,male,stockbroker,30,FIXED,0
+10767,Janice Torres,Janice,Torres,"76297 Boyer Plain
+North Benjamin, SD 92046",SD,92046,1974-09-01,48,757.0,33.67,female,accountant,30,FIXED,0
+10768,Sabrina Johnson,Sabrina,Johnson,"44841 Mcknight Point
+West Karenview, NY 70960",NY,70960,1963-11-25,59,507.0,65.52,female,software developer,30,FIXED,1
+10769,Deborah Brown,Deborah,Brown,"379 Gabrielle Expressway Suite 344
+Rubioside, FM 34192",FM,34192,1991-06-30,31,346.0,89.25,female,fireman,30,FIXED,1
+10770,Walter Baker,Walter,Baker,"53178 Vega Glens Apt. 073
+Port Christopher, MS 57370",MS,57370,1979-04-21,44,358.0,93.95,male,salesman,30,FIXED,1
+10771,Shaun Bailey,Shaun,Bailey,"PSC 7945, Box 0014
+APO AA 54047",AA,54047,1995-07-31,27,414.0,81.42,male,salesman,30,FIXED,1
+10772,James Martinez,James,Martinez,"50297 Elizabeth Cove
+Chadstad, DC 34738",DC,34738,1969-11-28,53,330.0,93.41,male,contractor,15,FIXED,1
+10773,Mia Allen,Mia,Allen,"801 Rogers Spurs
+West Janice, NJ 67352",NJ,67352,1986-07-25,36,602.0,61.17,female,salesman,30,FIXED,0
+10774,Michael Camacho,Michael,Camacho,"3217 Thomas Crossing Apt. 585
+Smithtown, SC 05783",SC,05783,1973-10-15,49,793.0,29.61,male,lawyer,30,FIXED,0
+10775,Stacy Brown,Stacy,Brown,"Unit 2188 Box 4582
+DPO AA 99650",AA,99650,1979-12-02,43,783.0,7.25,female,retired,30,FIXED,0
+10776,Ruth Dean,Ruth,Dean,"88924 Sherry Ferry Apt. 191
+Tinastad, PA 50320",PA,50320,1996-12-04,26,356.0,93.55,female,data scientist,30,FIXED,1
+10777,Paul Shaw,Paul,Shaw,"USS Howe
+FPO AA 52407",AA,52407,1952-04-06,71,791.0,31.04,male,stockbroker,30,FIXED,0
+10778,Brandi Gonzalez,Brandi,Gonzalez,"USNV Robbins
+FPO AP 03182",AP,03182,1971-04-09,52,354.0,89.76,female,software developer,30,FIXED,1
+10779,Michael Bradley,Michael,Bradley,"USCGC Martin
+FPO AA 46570",AA,46570,1993-01-09,30,358.0,87.38,male,mason,30,FIXED,1
+10780,Christopher Townsend,Christopher,Townsend,"Unit 6131 Box 1921
+DPO AE 01544",AE,01544,1987-12-31,35,716.0,45.53,male,teacher,30,FIXED,0
+10781,Kimberly Olsen,Kimberly,Olsen,"1925 Hannah Throughway Suite 699
+Port Amanda, CT 68190",CT,68190,1961-04-21,62,807.0,38.07,female,software developer,30,FIXED,0
+10782,Tiffany Cain,Tiffany,Cain,"8364 Brandy Avenue
+Lake Allisonfort, WY 61577",WY,61577,1952-08-31,70,354.0,82.38,female,salesman,30,FIXED,1
+10783,Russell Miller,Russell,Miller,"77501 Martin Centers Suite 030
+East Caitlynberg, MP 84207",MP,84207,1980-11-09,42,566.0,59.83,male,electrician,30,FIXED,0
+10784,Jeremy Ford,Jeremy,Ford,"06517 Harper Circles Apt. 134
+Riversshire, IA 47562",IA,47562,1964-03-30,59,803.0,25.36,male,doctor,30,FIXED,0
+10785,Rachael Fletcher,Rachael,Fletcher,"78181 Amanda Fork
+Clarkland, NH 32372",NH,32372,1957-01-07,66,362.0,70.87,female,accountant,30,FIXED,1
+10786,Terri Warner,Terri,Warner,"932 Davis Squares
+Brownville, WI 58498",WI,58498,1987-10-11,35,810.0,33.97,female,salesman,30,FIXED,0
+10787,Tommy Harrison,Tommy,Harrison,"7814 Jennifer Ferry Suite 577
+Perryborough, MT 50085",MT,50085,1995-12-31,27,385.0,74.84,male,salesman,15,FIXED,1
+10788,Jonathan Perez,Jonathan,Perez,"45168 Donna Ports
+New Danielleview, MS 76891",MS,76891,1967-03-24,56,809.0,21.52,male,retired,30,FIXED,0
+10789,Stacy Jefferson,Stacy,Jefferson,"7897 Louis Rue
+Solisberg, PW 81571",PW,81571,1969-03-01,54,370.0,94.3,female,nurse,30,FIXED,1
+10790,Angelica Orozco,Angelica,Orozco,"2329 Kenneth Plains Apt. 756
+East Rubenhaven, VA 62050",VA,62050,1968-09-18,54,734.0,44.02,female,salesman,30,FIXED,0
+10791,Jonathan Little,Jonathan,Little,"162 Sara Square Apt. 967
+Stanleyland, CO 57684",CO,57684,1997-06-09,25,560.0,64.54,male,stockbroker,30,FIXED,0
+10792,Karen Kim,Karen,Kim,"406 Huang Square
+Belltown, KS 00895",KS,00895,1968-05-24,54,355.0,92.49,female,nurse,30,FIXED,1
+10793,Wendy Estrada,Wendy,Estrada,"339 Conrad Rest Suite 546
+South Melindahaven, AZ 47959",AZ,47959,1989-04-25,33,354.0,82.02,female,salesman,15,FIXED,1
+10794,Sandra Williams,Sandra,Williams,"4939 Joseph Throughway
+Lisafort, OR 99864",OR,99864,1999-07-15,23,782.0,29.94,female,contractor,30,FIXED,0
+10795,Julia Vincent,Julia,Vincent,"37425 Miller Fords Suite 720
+Kimberlyton, AL 08797",AL,08797,1953-03-22,70,378.0,74.65,female,electrician,30,FIXED,1
+10796,Rachel Carpenter,Rachel,Carpenter,"982 Stephanie Roads Suite 524
+Summerfort, IN 50909",IN,50909,1957-06-14,65,347.0,92.6,female,teacher,30,FIXED,1
+10797,Matthew Orr,Matthew,Orr,"80495 Robert Green
+Baileyton, VA 65638",VA,65638,1960-07-10,62,379.0,63.51,male,teacher,30,FIXED,1
+10798,Felicia Thomas,Felicia,Thomas,"957 Nicole Crescent Apt. 290
+Landryshire, VI 24553",VI,24553,1988-01-06,35,808.0,25.71,female,mechanic,30,FIXED,0
+10799,Lucas Jones,Lucas,Jones,"208 Jordan Station Apt. 490
+North Patriciachester, PR 81092",PR,81092,1971-12-27,51,808.0,31.12,male,student,30,FIXED,0
+10800,Cathy Morgan,Cathy,Morgan,"325 Samantha Park
+Sotochester, PW 55120",PW,55120,1960-05-17,62,799.0,31.29,female,fireman,30,FIXED,0
+10801,Yolanda Rich,Yolanda,Rich,"278 Derrick Cliff
+Cruzbury, VA 06285",VA,06285,1973-09-22,49,348.0,83.24,female,dentist,30,FIXED,1
+10802,Heather Collins,Heather,Collins,"USCGC Miller
+FPO AA 93674",AA,93674,1959-03-04,64,761.0,55.65,female,plumber,30,FIXED,0
+10803,Stephen Summers,Stephen,Summers,"4430 Joshua Knolls
+Ruizmouth, SC 24607",SC,24607,1969-06-14,53,589.0,64.07,male,quantitative researcher,30,FIXED,0
+10804,Jack Smith,Jack,Smith,"192 Melissa Lodge
+Kathleenborough, LA 61302",LA,61302,1951-09-14,71,525.0,62.07,male,software developer,30,FIXED,1
+10805,Jordan Raymond,Jordan,Raymond,"9459 Conway Road Apt. 058
+Port Matthew, CT 02858",CT,02858,1974-12-18,48,661.0,62.44,male,salesman,30,FIXED,0
+10806,Stephen Williams,Stephen,Williams,"6801 Morales Harbor Apt. 562
+Millerville, VI 69289",VI,69289,1989-01-25,34,351.0,93.45,male,salesman,30,FIXED,1
+10807,Robert Hampton,Robert,Hampton,"906 William Port
+Robbinsport, RI 64737",RI,64737,1973-06-07,49,800.0,55.4,male,stockbroker,30,FIXED,0
+10808,Chad Cherry,Chad,Cherry,"1620 Thomas Trafficway
+Barneschester, MA 12777",MA,12777,1982-09-29,40,808.0,27.93,male,investment banker,30,FIXED,0
+10809,Amber Bird,Amber,Bird,"639 Butler Lake Suite 630
+Port Brandon, VI 58608",VI,58608,1995-12-27,27,807.0,37.03,female,fireman,30,FIXED,0
+10810,Karen Davis,Karen,Davis,"08739 Moody Locks
+Blackfurt, MI 08988",MI,08988,1983-06-17,39,804.0,16.72,female,retired,30,FIXED,0
+10811,Courtney Warren,Courtney,Warren,"Unit 1061 Box 9669
+DPO AE 80681",AE,80681,1956-12-08,66,535.0,58.24,female,doctor,30,FIXED,1
+10812,Daniel Avila,Daniel,Avila,"PSC 3352, Box 6931
+APO AE 63005",AE,63005,1960-04-01,63,355.0,91.31,male,contractor,30,FIXED,1
+10813,Michael Williamson,Michael,Williamson,"018 Parks Union Suite 728
+Rossside, OH 33018",OH,33018,1976-08-04,46,796.0,35.33,male,mechanic,30,FIXED,0
+10814,Steven Holmes,Steven,Holmes,"8972 Hall Meadow
+South Pamelamouth, PR 49689",PR,49689,1963-10-05,59,351.0,94.19,male,lawyer,15,FIXED,1
+10815,Christopher Cook,Christopher,Cook,"84713 William Greens Apt. 706
+South Nicholaston, VA 67076",VA,67076,1967-09-29,55,823.0,34.28,male,fireman,30,FIXED,0
+10816,Jasmine Hudson,Jasmine,Hudson,"24079 Jim Lodge
+Haleyland, NV 27042",NV,27042,1964-03-02,59,560.0,57.83,female,stockbroker,30,FIXED,0
+10817,Shirley Hart,Shirley,Hart,"3877 Michaela Crest
+Erikaport, SC 64628",SC,64628,1963-05-05,59,609.0,46.14,female,electrician,30,FIXED,0
+10818,Brian Ramos,Brian,Ramos,"USNS Stevens
+FPO AP 20691",AP,20691,1997-06-16,25,764.0,42.33,male,dentist,30,FIXED,0
+10819,Brenda Martinez,Brenda,Martinez,"49963 Jodi Creek Suite 309
+New Jenniferland, AS 74085",AS,74085,1972-03-25,51,359.0,91.63,female,student,30,FIXED,1
+10820,Christopher Snyder,Christopher,Snyder,"4929 Clark Dam Apt. 952
+Daltonfurt, MI 87004",MI,87004,1964-11-12,58,805.0,30.2,male,fireman,30,FIXED,0
+10821,Miss Samantha Bailey,Samantha,Bailey,"USNV Gonzales
+FPO AP 38892",AP,38892,1979-02-10,44,456.0,62.49,female,student,30,FIXED,1
+10822,Scott Harper,Scott,Harper,"377 Scott Tunnel
+Robertmouth, MA 26892",MA,26892,1968-08-30,54,393.0,77.22,male,lawyer,30,FIXED,1
+10823,Aaron Hayden,Aaron,Hayden,"372 William Row Apt. 203
+Robertchester, VA 10610",VA,10610,1953-08-08,69,796.0,33.06,male,electrician,30,FIXED,0
+10824,Gina Kelley,Gina,Kelley,"99932 Samuel View Apt. 859
+New Eric, ID 85754",ID,85754,1993-02-11,30,797.0,27.82,female,student,30,FIXED,0
+10825,Claudia Gilmore,Claudia,Gilmore,"0360 Robinson Ferry
+West Nancy, PW 01101",PW,01101,1969-12-04,53,356.0,94.41,female,lawyer,30,FIXED,1
+10826,Sarah Stevenson,Sarah,Stevenson,"3004 Christopher Inlet Apt. 435
+West Breanna, AR 74393",AR,74393,1999-07-02,23,550.0,47.48,female,salesman,30,FIXED,0
+10827,Robyn Maddox,Robyn,Maddox,"PSC 2164, Box 9893
+APO AP 65656",AP,65656,1957-04-22,66,555.0,63.41,female,librarian,30,FIXED,0
+10828,Corey Parker,Corey,Parker,"596 Jeffrey Loop
+West Gracefurt, SD 61639",SD,61639,1987-12-10,35,611.0,60.98,male,teacher,15,FIXED,1
+10829,Mary Thomas,Mary,Thomas,"USS Robertson
+FPO AE 20833",AE,20833,1997-10-05,25,813.0,12.54,female,retired,15,FIXED,0
+10830,Jennifer Donaldson,Jennifer,Donaldson,"Unit 3024 Box 3240
+DPO AA 34960",AA,34960,1979-01-27,44,536.0,57.85,female,salesman,30,FIXED,1
+10831,Darin Hunter,Darin,Hunter,"9016 Keith Park
+Clarkefurt, MN 02821",MN,02821,1999-02-09,24,805.0,22.78,female,fireman,30,FIXED,0
+10832,Mr. Robert Ray,Robert,Ray,"PSC 0904, Box 6878
+APO AA 12555",AA,12555,1956-02-09,67,733.0,47.58,male,salesman,30,FIXED,1
+10833,James Kelly,James,Kelly,"72980 Singh Walks Apt. 330
+Cookton, NY 47658",NY,47658,1967-12-11,55,618.0,64.29,male,teacher,15,FIXED,0
+10834,Grant Baker,Grant,Baker,"PSC 1855, Box 9877
+APO AE 02249",AE,02249,1976-09-29,46,813.0,34.58,male,mechanic,30,FIXED,0
+10835,Kelly Ryan,Kelly,Ryan,"0279 Patterson Way
+Marshallshire, AZ 25695",AZ,25695,1976-06-05,46,343.0,82.56,female,dentist,30,FIXED,1
+10836,Christopher Ewing,Christopher,Ewing,"839 Ian Cliffs
+East David, KS 49664",KS,49664,1966-03-29,57,815.0,28.13,male,contractor,30,FIXED,0
+10837,Keith Aguirre,Keith,Aguirre,"79460 Contreras Ramp Suite 093
+West Thomas, MN 07656",MN,07656,1998-05-31,24,792.0,42.78,male,contractor,30,FIXED,0
+10838,Michael Shepard,Michael,Shepard,"740 Carly Points
+North Angelamouth, AK 05270",AK,05270,1997-12-22,25,363.0,91.48,male,contractor,30,FIXED,1
+10839,April Smith,April,Smith,"07906 Gregory Roads Apt. 602
+West Monicafort, FM 70117",FM,70117,1972-05-11,50,631.0,61.95,female,salesman,30,FIXED,0
+10840,Nicole Smith,Nicole,Smith,"3966 Emily Village Suite 578
+Rossview, MH 59352",MH,59352,1993-12-31,29,620.0,71.71,female,plumber,30,FIXED,0
+10841,Laura Johnson,Laura,Johnson,"61474 Crystal Keys
+Lake Lisaborough, MI 26934",MI,26934,1990-03-22,33,634.0,54.06,female,salesman,30,FIXED,0
+10842,Mrs. Emily Frazier,Emily,Frazier,"726 Cruz Bypass Apt. 191
+North Johnborough, FL 04067",FL,04067,2002-03-10,21,691.0,53.44,female,stockbroker,30,FIXED,0
+10843,Connie Armstrong,Connie,Armstrong,"34695 Harris Bypass
+North Melissa, CT 37799",CT,37799,1998-10-17,24,352.0,78.04,female,accountant,30,FIXED,1
+10844,David Carter,David,Carter,"0643 Jose Flats
+Deckerbury, PW 18809",PW,18809,1968-07-11,54,799.0,2.72,male,retired,30,FIXED,0
+10845,James Knight,James,Knight,"7615 John Orchard
+Rangelfort, OH 82277",OH,82277,1980-02-09,43,343.0,72.25,male,contractor,15,FIXED,1
+10846,Terry Hodges,Terry,Hodges,"3772 Andrea Centers
+Wilsonside, LA 30702",LA,30702,1976-03-08,47,794.0,40.97,male,teacher,30,FIXED,0
+10847,Kevin Humphrey,Kevin,Humphrey,"2244 Saunders Manors Apt. 388
+East Rhonda, HI 54181",HI,54181,1956-01-08,67,429.0,84.69,male,librarian,30,FIXED,1
+10848,Nathan Lee,Nathan,Lee,"3554 Shawn Street
+New Brianfurt, ME 84626",ME,84626,1991-02-27,32,340.0,61.7,male,fireman,30,FIXED,1
+10849,David Thomas,David,Thomas,"1215 Henry Hills Apt. 431
+Amandabury, TX 04280",TX,04280,1978-09-25,44,346.0,90.69,male,accountant,30,FIXED,1
+10850,Sarah Santiago,Sarah,Santiago,"61904 William Court Apt. 289
+Port Joshuaborough, GU 27426",GU,27426,1985-08-21,37,795.0,25.66,female,software developer,30,FIXED,0
+10851,Andrew Durham,Andrew,Durham,"73901 Jeremy Dale Apt. 982
+Houseland, ND 91423",ND,91423,1962-01-01,61,465.0,62.63,male,teacher,30,FIXED,1
+10852,Michelle Obrien,Michelle,Obrien,"726 Newton Plains
+Phillipsport, LA 33340",LA,33340,1984-09-08,38,805.0,33.34,female,librarian,30,FIXED,0
+10853,Brittany Turner,Brittany,Turner,"319 Ashley Ville Suite 021
+North Victoria, PA 38310",PA,38310,1973-04-29,49,804.0,39.08,female,software developer,30,FIXED,0
+10854,Peter Miller,Peter,Miller,"8992 Evans Camp Apt. 785
+Gaineshaven, GA 32969",GA,32969,1957-07-25,65,680.0,48.2,male,salesman,30,FIXED,0
+10855,Joseph Murray,Joseph,Murray,"4294 Ronnie Avenue
+Port Diane, NJ 91995",NJ,91995,1982-08-29,40,803.0,37.46,male,salesman,30,FIXED,0
+10856,Philip Henderson,Philip,Henderson,"05431 Charles Rapids Suite 608
+New Deborahmouth, GU 48337",GU,48337,1967-06-05,55,570.0,69.39,male,electrician,30,FIXED,0
+10857,Nicole Williams,Nicole,Williams,"64812 Cynthia Squares Apt. 948
+Traceymouth, NM 24245",NM,24245,1954-06-03,68,789.0,25.9,female,librarian,15,FIXED,0
+10858,Kyle Martin,Kyle,Martin,"38684 Melissa Villages Suite 321
+Barronmouth, WY 98619",WY,98619,1984-06-09,38,794.0,36.96,female,accountant,30,FIXED,1
+10859,Donna Valenzuela,Donna,Valenzuela,"99958 Bennett Gateway
+Staceyfurt, KS 53351",KS,53351,2002-04-06,21,689.0,44.63,female,librarian,30,FIXED,0
+10860,Julie Fernandez,Julie,Fernandez,"3088 Alec Forks Apt. 051
+Chrisstad, IN 54614",IN,54614,1969-06-24,53,527.0,59.04,female,mechanic,30,FIXED,1
+10861,Philip Collins,Philip,Collins,"762 Michael Burgs
+New Dylan, IN 42509",IN,42509,1975-10-24,47,707.0,28.81,male,plumber,15,FIXED,0
+10862,Monica Carter,Monica,Carter,"14435 Campos Passage
+North Dylan, AZ 54397",AZ,54397,1994-10-18,28,790.0,36.07,female,nurse,30,FIXED,1
+10863,Adam Roberson,Adam,Roberson,"703 Perez Plains Suite 078
+Christopherfurt, NV 59302",NV,59302,1993-10-30,29,741.0,50.76,male,contractor,15,FIXED,0
+10864,Jordan Lambert,Jordan,Lambert,"PSC 1369, Box 0662
+APO AE 76965",AE,76965,1969-11-25,53,554.0,46.0,male,salesman,30,FIXED,0
+10865,Erin Maldonado,Erin,Maldonado,"6324 James Valleys
+South Crystal, RI 84908",RI,84908,1982-10-26,40,684.0,62.78,female,accountant,30,FIXED,0
+10866,Michael Hall,Michael,Hall,"2154 Anderson Trace
+Port Melissahaven, IL 49949",IL,49949,1975-09-28,47,790.0,29.28,male,retired,30,FIXED,0
+10867,Andrea Hayes,Andrea,Hayes,"USNS Henderson
+FPO AE 94336",AE,94336,1952-02-23,71,807.0,50.07,female,electrician,30,FIXED,0
+10868,Michael Gonzales,Michael,Gonzales,"7865 Dawson Knoll
+Lake Holly, IN 86259",IN,86259,1956-03-26,67,351.0,90.46,male,fireman,30,FIXED,1
+10869,Gary Olsen,Gary,Olsen,"498 Anne Fields
+Bellshire, WY 22511",WY,22511,1977-12-28,45,818.0,43.52,male,accountant,30,FIXED,0
+10870,Cathy Santiago,Cathy,Santiago,"0464 Kenneth Island Apt. 680
+Melissafurt, MP 86886",MP,86886,1965-08-22,57,588.0,57.53,female,salesman,30,FIXED,0
+10871,Martin Tate,Martin,Tate,"7653 Brown Ridge Apt. 906
+Lake Antonioburgh, MN 39269",MN,39269,1961-11-28,61,389.0,59.38,male,doctor,30,FIXED,1
+10872,Donald Hughes,Donald,Hughes,"346 Lyons Ramp Apt. 413
+East Erin, TX 06655",TX,06655,1986-05-22,36,417.0,82.28,male,lawyer,30,FIXED,1
+10873,Dr. Stephanie Gomez,Stephanie,Gomez,"984 Carter Greens Apt. 977
+Jonathanview, HI 33785",HI,33785,1989-03-21,34,468.0,63.43,female,student,30,FIXED,1
+10874,William Hall,William,Hall,"75100 Theresa Crossing Suite 851
+West Sarah, MA 44138",MA,44138,1956-12-24,66,538.0,61.38,male,investment banker,30,FIXED,1
+10875,Matthew Bowers,Matthew,Bowers,"84772 Jennifer View
+North Rachel, MT 08664",MT,08664,1981-03-17,42,598.0,66.88,male,doctor,30,FIXED,0
+10876,Olivia Garrett,Olivia,Garrett,"609 Kennedy Glens
+Douglastown, MT 57192",MT,57192,1996-11-04,26,534.0,78.47,female,investment banker,30,FIXED,1
+10877,John Green,John,Green,"2363 Brian Mountains
+West Carolside, MI 94948",MI,94948,1964-03-02,59,622.0,48.08,male,salesman,30,FIXED,0
+10878,Bobby Miller,Bobby,Miller,"355 Tammy Street Apt. 758
+Justinshire, PR 31799",PR,31799,1950-02-01,73,798.0,22.37,male,stockbroker,30,FIXED,0
+10879,Albert Baker,Albert,Baker,"882 Richard Trail Suite 547
+South Maryland, WA 03286",WA,03286,1971-01-15,52,356.0,86.88,male,salesman,30,FIXED,1
+10880,Brian Patton MD,Brian,Patton,"7139 Robert Fort Apt. 315
+Lake Dustin, VT 90888",VT,90888,2002-10-04,20,803.0,17.78,male,retired,30,FIXED,0
+10881,Melissa Collins,Melissa,Collins,"8910 Cline Ports Apt. 376
+Lake Kimberly, FM 98355",FM,98355,1958-08-18,64,800.0,34.47,female,software developer,30,FIXED,0
+10882,Brenda Holmes,Brenda,Holmes,"PSC 9355, Box 0578
+APO AE 94112",AE,94112,1984-08-27,38,358.0,87.55,female,electrician,30,FIXED,1
+10883,Lindsey Thompson,Lindsey,Thompson,"771 Nichols Glens Suite 103
+Nguyenchester, NM 71297",NM,71297,1951-02-08,72,621.0,66.66,female,lawyer,30,FIXED,1
+10884,Colton Leblanc,Colton,Leblanc,"85486 Mackenzie Shoals
+Wayneburgh, UT 44213",UT,44213,1997-05-21,25,573.0,55.09,male,salesman,30,FIXED,0
+10885,Glenn Peters,Glenn,Peters,"7173 Jordan Knoll Suite 414
+Peterberg, NE 23052",NE,23052,1978-04-08,45,408.0,90.12,male,salesman,30,FIXED,1
+10886,Karen Frey,Karen,Frey,"86253 Kathleen Coves Suite 674
+Daltonland, AK 75547",AK,75547,1963-03-11,60,809.0,35.3,female,retired,30,FIXED,0
+10887,Erin Lara,Erin,Lara,"507 David Burgs
+East Anthonymouth, OH 43493",OH,43493,1958-12-26,64,811.0,40.55,female,contractor,30,FIXED,0
+10888,Meghan Wall,Meghan,Wall,"13110 Angela Ramp Suite 872
+Lorishire, AL 31630",AL,31630,1954-11-03,68,809.0,21.67,female,doctor,30,FIXED,1
+10889,Matthew Hood,Matthew,Hood,"4077 Diaz Vista Apt. 969
+Underwoodview, NH 54653",NH,54653,1966-08-27,56,355.0,88.55,male,mechanic,30,FIXED,1
+10890,Lisa Miller,Lisa,Miller,"9491 Winters Throughway
+Lake Jasonland, ME 29178",ME,29178,1969-06-08,53,804.0,42.87,female,librarian,30,FIXED,0
+10891,Emily Reynolds,Emily,Reynolds,"0235 Collins Courts Apt. 218
+Port Travisberg, MH 96781",MH,96781,1993-10-20,29,805.0,28.01,female,librarian,30,FIXED,0
+10892,Sara Hull,Sara,Hull,"887 Diane Course Apt. 132
+East Angel, SD 16737",SD,16737,1994-06-11,28,802.0,26.67,female,mechanic,30,FIXED,0
+10893,Joel Benitez,Joel,Benitez,"8995 Alicia Row
+Wilsontown, UT 31321",UT,31321,1961-05-12,61,388.0,62.1,male,salesman,30,FIXED,1
+10894,Mark Huynh,Mark,Huynh,"388 Kevin Cove
+North Jeff, WV 78842",WV,78842,2002-04-12,21,345.0,79.81,male,mason,30,FIXED,1
+10895,Michael Taylor,Michael,Taylor,"83123 Maddox Pine
+Danielschester, MP 96861",MP,96861,1978-06-01,44,576.0,55.79,male,lawyer,30,FIXED,0
+10896,Julian Moran,Julian,Moran,"11342 Bush Crescent
+Krauseside, MS 74377",MS,74377,1980-01-22,43,635.0,51.88,male,salesman,30,FIXED,0
+10897,Heather Brown,Heather,Brown,"70482 Heather Ferry
+Port Stacey, IN 04716",IN,04716,1952-08-03,70,553.0,68.28,female,salesman,30,FIXED,0
+10898,Laura Christensen,Laura,Christensen,"3699 Julie Throughway Suite 618
+Cookland, WA 56683",WA,56683,1954-09-23,68,759.0,43.17,female,fireman,30,FIXED,0
+10899,Tom Wilkins,Tom,Wilkins,"710 Wells Views Apt. 646
+Lake Marie, MO 94505",MO,94505,1959-03-31,64,535.0,60.91,male,librarian,30,FIXED,1
+10900,Holly Bryan,Holly,Bryan,"Unit 2762 Box 7636
+DPO AP 97659",AP,97659,1953-08-07,69,473.0,57.4,female,doctor,30,FIXED,1
+10901,Margaret Chen,Margaret,Chen,"USS Glover
+FPO AA 75363",AA,75363,1960-09-22,62,353.0,92.1,female,electrician,30,FIXED,1
+10902,Anthony Jones,Anthony,Jones,"74688 Dana Row Apt. 065
+Port Mason, WA 97596",WA,97596,1995-04-21,28,808.0,24.53,male,plumber,30,FIXED,0
+10903,Kimberly Patterson,Kimberly,Patterson,"Unit 7371 Box 9378
+DPO AP 46948",AP,46948,1985-03-23,38,690.0,36.13,female,librarian,30,FIXED,0
+10904,Elizabeth Chambers,Elizabeth,Chambers,"4568 Mueller Dale
+Vargasmouth, TN 95650",TN,95650,1956-12-18,66,623.0,50.91,female,electrician,30,FIXED,0
+10905,Vanessa Brown,Vanessa,Brown,"6323 John Island Suite 974
+Port Justinchester, FM 92451",FM,92451,1952-09-18,70,803.0,50.92,female,fireman,30,FIXED,0
+10906,Kimberly Robinson,Kimberly,Robinson,"8426 Mcmahon Roads Apt. 756
+Lake Denise, FL 49704",FL,49704,1958-09-08,64,800.0,21.16,female,salesman,30,FIXED,0
+10907,Jessica Whitaker,Jessica,Whitaker,"PSC 8346, Box 7871
+APO AP 10087",AP,10087,1966-04-19,57,514.0,69.05,female,accountant,30,FIXED,1
+10908,Wanda Parker,Wanda,Parker,"977 Andrew Route
+Port Brian, CA 23162",CA,23162,1966-04-13,57,799.0,28.85,female,contractor,30,FIXED,0
+10909,Autumn Browning,Autumn,Browning,"1401 Denise Walk Apt. 587
+South Melissafurt, CT 67672",CT,67672,1983-11-16,39,804.0,40.22,female,software developer,30,FIXED,0
+10910,Ryan Diaz,Ryan,Diaz,"76291 Anne Park Suite 646
+Port Benjamin, CT 83564",CT,83564,1960-07-21,62,566.0,59.65,male,student,30,FIXED,0
+10911,Robert Martin,Robert,Martin,"836 Cannon Gardens Suite 861
+Manningchester, KY 70397",KY,70397,1974-01-06,49,791.0,35.11,male,salesman,30,FIXED,0
+10912,Austin Bradshaw,Austin,Bradshaw,"334 Curtis Path
+Lake Brad, PA 05789",PA,05789,2000-10-06,22,487.0,54.07,male,salesman,30,FIXED,1
+10913,Nicole Anderson,Nicole,Anderson,"182 John Fork
+West Zacharyton, GU 35747",GU,35747,1961-01-05,62,370.0,90.78,female,lawyer,30,FIXED,1
+10914,Stephen Baker,Stephen,Baker,"33423 Richard Throughway Suite 292
+Meredithborough, NE 33516",NE,33516,1968-01-29,55,793.0,36.56,male,lawyer,30,FIXED,0
+10915,Travis Campbell,Travis,Campbell,"672 Andrea Circles Apt. 744
+East Craigland, DC 27848",DC,27848,1995-09-06,27,346.0,59.76,male,contractor,30,FIXED,1
+10916,Jenna Sloan,Jenna,Sloan,"17238 Marcus Lock
+Williammouth, MI 61404",MI,61404,1954-08-16,68,811.0,27.86,female,mechanic,15,FIXED,0
+10917,Cynthia Smith,Cynthia,Smith,"5101 Mcgee Key
+Jasonton, NY 26567",NY,26567,1992-09-20,30,345.0,69.25,female,librarian,30,FIXED,1
+10918,Willie Cooper,Willie,Cooper,"7416 Larsen Islands
+Jonathanton, HI 46539",HI,46539,1981-02-24,42,799.0,20.49,male,fireman,15,FIXED,0
+10919,David Hill Jr.,David,Hill,"20198 Adam Crest Apt. 346
+Weststad, GU 15053",GU,15053,1956-09-07,66,571.0,51.41,male,electrician,30,FIXED,0
+10920,Jonathan Trevino,Jonathan,Trevino,"9458 Jeremy Burg
+South Ericfort, SD 44807",SD,44807,1964-02-24,59,354.0,79.07,male,doctor,30,FIXED,1
+10921,Kara Edwards,Kara,Edwards,"4695 Kyle Mews Suite 326
+East Matthewport, AK 93802",AK,93802,1952-02-09,71,791.0,29.03,female,nurse,30,FIXED,1
+10922,Emma Williamson,Emma,Williamson,"0016 Williams Row Apt. 461
+East Jordan, FL 18816",FL,18816,1956-07-26,66,355.0,72.23,female,lawyer,30,FIXED,1
+10923,Mercedes Mccarty,Mercedes,Mccarty,"223 Cody Mews Suite 469
+North Mary, WY 83865",WY,83865,1962-01-05,61,692.0,48.56,female,software developer,30,FIXED,0
+10924,Jennifer Carter,Jennifer,Carter,"USCGC Ryan
+FPO AE 06424",AE,06424,1954-06-01,68,345.0,84.56,female,salesman,30,FIXED,1
+10925,Stacey Murray,Stacey,Murray,"1107 Herrera Drives
+Parkerbury, WY 75252",WY,75252,1958-10-26,64,826.0,27.31,female,retired,30,FIXED,0
+10926,Jenna Morales,Jenna,Morales,"92788 Carolyn Meadow
+Hamiltonside, CO 50059",CO,50059,1965-10-26,57,788.0,46.74,female,nurse,30,FIXED,1
+10927,Cindy Henderson,Cindy,Henderson,"639 Diaz Plaza Suite 305
+Lake Davidtown, MH 56415",MH,56415,1969-11-30,53,573.0,64.81,female,fireman,30,FIXED,1
+10928,Samuel Cooper,Samuel,Cooper,"48356 Fitzgerald Fords Suite 685
+New Barbaraview, GU 73443",GU,73443,1968-02-16,55,652.0,45.13,male,salesman,30,FIXED,0
+10929,Jason Daniels,Jason,Daniels,"584 Donna Light
+Matthewbury, FM 62840",FM,62840,1960-01-23,63,340.0,72.48,male,fireman,15,FIXED,1
+10930,Kevin Carter,Kevin,Carter,"2442 Willie Plain
+Kevintown, SC 06631",SC,06631,1967-08-14,55,358.0,77.8,male,accountant,30,FIXED,1
+10931,David Mays,David,Mays,"2326 Laurie Fort Apt. 661
+Laurenton, HI 11942",HI,11942,1968-06-27,54,808.0,34.4,male,dentist,30,FIXED,0
+10932,Daniel Henderson,Daniel,Henderson,"346 Swanson Point
+South Christopher, IN 68433",IN,68433,1984-08-12,38,631.0,78.78,male,salesman,30,FIXED,0
+10933,Jessica Herrera,Jessica,Herrera,"1299 Jason Spur
+Jessicabury, PR 88403",PR,88403,1978-01-31,45,808.0,0.13,female,retired,30,FIXED,0
+10934,Steven Fisher,Steven,Fisher,"0338 Greer Knoll Suite 851
+Crystalshire, WA 42794",WA,42794,1967-12-08,55,357.0,88.89,male,salesman,30,FIXED,1
+10935,Jessica Sanchez,Jessica,Sanchez,"8233 Brendan Canyon
+Foxville, TX 43032",TX,43032,1979-04-09,44,738.0,44.24,female,nurse,30,FIXED,1
+10936,Misty Oconnor,Misty,Oconnor,"790 Sara Terrace Suite 434
+Petersonmouth, CA 12633",CA,12633,1988-08-30,34,345.0,94.56,female,nurse,30,FIXED,1
+10937,Evan Schroeder,Evan,Schroeder,"7515 John Junction
+Wesleymouth, AS 43916",AS,43916,1956-12-07,66,801.0,34.39,male,mason,30,FIXED,0
+10938,Sarah Rodriguez,Sarah,Rodriguez,"32810 Perry Via Apt. 224
+Port Benjamin, MP 45022",MP,45022,1981-04-19,42,668.0,58.78,female,teacher,30,FIXED,0
+10939,Molly Russell,Molly,Russell,"08596 Amber Underpass
+West Josephshire, NC 95604",NC,95604,1997-02-27,26,354.0,87.46,female,contractor,30,FIXED,1
+10940,Shawn Kim,Shawn,Kim,"42810 Thompson Courts
+New Mathew, DC 45686",DC,45686,1971-01-24,52,783.0,26.15,male,fireman,30,FIXED,0
+10941,Jennifer Whitaker,Jennifer,Whitaker,"15650 Guerra Views
+Port Ethanville, AL 47567",AL,47567,1999-01-31,24,456.0,74.96,female,teacher,30,FIXED,1
+10942,Anne Long,Anne,Long,"66487 Wells Plain Suite 466
+Daleton, ID 97739",ID,97739,1988-10-24,34,579.0,52.2,female,nurse,30,FIXED,1
+10943,Sergio Rich,Sergio,Rich,"239 John Club Suite 122
+Port Samuel, MP 70668",MP,70668,1952-12-31,70,771.0,52.22,male,accountant,30,FIXED,0
+10944,Diana Harris,Diana,Harris,"4712 Chung Street
+East Tashaland, MO 45622",MO,45622,1970-07-18,52,405.0,81.23,female,nurse,30,FIXED,1
+10945,Meredith Mercado,Meredith,Mercado,"59236 Joshua Track
+Port Michelle, UT 47888",UT,47888,1966-04-26,56,359.0,82.55,female,dentist,30,FIXED,1
+10946,Alexis Long,Alexis,Long,"113 Sherry Isle Suite 576
+Tuckerfurt, MO 05374",MO,05374,1996-05-12,26,802.0,20.99,male,contractor,30,FIXED,0
+10947,Danielle Chambers,Danielle,Chambers,"319 Gonzalez Flat Apt. 394
+East Racheltown, MI 63606",MI,63606,1983-12-18,39,709.0,37.51,female,mechanic,30,FIXED,0
+10948,Molly Mitchell,Molly,Mitchell,"54366 Robbins Bridge
+East Ashley, NM 17048",NM,17048,1998-09-23,24,577.0,55.39,female,fireman,30,FIXED,0
+10949,Alejandro Garcia,Alejandro,Garcia,"2926 Cunningham Extensions Suite 597
+Port Kathymouth, MD 46263",MD,46263,1983-09-21,39,804.0,25.3,male,student,30,FIXED,0
+10950,Amy Thompson,Amy,Thompson,"1057 Katherine Court
+South Shannon, LA 02657",LA,02657,1992-12-20,30,368.0,78.28,female,librarian,30,FIXED,1
+10951,Linda Johnson,Linda,Johnson,"Unit 9440 Box 4385
+DPO AP 61175",AP,61175,1978-04-07,45,697.0,46.75,female,dentist,30,FIXED,0
+10952,April Lynn,April,Lynn,"962 Charles Pines Suite 925
+South Rachelburgh, PR 82542",PR,82542,1985-09-24,37,799.0,27.0,female,librarian,30,FIXED,0
+10953,Linda Brady,Linda,Brady,"99899 Lisa Track
+North Eduardo, UT 52240",UT,52240,1956-12-29,66,814.0,50.97,female,data scientist,30,FIXED,0
+10954,Amy Morton,Amy,Morton,"5011 Samuel Highway Suite 564
+East Michaelport, KS 17063",KS,17063,1957-02-07,66,362.0,74.33,female,contractor,30,FIXED,1
+10955,Julie Mendoza,Julie,Mendoza,"66242 Michael Views
+South Nicole, NH 00697",NH,00697,1977-05-13,45,802.0,35.12,female,contractor,30,FIXED,0
+10956,Daniel Kirby,Daniel,Kirby,"63465 Miller Stravenue Apt. 147
+Allenchester, ME 19151",ME,19151,1993-07-22,29,798.0,22.5,male,librarian,30,FIXED,0
+10957,Vincent Mcconnell,Vincent,Mcconnell,"3825 Joshua Drive Suite 964
+Williamsfurt, DC 27353",DC,27353,1953-01-06,70,792.0,39.72,male,salesman,30,FIXED,0
+10958,Eric Hunt,Eric,Hunt,"215 Brandon Mills
+Richtown, NC 90378",NC,90378,1986-04-30,36,511.0,70.23,male,stockbroker,30,FIXED,1
+10959,Jessica Clay,Jessica,Clay,"65330 Richard Cove
+Davidshire, HI 71237",HI,71237,1968-03-19,55,591.0,60.62,female,contractor,30,FIXED,0
+10960,Dr. Timothy Barr,Timothy,Barr,"6645 Thompson Plaza Apt. 038
+North Tracy, LA 73913",LA,73913,1977-11-21,45,820.0,35.86,male,dentist,30,FIXED,0
+10961,Molly Brown,Molly,Brown,"93808 Jennifer Radial Apt. 061
+Michelleton, MD 89486",MD,89486,1969-09-23,53,798.0,41.77,female,stockbroker,30,FIXED,0
+10962,Ryan Hensley,Ryan,Hensley,"758 Catherine Road Suite 073
+Wallacetown, SC 14203",SC,14203,1999-08-08,23,478.0,68.09,male,salesman,30,FIXED,1
+10963,Katie Smith,Katie,Smith,"821 Carr Well
+Rebeccafurt, AL 48320",AL,48320,1963-08-19,59,348.0,85.13,female,lawyer,30,FIXED,1
+10964,Danny Anderson,Danny,Anderson,"674 Cynthia Manor Apt. 190
+Jessicaberg, MA 05818",MA,05818,1951-03-22,72,422.0,89.32,male,plumber,30,FIXED,1
+10965,Jamie James,Jamie,James,"0704 Vasquez Curve
+North Eric, MH 09777",MH,09777,1967-07-13,55,331.0,90.28,female,nurse,30,FIXED,1
+10966,Tiffany Jensen,Tiffany,Jensen,"557 Diaz Pass Suite 027
+Hendersonhaven, SD 48659",SD,48659,1992-05-05,30,337.0,93.83,female,accountant,30,FIXED,1
+10967,James Foster,James,Foster,"17259 Marc Highway
+Garciaview, NV 56122",NV,56122,1962-07-23,60,795.0,27.88,male,doctor,30,FIXED,0
+10968,Abigail Ward,Abigail,Ward,"4271 Renee Harbors
+Singletonfurt, NM 46352",NM,46352,1995-02-07,28,590.0,64.28,female,doctor,30,FIXED,0
+10969,Casey Ramos,Casey,Ramos,"73959 Cervantes Plain Suite 332
+Rebeccaburgh, IN 33628",IN,33628,1986-03-31,37,593.0,47.22,female,dentist,30,FIXED,0
+10970,Michael Bryant,Michael,Bryant,"8515 Mary Court Apt. 430
+Davidmouth, AS 58452",AS,58452,1992-08-23,30,365.0,74.19,male,salesman,30,FIXED,1
+10971,Lisa Weber,Lisa,Weber,"USNV Ellis
+FPO AA 66656",AA,66656,1978-05-01,44,775.0,33.56,female,teacher,15,FIXED,0
+10972,Elizabeth Ramirez,Elizabeth,Ramirez,"623 James Mountains
+Rosalesmouth, RI 40058",RI,40058,1952-08-28,70,368.0,88.6,female,software developer,15,FIXED,1
+10973,James Frost,James,Frost,"985 Matthew Plains
+Port Williammouth, ID 16664",ID,16664,1985-05-29,37,797.0,31.93,male,mechanic,30,FIXED,0
+10974,Nicholas Schmidt,Nicholas,Schmidt,"USCGC Blake
+FPO AP 76872",AP,76872,1980-01-11,43,786.0,24.87,male,contractor,30,FIXED,0
+10975,Rebecca Jensen,Rebecca,Jensen,"0004 Jones Freeway Apt. 648
+Hoffmantown, NJ 44497",NJ,44497,1970-04-16,53,690.0,42.26,female,nurse,30,FIXED,1
+10976,Michelle Schmidt,Michelle,Schmidt,"25241 Chan Valleys Apt. 267
+New Lisa, NC 64114",NC,64114,1961-04-10,62,805.0,30.57,female,librarian,30,FIXED,0
+10977,Kathleen Bush,Kathleen,Bush,"336 Randall Wells
+New Latoya, IL 95614",IL,95614,1961-08-26,61,801.0,46.48,female,accountant,30,FIXED,0
+10978,Michelle Tucker,Michelle,Tucker,"13585 Payne Common
+Robertfurt, NE 04438",NE,04438,1956-11-13,66,798.0,25.84,female,mechanic,30,FIXED,0
+10979,Mike Vasquez,Mike,Vasquez,"791 Jose Square
+Gonzalezburgh, ME 99899",ME,99899,1974-04-10,49,805.0,35.51,male,librarian,30,FIXED,0
+10980,Rhonda Garcia,Rhonda,Garcia,"678 Bobby Mission Suite 158
+North Paulchester, AL 07854",AL,07854,1989-07-15,33,431.0,79.65,female,plumber,30,FIXED,1
+10981,Mrs. Darlene Mckee MD,Darlene,Mckee,"2144 Warren Viaduct Suite 600
+Chaneyborough, ID 13681",ID,13681,1989-02-20,34,573.0,46.47,female,salesman,15,FIXED,0
+10982,Ashlee Webb,Ashlee,Webb,"954 Alvarado Mill
+Dianaville, MA 05033",MA,05033,1969-05-14,53,612.0,59.25,female,mechanic,30,FIXED,0
+10983,Deborah Evans,Deborah,Evans,"34820 Anderson Locks Suite 845
+Wallmouth, ID 11908",ID,11908,1990-07-17,32,674.0,48.14,female,student,30,FIXED,0
+10984,Betty Hernandez,Betty,Hernandez,"55938 Brianna Cape Apt. 762
+East Rachelfort, OR 05206",OR,05206,1959-10-16,63,663.0,51.97,female,electrician,30,FIXED,0
+10985,Jeffrey Martinez,Jeffrey,Martinez,"1223 Sean Viaduct
+Julieton, MO 40951",MO,40951,1954-11-07,68,808.0,32.94,male,plumber,30,FIXED,0
+10986,Andrea Stuart,Andrea,Stuart,"608 Chris Terrace Apt. 766
+Port Denise, CT 67318",CT,67318,1981-02-06,42,818.0,43.52,female,librarian,30,FIXED,0
+10987,Stacy Dyer,Stacy,Dyer,"4879 Bennett Plaza
+Barrmouth, NH 57278",NH,57278,1997-10-25,25,601.0,66.57,female,teacher,30,FIXED,0
+10988,John Foster,John,Foster,"623 Catherine Hills Apt. 523
+Lonniefort, VA 03868",VA,03868,1975-11-18,47,812.0,25.15,male,librarian,30,FIXED,0
+10989,Katie Bell,Katie,Bell,"8538 Thompson Crest
+West Kaitlynmouth, KY 40150",KY,40150,1967-03-13,56,475.0,71.63,female,teacher,30,FIXED,1
+10990,William Watson,William,Watson,"0771 Samuel Turnpike Suite 281
+Andradeborough, CT 63162",CT,63162,1956-05-12,66,431.0,65.59,male,accountant,30,FIXED,1
+10991,Jacob Hernandez,Jacob,Hernandez,"88849 Smith Burgs Apt. 372
+Port Samantha, HI 33807",HI,33807,1969-06-05,53,800.0,3.23,male,retired,30,FIXED,0
+10992,Gary Ramirez,Gary,Ramirez,"54311 Matthew Point Suite 236
+North Dawn, KY 06592",KY,06592,1958-11-22,64,541.0,70.1,male,doctor,30,FIXED,1
+10993,Jacqueline Hall,Jacqueline,Hall,"37235 Parker Drives
+New Amyborough, NM 20625",NM,20625,1969-03-25,54,799.0,24.62,female,retired,30,FIXED,0
+10994,Michelle Gordon,Michelle,Gordon,"112 Jill Harbors
+New Andrewville, PW 57638",PW,57638,1968-01-02,55,569.0,47.28,female,salesman,30,FIXED,0
+10995,Hunter Petty,Hunter,Petty,"558 Whitney Loaf
+Lake Nicole, KY 74566",KY,74566,1995-02-26,28,795.0,23.74,male,lawyer,30,FIXED,0
+10996,Michelle Norton,Michelle,Norton,"7299 Jason Fork
+Port Christopherton, LA 28421",LA,28421,1993-04-08,30,804.0,46.55,female,software developer,30,FIXED,0
+10997,Michael Villanueva,Michael,Villanueva,"USNV Garner
+FPO AA 24903",AA,24903,1987-11-24,35,794.0,31.63,male,stockbroker,30,FIXED,0
+10998,Gloria Fields,Gloria,Fields,"Unit 2911 Box 5176
+DPO AE 22351",AE,22351,1998-07-05,24,721.0,58.06,female,data scientist,15,FIXED,0
+10999,Cheryl Ross,Cheryl,Ross,"USCGC Williams
+FPO AE 80931",AE,80931,1987-03-21,36,738.0,56.34,female,accountant,30,FIXED,0
